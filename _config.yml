@@ -29,7 +29,8 @@ github_username: franceslinyc
 linkedin_username: franceslinyc
 
 header_pages:
- - about.md
+ - about.markdown
+ - projects.markdown
 
 # Build settings
 theme: minima
