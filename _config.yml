@@ -2,7 +2,7 @@ title: Frances Lin
 # author: GitHub User
 email: franceslinyc@gmail.com
 description: MS student in statistics at the Oregon State University
-show_excerpts: false # set to true to show excerpts on the homepage
+show_excerpts: true # set to true to show excerpts on the homepage
 
 # Minima date format
 # refer to https://shopify.github.io/liquid/filters/date/ if you want to customize this
