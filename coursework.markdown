@@ -33,5 +33,6 @@ permalink: /coursework/
 - ESS 420 Geographic Information Systems (GIS) <br>
 - ESS 418 Geoscience Communication <br>
 - STAT 311 Statistical Methods <br>
-- MATH 124 Calculus I <br>
 - MATH 125 Calculus II <br>
+- MATH 124 Calculus I <br>
+
