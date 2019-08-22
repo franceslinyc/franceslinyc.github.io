@@ -1,5 +1,5 @@
 ---
 layout: page
-title: When I AM Not..
+title: When I Am Not..
 permalink: /wheniamnot../
 ---
