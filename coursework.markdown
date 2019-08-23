@@ -6,33 +6,33 @@ permalink: /coursework/
 
 #### Scheduled coursework 
 **MS, Statistics, Oregon State Univeristy (OSU), 2019 -** <br>
-- ST 557 Multivariate Analysis <br>
-- ST 561 Theory of Statistics I <br>
-- ST 551 Statistical Methods I <br>
+- Multivariate Analysis, ST 557 <br>
+- Theory of Statistics I, ST 561 <br>
+- Statistical Methods I, ST 551 <br>
 
 #### Releveant coursework 
 **MS, Statistics, Oregon State Univeristy (OSU), 2019 -**<br>
-- ST 422 Mathematical Statistics II <br>
-- ST 421 Mathematical Statistics I <br>
+- Mathematical Statistics II, ST 422 <br>
+- Mathematical Statistics I, ST 421 <br>
 
 **MAS, Applied Statistics, Colorado State Univeristy (CSU), 2019** <br>
-- STAA 566 Data Visualization Methods <br> <i> using R </i>
-- STAA 565 Quantitative Reasoning <br> <i> using R </i>
-- STAT 512 Design and Data Analysis for Researchers II <br> <i> using R </i>
-- MATH 369 Linear Algebra I <br>
+- Data Visualization Methods, STAA 566 <br> <i> using R </i>
+- Quantitative Reasoning, STAA 565 <br> <i> using R </i>
+- Design and Data Analysis for Researchers II, STAT 512 <br> <i> using R </i>
+- Linear Algebra I, MATH 369 <br>
 
 **Post-bac, Mathematics, University of Washington (UW), 2016 - 2018** <br>
-- MATH 327 Real Analysis I (Advanced Calculus I) <br>
-- MATH 300 Mathematical Reasoning <br>
-- MATH 308 Linear Algebra <br>
-- MATH 307 Differential Equations <br>
-- MATH 126 Calculus III (Multivariable Calculus) <br>
-- CS 142 Computer Programming I <br> <i> using Java </i>
+- Real Analysis I (Advanced Calculus I), MATH 327 <br>
+- Mathematical Reasoning, MATH 300 <br>
+- Linear Algebra, MATH 308 <br>
+- Differential Equations, MATH 307 <br>
+- Calculus III (Multivariable Calculus), MATH 126 <br>
+- Computer Programming I, CS 142 <br> <i> using Java </i>
 
 **BS, Earth and Space Sciences, University of Washington (UW), 2014** <br>
-- ESS 420 Geographic Information Systems (GIS) <br> <i> using ArcGIS </i>
-- ESS 418 Geoscience Communication <br>
-- STAT 311 Statistical Methods <br> <i> using R </i>
-- MATH 125 Calculus II <br>
-- MATH 124 Calculus I <br>
+- Geographic Information Systems (GIS), ESS 420 <br> <i> using ArcGIS </i>
+- Geoscience Communication, ESS 418 <br>
+- Statistical Methods, STAT 311 <br> <i> using R </i>
+- Calculus II, MATH 125 <br>
+- Calculus I, MATH 124 <br>
 
