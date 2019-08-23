@@ -5,7 +5,7 @@ permalink: /projects/
 ---
 
 
-### Regression Analysis in R
+#### Regression Analysis in R
 2019
 
 Title: An Investigation Into State Standardized Tests for Elementary School Students in the Denver, Colorado Area
