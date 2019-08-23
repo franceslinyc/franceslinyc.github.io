@@ -5,7 +5,7 @@ permalink: /about/
 ---
 
 
-Thanks for visiting my site! I am a first-year MS student in statistics at the Oregon State University (OSU). I am most interested in: 
+Thanks for visiting my site! I am a first-year MS student in statistics at the Oregon State University (OSU). I am particularly interested in: 
 
 - Spatial Statistics  
 - Environmental Statistics 
