@@ -4,13 +4,13 @@ title: Coursework
 permalink: /coursework/
 ---
 
-<b> Scheduled coursework: </b> <br>
+#### Scheduled coursework 
 MS, Statistics, Oregon State Univeristy (OSU), 2019 - <br>
 - ST 557 Multivariate Analysis <br>
 - ST 561 Theory of Statistics I <br>
 - ST 551 Statistical Methods I <br>
 
-<b> Releveant coursework: </b> <br>
+#### Releveant coursework 
 MS, Statistics, Oregon State Univeristy (OSU), 2019 - <br>
 - ST 422 Mathematical Statistics II <br>
 - ST 421 Mathematical Statistics I <br>
