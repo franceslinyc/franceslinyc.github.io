@@ -1,3 +1,10 @@
+---
+layout: post
+title:  "An Investigation of Grade 3-5 Students’ State Test Scores in the Denver, Colorado Area"
+date:   2019-05-17 10:32:07 -0700
+categories: jekyll update
+---
+
 ## I. DESCRIPTION
 
 The purpose of the study is to investigate the relationship between state test score of elementary school students in the Denver, Colorado area and other variables thought to be related. Data were provided as part of the project, which included school ID, student ID, state test score, English portion of the score, math portion of the score, gender, student’s grade, and parents’ employment for a total of 1402 elementary school students in the Denver, Colorado area (n=1402). A total of 3236 test scores were recorded (obs=3236). State test score is the main response to test, and the rest of the variables are predictors of interest. 
