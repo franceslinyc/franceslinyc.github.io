@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "An Investigation of Grade 3-5 Students’ State Test Scores in the Denver, Colorado Area"
+title:  "Project: An Investigation of Grade 3-5 Students’ State Test Scores in the Denver, Colorado Area"
 date:   2019-05-17 10:32:07 -0700
 categories: jekyll update
 ---
@@ -20,38 +20,40 @@ library(car)
 load(file="ScoreData.RData")
 str(ScoreData)
 summary(ScoreData)
-#Reorder columns in ScoreData 
+# Reorder columns in ScoreData 
 ScoreData<-ScoreData[c(1,5,4,6,7,2,8,3)]
-#Pairwise Scatterplots using ggplot2
+# Pairwise Scatterplots using ggplot2
 ggpairs(ScoreData[c(-1,-2)]) + ggtitle("Pairwise Scatterplots")
 ```
 
 ## II. ANALYSIS
 
 **1.	The first part of the analysis investigates the relationship between state test score (t.score) and English portion of the score (english) vs. the relationship between state test score (t.score) math potion of the score (math).** 
+
 Initially, it appears that the relationship is consistent across test portion. Specifically, a higher English score is associated with a higher test score, a higher math score is associated with a higher test score, and both relationships appear linear. (It is worth nothing that the LOESS model does not fit well, and log-transformation is recommended.) However, when parents’ employment type is controlled for, it appears that the relationship is not consistent across test portion. For example, when both parents are non-manual labors (employ=4), the relationship appears consistent. On the other hand, when both parents are currently employed (employ=8), one relationship appears polynomial, and the other appears logarithmic. 
 
 ```{r}
-#Ques1a: x=english, y=t.score, based on employ
+# Ques1a: x=english, y=t.score, based on employ
 g1<-ggplot(ScoreData, aes(x=english, y=t.score))+labs(title="Plot of Test Score by English Score", x="English portion of score", y="test score")
 geng0<-g1+geom_point()+geom_smooth(method="loess")
 geng<-g1+geom_point()+geom_smooth(method="loess")+facet_grid(.~employ)+ggtitle("Plot of Test Score by English Score based on Parents' Employment")
 
-#Ques1b: x=math, y=t.score, based on employ
+# Ques1b: x=math, y=t.score, based on employ
 g11<-ggplot(ScoreData, aes(x=math, y=t.score))+labs(title="Plot of Test Score by Math Score", x="math portion of score", y="test score")
 gmath0<-g11+geom_point()+geom_smooth(method="loess")
 gmath<-g11+geom_point()+geom_smooth(method="loess")+facet_grid(.~employ)+ggtitle("Plot of Test Score by English Score based on Parents' Employment")
 
-#Combine Plots of Test Score by English Score and by Math Score
+# Combine Plots of Test Score by English Score and by Math Score
 grid.arrange(geng0, gmath0, nrow=2)
 grid.arrange(geng, gmath, nrow=2)
 ```
 
 **2.	The second part of the analysis investigates the relationship between state test score (t.score) and student’s grade (grade).**
+
 Initially, it appears that there is significant mean difference for at least one test score (p=0.4244). However, when parents’ employment type is controlled for, it appears that there is no significant mean difference in test scores (p=0.5039). For example, when both parents are currently employed (employ=8), although the boxplot shows that mean test score for grade 5 is significantly higher than mean test score for grade 3 and that for grade 4, it is only because this group has sparse data. 
 
 ```{r}
-#Ques2: x=grade, y=t.score, based on employ
+# Ques2: x=grade, y=t.score, based on employ
 g2<-ggplot(ScoreData, aes(x=grade, y=t.score, color=grade))+labs(title="Plot of Test Score by Grade", y="test score")
 g2+geom_jitter()
 g2+geom_jitter()+facet_grid(.~employ)+ggtitle("Plot of Test Score by Grade based on Parents' Employment")
@@ -60,10 +62,11 @@ g2+geom_boxplot()+facet_grid(.~employ)+ggtitle("Plot of Test Score by Grade base
 ```
 
 **3.	The third part of the analysis investigates the relationship between state test score (t.score) and student’s gender (gender).**  
+
 Initially, it appears that there is significant mean difference for at least one test score (p= 0.007251 **). When parents’ employment type is controlled for, it appears that there is significant mean difference in test scores (p= 0.001711 **). For example, when both parents are currently employed (employ=8), the spreads are clearly different. 
 
 ```{r}
-#Ques3: x=gender, y=t.score, based on employ
+# Ques3: x=gender, y=t.score, based on employ
 g3<-ggplot(ScoreData, aes(x=gender, y=t.score, color=gender))+labs(title="Plot of Test Score by Gender", y="test score")
 g3+geom_dotplot(binaxis='y', stackdir='center', stackratio=1.5, dotsize=0.5)+stat_summary(fun.y=mean, geom="point", shape=18, size=3, color="red")
 g3+geom_dotplot(binaxis='y', stackdir='center', stackratio=1.5, dotsize=0.5)+stat_summary(fun.y=mean, geom="point", shape=18, size=3, color="red")+facet_wrap(~employ)+ggtitle("Plot of Test Score by Gender based on Parents' Employment")
