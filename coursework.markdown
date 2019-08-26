@@ -5,13 +5,13 @@ permalink: /coursework/
 ---
 
 #### Scheduled coursework 
-**MS, Statistics, Oregon State Univeristy (OSU), 2019 -** <br>
+**MS, Statistics, Oregon State Univeristy (OSU), 2019 — Now** <br>
 - Multivariate Analysis, ST 557 <br>
 - Theory of Statistics I, ST 561 <br>
 - Statistical Methods I, ST 551 <br>
 
 #### Releveant coursework 
-**MS, Statistics, Oregon State Univeristy (OSU), 2019 -**<br>
+**MS, Statistics, Oregon State Univeristy (OSU), 2019 — Now**<br>
 - Mathematical Statistics II, ST 422 <br>
 - Mathematical Statistics I, ST 421 <br>
 
@@ -21,7 +21,7 @@ permalink: /coursework/
 - Design and Data Analysis for Researchers II, STAT 512 <br> <i> using R </i>
 - Linear Algebra I, MATH 369 <br>
 
-**Post-bac, Mathematics, University of Washington (UW), 2016 - 2018** <br>
+**Post-bac, Mathematics, University of Washington (UW), 2016 — 2018** <br>
 - Real Analysis I (Advanced Calculus I), MATH 327 <br>
 - Mathematical Reasoning, MATH 300 <br>
 - Linear Algebra, MATH 308 <br>
