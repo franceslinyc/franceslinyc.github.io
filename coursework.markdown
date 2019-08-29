@@ -12,7 +12,7 @@ permalink: /coursework/
 
 #### Completed coursework 
 **MS, Statistics, Oregon State Univeristy (OSU), 2019 — Now**<br>
-- Mathematical Statistics I, II
+- Probability and Mathematical Statistics I, II
 
 **MAS, Applied Statistics, Colorado State Univeristy (CSU), 2019 [Deferred Admission]** <br>
 - Data Visualization Methods (Data Visualization methods, Exploratory Data Analysis, 3D Plotting) <br> <i> using R </i> [[See my project]](https://franceslinyc.github.io/projects/)
