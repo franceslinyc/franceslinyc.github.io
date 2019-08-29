@@ -10,7 +10,7 @@ permalink: /coursework/
 - Theory of Statistics I <br>
 - Statistical Methods I <br>
 
-#### Releveant coursework 
+#### Completed coursework 
 **MS, Statistics, Oregon State Univeristy (OSU), 2019 — Now**<br>
 - Mathematical Statistics I, II
 
@@ -23,7 +23,7 @@ permalink: /coursework/
 **Post-bac, Mathematics, University of Washington (UW), 2016 — 2018** <br>
 - Real Analysis I (Advanced Calculus I), Mathematical Reasoning, Linear Algebra, Differential Equations, Calculus III (Multivariable Calculus), and Computer Programming I <i> using Java </i>
 
-#### Other releveant coursework 
+#### Other relevant coursework
 **BS, Earth and Space Sciences, University of Washington (UW), 2014** <br>
 - Geographic Information Systems (GIS) <i> using ArcGIS </i>, Geoscience Communication, Statistical Methods <i> using R </i>, and Calculus I, II<br>
 
