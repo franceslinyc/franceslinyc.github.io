@@ -21,4 +21,4 @@ Prior to OSU, I attended Colorado State University (CSU)'s Master of Applied Sta
 When I am not musing on math or stats or programming in R, I enjoy playing beach volleyball, skiing, traveling, being outdoors, and watching thriller and dark comedy films/TV series on Netflix. 
 
 Work: [[See my projects]](https://franceslinyc.github.io/projects/)
-Fun : [[See my gallery]](https://franceslinyc.github.io/whatelse/) 
+Fun: [[See my gallery]](https://franceslinyc.github.io/whatelse/) 
