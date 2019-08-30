@@ -30,8 +30,5 @@ Feb, 2018 visiting brother Jacob at Googleplex, CA
 ![](https://raw.githubusercontent.com/franceslinyc/franceslinyc.github.io/master/_photos/2%2C%202018%20at%20Stevens%20Pass%2C%20WA.jpg)
 Feb, 2018 at Stevens Pass, WA
 
-![](https://raw.githubusercontent.com/franceslinyc/franceslinyc.github.io/master/_photos/2%2C%202018%20at%20Stevens%20Pass%2C%20WA.jpg)
-Feb, 2018 at Stevens Pass, WA
-
 ![](https://raw.githubusercontent.com/franceslinyc/franceslinyc.github.io/master/_photos/2%2C%202018%20at%20Snow%20Lake%2C%20WA%201.jpg)
 Feb, 2018 at Snow Lake, WA
