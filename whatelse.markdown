@@ -22,10 +22,10 @@ August, 2018 at Alki Beach, WA
 August, 2018 at Alki Beach, WA
 
 ![](https://raw.githubusercontent.com/franceslinyc/franceslinyc.github.io/master/_photos/4%2C%202018%20at%20Dakeng%20Hiking%20Trails%2C%20Taiwan.jpg)
-April, 2018 at 2018 at Dakeng Hiking Trails, Taiwan
+April, 2018 at Dakeng Hiking Trails, Taiwan
 
 ![](https://raw.githubusercontent.com/franceslinyc/franceslinyc.github.io/master/_photos/4%2C%202018%20at%20Dakeng%20Hiking%20Trails%2C%20Taiwan%201.jpg)
-April, 2018 at 2018 at Dakeng Hiking Trails, Taiwan
+April, 2018 at Dakeng Hiking Trails, Taiwan
 
 ![](https://raw.githubusercontent.com/franceslinyc/franceslinyc.github.io/master/_photos/2%2C%202018%20at%20Stevens%20Pass%2C%20WA.jpg)
 Feb, 2018 at Stevens Pass, WA
