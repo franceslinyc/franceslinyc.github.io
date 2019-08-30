@@ -10,7 +10,7 @@ When I am not musing on math or stats or programming in R, I enjoy playing beach
 <br>
 <br>
 ![](https://raw.githubusercontent.com/franceslinyc/franceslinyc.github.io/master/_photos/5%2C%202019%20at%20Rocky%20Mountain%20National%20Park.jpg)
-May, 2019 at Rocky Mountain National Park, CO 
+May (yes, May!), 2019 at Rocky Mountain National Park, CO 
 
 ![](https://raw.githubusercontent.com/franceslinyc/franceslinyc.github.io/master/_photos/3%2C%202019%20at%20Boulder%2C%20CO.jpg)
 March, 2019 visiting my cousin Wei at Boulder, CO
