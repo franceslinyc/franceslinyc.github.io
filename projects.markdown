@@ -6,9 +6,8 @@ permalink: /projects/
 
 
 #### Regression Analysis
-May 2019
 
-**Regression Analysis of Education data in R**
+**Regression Analysis of Education data in R**, CSU, Mar 2019 – May 2019
 
 Title: An Investigation Into State Standardized Tests for Elementary School Students in the Denver, Colorado Area
 
@@ -16,9 +15,7 @@ Description: I implemented a locally estimated scatterplot smoothing (LOESS) mod
 [[PDF]](https://github.com/franceslinyc/Regression-Analysis-of-Education-data-in-R-2019/blob/master/Lin_STAA%20566%20Final%20Project.pdf)
 [[Repository]](https://github.com/franceslinyc/Regression-Analysis-of-Education-data-in-R-2019). 
 
-May 2019
-
-**Regression Analysis of Environment data in R**
+**Regression Analysis of Environment data in R**, CSU, Jan 2019 – May 2019
 
 Title: Environment vs. Economy: The Relationship Between CO2 Per Capita And Other Indicators and The Environmental Kuzents Curve
 
