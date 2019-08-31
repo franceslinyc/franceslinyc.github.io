@@ -4,11 +4,11 @@ title: What Else?
 permalink: /whatelse/
 ---
 
-When I am not musing on math or stats or programming in R, I enjoy playing beach volleyball, skiing, traveling, being outdoors, and watching thriller and dark comedy films/TV series on Netflix. 
+<p align="justify"> When I am not musing on math or stats or programming in R, I enjoy playing beach volleyball, skiing, traveling, being outdoors, and watching thriller and dark comedy films/TV series on Netflix. </p>
+
 <br>
 <br>
-<br>
-<br>
+
 ![](https://raw.githubusercontent.com/franceslinyc/franceslinyc.github.io/master/_photos/5%2C%202019%20at%20Rocky%20Mountain%20National%20Park.jpg)
 May (yes, May!), 2019 at Rocky Mountain National Park, CO 
 
