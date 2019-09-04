@@ -5,13 +5,13 @@ permalink: /coursework/
 ---
 
 #### Scheduled coursework 
-**MS, Statistics, Oregon State Univeristy (OSU), 2019 — Now** <br>
+**MS, Statistics, Oregon State Univeristy (OSU), 2019 — Present** <br>
 - Multivariate Analysis <br>
 - Theory of Statistics I <br>
 - Statistical Methods I <br>
 
 #### Completed coursework 
-**MS, Statistics, Oregon State Univeristy (OSU), 2019 — Now**<br>
+**MS, Statistics, Oregon State Univeristy (OSU), 2019 — Present**<br>
 - Probability and Mathematical Statistics I, II
 
 **MAS, Applied Statistics, Colorado State Univeristy (CSU), 2019** <br>
