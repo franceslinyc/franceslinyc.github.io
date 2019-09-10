@@ -23,7 +23,6 @@ permalink: /coursework/
 - Design and Data Analysis for Researchers II (Multiple Regression, Fixed Effects models, Mixed Effects models) <br> <i> using R </i> [[See my project]](https://franceslinyc.github.io/projects/)
 - Linear Algebra I <br>
 <br/>
-<br/>
 
 **Post-bac, Mathematics, University of Washington (UW), 2016 — 2018** <br>
 - Real Analysis I (Advanced Calculus I), Mathematical Reasoning, Linear Algebra, Differential Equations, Calculus III (Multivariable Calculus), and Computer Programming I <i> using Java </i>
