@@ -7,20 +7,20 @@ permalink: /projects/
 #### Big Data
 
 **Coming soon**, OSU, Mar 2019 – Jun 2019
-
-
+<br/>
+<br/>
 
 #### Time Series Analysis
 
 **Coming soon**, OSU, Jan 2019 – Mar 2019
-
-
+<br/>
+<br/>
 
 #### Multivariate Analysis
 
 **Coming soon**, OSU, Sep 2019 – Dec 2019
-
-
+<br/>
+<br/>
 
 #### Linear Models
 
@@ -29,8 +29,8 @@ permalink: /projects/
 **Coming soon**, OSU, Jan 2019 – Mar 2019
 
 **Coming soon**, OSU, Sep 2019 – Dec 2019
-
-
+<br/>
+<br/>
 
 #### Regression Analysis
 
@@ -41,7 +41,7 @@ permalink: /projects/
 <p align="justify"> Description: I implemented a locally estimated scatterplot smoothing (LOESS) model and an analysis of covariance (ANCOVA) model to explore the relationship between state standardized tests and several related variables. Data were provided as part of the project, which included test scores, English portion of the score, math portion of the score, student’s gender, student’s grade, and parents’ employment for a total of 1402 elementary school students in the Denver, Colorado area (n=1402). Project was completed in R: base R and ggplot2. </p>
 
 [[PDF]](https://github.com/franceslinyc/Regression-Analysis-of-Education-data-in-R-2019/blob/master/Lin_STAA%20566%20Final%20Project.pdf)
-[[Repository]](https://github.com/franceslinyc/Regression-Analysis-of-Education-data-in-R-2019). 
+[[Repository]](https://github.com/franceslinyc/Regression-Analysis-of-Education-data-in-R-2019) 
 
 **Regression Analysis of Environment data in R**, CSU, Jan 2019 – May 2019
 
