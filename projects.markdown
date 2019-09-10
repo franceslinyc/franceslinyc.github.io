@@ -4,6 +4,26 @@ title: Projects
 permalink: /projects/
 ---
 
+#### Big Data
+
+**Coming soon**, OSU, Mar 2019 – Jun 2019
+
+#### Time Series Analysis
+
+**Coming soon**, OSU, Jan 2019 – Mar 2019
+
+#### Multivariate Analysis
+
+**Coming soon**, OSU, Sep 2019 – Dec 2019
+
+#### Linear Models
+
+**Coming soon**, OSU, Mar 2019 – Jun 2019
+
+**Coming soon**, OSU, Jan 2019 – Mar 2019
+
+**Coming soon**, OSU, Sep 2019 – Dec 2019
+
 
 #### Regression Analysis
 
