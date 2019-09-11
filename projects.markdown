@@ -22,7 +22,7 @@ permalink: /projects/
 <br/>
 <br/>
 
-#### Linear Models
+#### Statistical Methods (Linear Models)
 
 **Coming soon**, OSU, Mar 2019 – Jun 2019
 
