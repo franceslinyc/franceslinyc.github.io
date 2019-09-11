@@ -6,13 +6,13 @@ permalink: /projects/
 
 #### Big Data
 
-**Coming soon**, OSU, Mar 2019 – Jun 2019
+**Coming soon**, OSU, Mar 2020 – Jun 2020
 <br/>
 <br/>
 
 #### Time Series Analysis
 
-**Coming soon**, OSU, Jan 2019 – Mar 2019
+**Coming soon**, OSU, Jan 2020 – Mar 2020
 <br/>
 <br/>
 
@@ -24,9 +24,9 @@ permalink: /projects/
 
 #### Statistical Methods (Linear Models)
 
-**Coming soon**, OSU, Mar 2019 – Jun 2019
+**Coming soon**, OSU, Mar 2020 – Jun 2020
 
-**Coming soon**, OSU, Jan 2019 – Mar 2019
+**Coming soon**, OSU, Jan 2020 – Mar 2020
 
 **Coming soon**, OSU, Sep 2019 – Dec 2019
 <br/>
