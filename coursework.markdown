@@ -6,9 +6,9 @@ permalink: /coursework/
 
 #### Scheduled coursework 
 **MS, Statistics, Oregon State Univeristy (OSU), 2019 — Present** <br>
-- Multivariate Analysis <br>
+- Multivariate Analysis (Dimension Reduction, Principal Components Analysis (PCA), Multidimensional Scaling (MDS), Factor Analysis, Cluster Analysis) <br>
 - Theory of Statistics I <br>
-- Statistical Methods I <br>
+- Statistical Methods I (Descriptive statistics, Statistical Inference, Test Statistics)<br>
 <br/>
 
 #### Completed coursework 
@@ -19,7 +19,7 @@ permalink: /coursework/
 
 **MAS, Applied Statistics, Colorado State Univeristy (CSU), 2019** <br>
 - Data Visualization Methods (Data Visualization methods, Exploratory Data Analysis, 3D Plotting) <br> <i> using R </i> [[See my project]](https://franceslinyc.github.io/projects/)
-- Quantitative Reasoning (Confounding, Interaction, Biases and Statistical Fallacies) <br> <i> using R </i> 
+- Quantitative Reasoning (Confounding, Interaction, Biases, Statistical Fallacies) <br> <i> using R </i> 
 - Design and Data Analysis for Researchers II (Multiple Regression, Fixed Effects models, Mixed Effects models) <br> <i> using R </i> [[See my project]](https://franceslinyc.github.io/projects/)
 - Linear Algebra I <br>
 <br/>
