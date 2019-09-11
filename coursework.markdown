@@ -6,8 +6,8 @@ permalink: /coursework/
 
 #### Scheduled coursework 
 **MS, Statistics, Oregon State Univeristy (OSU), 2019 — Present** <br>
-- Multivariate Analysis (Dimension Reduction, Principal Components Analysis (PCA), Multidimensional Scaling (MDS), Factor Analysis, Cluster Analysis) <br>
-- Theory of Statistics I <br>
+- Multivariate Analysis (Principal Components Analysis (PCA), Factor Analysis, Cluster Analysis, Discriminant Analysis, Multidimensional Scaling (MDS)) <br>
+- Theory of Statistics I (Probability Distributions, Sampling Distributions, Order Statistic)<br>
 - Statistical Methods I (Descriptive statistics, Statistical Inference, Test Statistics)<br>
 <br/>
 
