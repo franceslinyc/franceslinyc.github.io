@@ -4,12 +4,12 @@ title: Projects
 permalink: /projects/
 ---
 
-#### Big Data Analysis
+#### Large and Complex Data Sets (Big Data)
 
 **Coming soon**, OSU, Mar 2020 – Jun 2020
-<br/>
+
 **Coming soon**, OSU, Mar 2020 – Jun 2020
-<br/>
+
 **Coming soon**, OSU, Mar 2020 – Jun 2020
 <br/>
 <br/>
