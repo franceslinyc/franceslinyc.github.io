@@ -4,8 +4,12 @@ title: Projects
 permalink: /projects/
 ---
 
-#### Big Data
+#### Big Data Analysis
 
+**Coming soon**, OSU, Mar 2020 – Jun 2020
+<br/>
+**Coming soon**, OSU, Mar 2020 – Jun 2020
+<br/>
 **Coming soon**, OSU, Mar 2020 – Jun 2020
 <br/>
 <br/>
