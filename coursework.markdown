@@ -7,8 +7,8 @@ permalink: /coursework/
 #### Scheduled coursework 
 **MS, Statistics, Oregon State Univeristy (OSU), 2019 — Present** <br>
 - Multivariate Analysis (Principal Components Analysis (PCA), Factor Analysis, Discriminant Analysis, Cluster Analysis, Multidimensional Scaling (MDS)) <br>
-- Theory of Statistics I (Probability Distributions, Sampling Distributions, Order Statistic) <br>
 - Statistical Methods I (Descriptive Statistics, Statistical Inference, Test Statistics) <br>
+- Theory of Statistics I (Probability Distributions, Sampling Distributions, Order Statistic) <br/>
 <br/>
 
 #### Completed coursework 
@@ -21,7 +21,8 @@ permalink: /coursework/
 - Data Visualization Methods (Exploratory Data Analysis, Multipanel Conditioning, 3D Plotting) <br> <i> using R (base R, lattice, ggplot2)</i> [[See my project]](https://franceslinyc.github.io/projects/)
 - Quantitative Reasoning (Confounding, Interaction, Biases, Statistical Fallacies) <br> <i> using R (base R, car, ggplot2)</i> 
 - Design and Data Analysis for Researchers II (Multiple Regression, Fixed Effects models, Mixed Effects models) <br> <i> using R (base R, dplyr, car, ggplot2)</i> [[See my project]](https://franceslinyc.github.io/projects/)
-- Linear Algebra I <br>
+- Linear Algebra I 
+<br/>
 <br/>
 
 **Post-bac, Mathematics, University of Washington (UW), 2016 — 2018** <br>
