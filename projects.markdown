@@ -28,11 +28,11 @@ permalink: /projects/
 
 #### Statistical Methods (Linear Models)
 
-**Coming soon**, OSU, Mar 2020 – Jun 2020
+**Coming soon**, Corvallis, OR, Mar 2020 – Jun 2020
 
-**Coming soon**, OSU, Jan 2020 – Mar 2020
+**Coming soon**, Corvallis, OR, Jan 2020 – Mar 2020
 
-**Coming soon**, OSU, Sep 2019 – Dec 2019
+**Coming soon**, Corvallis, OR, Sep 2019 – Dec 2019
 <br/>
 <br/>
 
