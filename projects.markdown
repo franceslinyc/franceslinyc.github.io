@@ -6,23 +6,23 @@ permalink: /projects/
 
 #### Large and Complex Data Sets (Big Data)
 
-**Coming soon**, OSU, Mar 2020 – Jun 2020
+**Coming soon**, Corvallis, OR, Mar 2020 – Jun 2020
 
-**Coming soon**, OSU, Mar 2020 – Jun 2020
+**Coming soon**, Corvallis, OR, Mar 2020 – Jun 2020
 
-**Coming soon**, OSU, Mar 2020 – Jun 2020
+**Coming soon**, Corvallis, OR, Mar 2020 – Jun 2020
 <br/>
 <br/>
 
 #### Time Series Analysis
 
-**Coming soon**, OSU, Jan 2020 – Mar 2020
+**Coming soon**, Corvallis, OR, Jan 2020 – Mar 2020
 <br/>
 <br/>
 
 #### Multivariate Analysis
 
-**Coming soon**, OSU, Sep 2019 – Dec 2019
+**Coming soon**, Corvallis, OR, Sep 2019 – Dec 2019
 <br/>
 <br/>
 
@@ -38,7 +38,7 @@ permalink: /projects/
 
 #### Regression Analysis
 
-**Regression Analysis of Education data in R**, CSU, Mar 2019 – May 2019
+**Regression Analysis of Education data in R**, Fort Collins, CO, Mar 2019 – May 2019
 
 <p align="justify"> Title: An Investigation Into State Standardized Tests for Elementary School Students in the Denver, Colorado Area </p>
 
@@ -47,7 +47,7 @@ permalink: /projects/
 [[PDF]](https://github.com/franceslinyc/Regression-Analysis-of-Education-data-in-R-2019/blob/master/Lin_STAA%20566%20Final%20Project.pdf)
 [[Repository]](https://github.com/franceslinyc/Regression-Analysis-of-Education-data-in-R-2019) 
 
-**Regression Analysis of Environment data in R**, CSU, Jan 2019 – May 2019
+**Regression Analysis of Environment data in R**, Fort Collins, CO, Jan 2019 – May 2019
 
 <p align="justify"> Title: Environment vs. Economy: The Relationship Between CO2 Per Capita And Other Indicators and The Environmental Kuzents Curve </p>
 
