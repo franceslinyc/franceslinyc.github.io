@@ -21,7 +21,7 @@ permalink: /coursework/
 - Data Visualization Methods (Exploratory Data Analysis (EDA), Multipanel Conditioning, 3D Plotting) <br> <i> using R (base R, lattice, ggplot2)</i> [[See my project]](https://franceslinyc.github.io/projects/)
 - Quantitative Reasoning (Confounding, Interaction, Biases & Statistical Fallacies) <br> <i> using R (base R, car, ggplot2)</i> 
 - Design and Data Analysis for Researchers II (Multiple Regression, Model Diagnostics, Fixed & Mixed Effects models) <br> <i> using R (base R, dplyr, car, ggplot2)</i> [[See my project]](https://franceslinyc.github.io/projects/)
-- Linear Algebra I 
+- Linear Algebra I (Vector Spaces, Linear Transformations, Eigenvalues and Eigenvectors) 
 <br/>
 <br/>
 
