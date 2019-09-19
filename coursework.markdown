@@ -4,7 +4,7 @@ title: Coursework
 permalink: /coursework/
 ---
 #### Overview 
-<p align="justify"> As a visual-spatial person, I  have found mind mapping to be one of the most effective way of learning, besides getting involved in projects. However, please note that some of my work cannot be made public, as they contain solutions for past HWs and quizzes of the courses taken. </p>
+<p align="justify"> This year, major parts of our coursework focus on building the fundamentals: statistical methods and theories. Next year, I aim to expand beyond statistical models and theories to include additional machine learning algorithms. </p>
 
 (some of the major topics discussed) <br/>
 [some of the work using R intensively] 
