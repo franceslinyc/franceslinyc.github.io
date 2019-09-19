@@ -5,7 +5,7 @@ permalink: /coursework/
 ---
 <p align="justify"> As a visual-spatial person, I  have found mind mapping to be one of the most effective way of learning, besides getting involved in projects. However, please note that some of my work cannot be made public, as they contain solutions for past HWs and quizzes of the courses taken. </p>
 <br/>
-<br/>
+
 [using R intensively] <br/>
 (major topics discussed)
 <br/>
