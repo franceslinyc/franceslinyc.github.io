@@ -4,7 +4,7 @@ title: Experience
 permalink: /experience/
 ---
 
-#### Consulting Services, Statistics Student Consulting Service - Oregon State University
+#### Statistical Consulting Services
 
-**Coming soon**, Corvallis, OR, 2020 – 
+**Coming soon**, Statistics Student Consulting Service, Corvallis, OR, 2020 – 
 
