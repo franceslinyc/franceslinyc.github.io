@@ -3,8 +3,8 @@ layout: page
 title: Coursework
 permalink: /coursework/
 ---
+#### Overview 
 <p align="justify"> As a visual-spatial person, I  have found mind mapping to be one of the most effective way of learning, besides getting involved in projects. However, please note that some of my work cannot be made public, as they contain solutions for past HWs and quizzes of the courses taken. </p>
-<br/>
 
 (some of the major topics discussed) <br/>
 [some of the work using R intensively] 
