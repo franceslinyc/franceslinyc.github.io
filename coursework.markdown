@@ -3,10 +3,12 @@ layout: page
 title: Coursework
 permalink: /coursework/
 ---
+As a visual-spatial person, I  have found making connections to be one of the most effective way of learning, besides getting involved in projects. However, please note that some of my work cannot be made public, as they contain solutions for past HWs and quizzes of the courses taken. 
+
 
 #### Scheduled coursework 
 **MS, Statistics, Oregon State Univeristy, 2019 — Present** <br>
-- Multivariate Analysis (Dimensionality Reduction, Principal Components Analysis (PCA), Factor Analysis, Discriminant Analysis, Cluster Analysis, Multidimensional Scaling (MDS)) <br>
+- Multivariate Analysis (Dimensionality Reduction: Principal Components Analysis (PCA), Discriminant Analysis, Multidimensional Scaling (MDS); Factor Analysis; Cluster Analysis) <br>
 - Statistical Methods (Linear Models) I <br>
 - Theory of Statistics I (Probability Distributions, Sampling Distributions, Order Statistic) <br/>
 <br/>
@@ -19,8 +21,8 @@ permalink: /coursework/
 
 **MAS, Applied Statistics, Colorado State Univeristy, 2019** <br>
 - Data Visualization Methods (Exploratory Data Analysis (EDA), Multipanel Conditioning, 3D Plotting) <br> <i> using R (base R, lattice, ggplot2)</i> [[See my project]](https://franceslinyc.github.io/projects/)
-- Quantitative Reasoning (Confounding, Interaction, Biases & Statistical Fallacies) <br> <i> using R (base R, car, ggplot2)</i> 
-- Design and Data Analysis for Researchers II (Multiple Regression, Model Selection & Diagnostics, Fixed & Mixed Effects models) <br> <i> using R (base R, dplyr, car, ggplot2)</i> [[See my project]](https://franceslinyc.github.io/projects/)
+- Quantitative Reasoning (Confounding; Interaction; Biases & Statistical Fallacies: Regression Toward the Mean, Data Snooping, Post-Hoc Hypothesis Testing) <br> <i> using R (base R, car, ggplot2)</i> [HWs & Quizzes]
+- Design and Data Analysis for Researchers II (Multiple Regression: ANCOVA, Model Selection & Diagnostics, Logistic Regression; Experimental Design: Fixed & Mixed Effects models) <br> <i> using R (base R, dplyr, car, ggplot2)</i> [[See my project]](https://franceslinyc.github.io/projects/)
 - Linear Algebra I (Matrix Multiplication, Vector Spaces, Linear Transformations, Determinant, Eigenvalues & Eigenvectors) 
 <br/>
 <br/>
