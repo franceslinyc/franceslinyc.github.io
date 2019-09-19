@@ -4,6 +4,6 @@ title: Consulting
 permalink: /consulting/
 ---
 
-#### Statistical Consulting Services
+#### Consulting Services provided by the Statistics Student Consulting Service
 
-**Coming soon**, Corvallis, OR
+**Coming soon**, Corvallis, OR, 2020 – 
