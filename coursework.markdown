@@ -4,7 +4,8 @@ title: Coursework
 permalink: /coursework/
 ---
 As a visual-spatial person, I  have found making connections to be one of the most effective way of learning, besides getting involved in projects. However, please note that some of my work cannot be made public, as they contain solutions for past HWs and quizzes of the courses taken. 
-
+<br/>
+<br/>
 
 #### Scheduled coursework 
 **MS, Statistics, Oregon State Univeristy, 2019 — Present** <br>
