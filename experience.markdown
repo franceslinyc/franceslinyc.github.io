@@ -14,4 +14,10 @@ Student Consultant, Oregon State University, Corvallis, OR, 2020 –
 
 #### Project
 
- [[See a list of my completed and scheduled projects]](https://franceslinyc.github.io/projects/) 
+ [[See a list of my scheduled and completed projects]](https://franceslinyc.github.io/projects/) 
+<br/>
+<br/>
+
+#### Coursework 
+
+ [[See a list of my scheduled and completed coursework]](https://franceslinyc.github.io/coursework/) 
