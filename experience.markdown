@@ -6,7 +6,9 @@ permalink: /experience/
 
 #### Statistical Consulting Services
 
-**Coming soon**, Statistics Student Consulting Service, Corvallis, OR, 2020 – 
+Student Consultant, Oregon State University, Corvallis, OR, 2020 – 
+
+**Coming soon** 
 <br/>
 <br/>
 
