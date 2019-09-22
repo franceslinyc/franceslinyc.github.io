@@ -22,7 +22,12 @@ permalink: /projects/
 
 #### Multivariate Analysis
 
-**Coming soon**, Corvallis, OR, Sep 2019 – Dec 2019
+**Principal Component Analysis (PCA) of Census data in R**, Corvallis, OR, Sep 2019 – Dec 2019
+
+<i> Potential Project for ST 557 Multivariate Analysis
+<p align="justify"> Title: </p>
+
+<p align="justify"> Description: </p>
 <br/>
 <br/>
 
