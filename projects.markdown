@@ -22,10 +22,10 @@ permalink: /projects/
 
 #### Multivariate Analysis
 
-**Principal Component Analysis (PCA) of Census data in R**, Corvallis, OR, Sep 2019 – Dec 2019
+**Principal Component Analysis (PCA), K-Nearest Neighbor (K-NN) and K-Means Clustering of Wine Quality data in R**, Corvallis, OR, Sep 2019 – Dec 2019
 
-<i> Potential Project for ST 557 Multivariate Analysis
-<p align="justify"> Title: </p>
+<i> Final Project for ST 557 Multivariate Analysis
+<p align="justify"> Title: Red vs. White Wine: Inference, Classification, and Clustering Based On Wine Quality and Chemical Attributes </p>
 
 <p align="justify"> Description: </p>
 <br/>
