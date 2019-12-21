@@ -13,13 +13,17 @@ permalink: /coursework/
 
 #### Scheduled coursework 
 **MS, Statistics, Oregon State Univeristy, 2019 — Present** <br>
-- Multivariate Analysis (Principal Components Analysis (PCA), Classification & Discriminant Analysis, Clustering, Multidimensional Scaling (MDS)) <br> <i> using R </i>
-- Statistical Methods (Linear Models) I <br> <i> using R </i>
-- Theory of Statistics I (Probability Distributions, Sampling Distributions, Order Statistic) <br/>
+- Time Series (Autoregressive Integrated Moving Average (ARIMA) Model, Forecasting, Spectral Analysis) <br> <i> using R </i> 
+- Statistical Methods (Linear Models) II (Simple, Multiple Linear Regression, Weighted Regression, Nonlinear Regression, Linear Models for Binary Data) <br> <i> using R </i> 
+- Theory of Statistics II (Convergence, Sufficiency, Point Estimation: Maximum Likelihood, Bayes)
+<br/>
 <br/>
 
 #### Completed coursework 
 **MS, Statistics, Oregon State Univeristy, 2019 — Present**<br>
+- Multivariate Analysis (Principal Components Analysis (PCA), Classification & Discriminant Analysis, Clustering, Multidimensional Scaling (MDS)) <br> <i> using R </i> [[See my project]](https://franceslinyc.github.io/projects/)
+- Statistical Methods I (Parametric Tests, Nonparametric Tests, Tests of Proportions, Binary Data) <br> <i> using R </i> [6 HWs]
+- Theory of Statistics I (Probability Distributions, Sampling Distributions, Order Statistic) 
 - Probability and Mathematical Statistics I, II
 <br/>
 <br/>
@@ -28,7 +32,7 @@ permalink: /coursework/
 - Data Visualization Methods (Exploratory Data Analysis (EDA), Multipanel Conditioning, 3D Plotting) <br> <i> using R (base R, lattice, ggplot2)</i> [[See my project]](https://franceslinyc.github.io/projects/)
 - Quantitative Reasoning (Confounding; Interaction; Biases & Statistical Fallacies: Regression Toward the Mean, Data Snooping, Post-Hoc Hypothesis Testing) <br> <i> using R (base R, car, ggplot2)</i> [3 HWs & 1 quiz]
 - Design and Data Analysis for Researchers II (Multiple Regression: ANCOVA, Model Selection & Diagnostics, Logistic Regression; Experimental Design: Fixed & Mixed Effects models) <br> <i> using R (base R, dplyr, car, ggplot2)</i> [[See my project]](https://franceslinyc.github.io/projects/)
-- Linear Algebra I (Matrix Multiplication, Vector Spaces, Linear Transformations, Determinant, Eigenvalues & Eigenvectors) 
+- Linear Algebra I
 <br/>
 <br/>
 
