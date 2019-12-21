@@ -21,7 +21,7 @@ permalink: /coursework/
 
 #### Completed coursework 
 **MS, Statistics, Oregon State Univeristy, 2019 — Present**<br>
-- Multivariate Analysis (Principal Components Analysis (PCA), Classification & Discriminant Analysis, Clustering, Multidimensional Scaling (MDS)) <br> <i> using R </i> [[See my project]](https://franceslinyc.github.io/projects/)
+- Multivariate Analysis (Multidimensional Scaling (MDS), Principal Components Analysis (PCA), Classification & Discriminant Analysis, Clustering) <br> <i> using R </i> [[See my project]](https://franceslinyc.github.io/projects/)
 - Statistical Methods I (Parametric Tests, Nonparametric Tests, Tests of Proportions, Binary Data) <br> <i> using R </i> [6 HWs]
 - Theory of Statistics I (Probability Distributions, Sampling Distributions, Order Statistic) 
 - Probability and Mathematical Statistics I, II
