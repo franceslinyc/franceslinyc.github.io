@@ -22,12 +22,12 @@ permalink: /projects/
 
 #### Multivariate Analysis
 
-**Principal Component Analysis (PCA), K-Nearest Neighbor (K-NN) and K-Means Clustering of Wine Quality data in R**, Corvallis, OR, Sep 2019 – Dec 2019
+**Multivariate Analysis of Wine Quality data in R**, Corvallis, OR, Sep 2019 – Dec 2019
 
 <i> Final Project for ST 557 Multivariate Analysis
 <p align="justify"> Title: Red vs. White Wine: Inference, Classification, and Clustering Based On Wine Quality and Chemical Attributes </p>
 
-<p align="justify"> Description: </p>
+<p align="justify"> Description: I implemented inferential and predictive methods such as Hotelling T2 test, multivariate analysis of variance (MANOVA), principal component analysis (PCA), k-nearest neighbor (K-NN) classification, and k-means clustering to distinguish white wine from red wine and to identify key variables in determining red wine quality. Data were provided as part of the project, which included quality score, fixed acidity, volatile acidity, citric acid, residual sugar, chlorides, free sulfur dioxide, total sulfur dioxide, density, pH, sulphates, and alcohol for a total of 1599 red wine (n1=1599) and a total of 4898 white wine (n2=4898). Project was completed in R. </p>
 <br/>
 <br/>
 
