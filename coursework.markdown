@@ -14,7 +14,7 @@ permalink: /coursework/
 #### Scheduled coursework 
 **MS, Statistics, Oregon State Univeristy, 2019 — Present** <br>
 - Time Series (Autoregressive Integrated Moving Average (ARIMA) Model, Forecasting, Spectral Analysis) <br> <i> using R </i> 
-- Statistical Methods (Linear Models) II (Simple, Multiple Linear Regression, Weighted Regression, Nonlinear Regression, Linear Models for Binary Data) <br> <i> using R </i> 
+- Statistical Methods (Linear Models) II (Simple & Multiple Linear Regression, Weighted Regression, Nonlinear Regression, Linear Models for Binary Data) <br> <i> using R </i> 
 - Theory of Statistics II (Convergence, Sufficiency, Point Estimation: Maximum Likelihood, Bayes)
 <br/>
 <br/>
