@@ -36,7 +36,7 @@ permalink: /coursework/
 <br/>
 <br/>
 
-**Post-bac, Mathematics, University of Washington, 2016 — 2018** <br>
+**Post-Bac, Mathematics, University of Washington, 2016 — 2018** <br>
 - Real Analysis (Advanced Calculus) I, Mathematical Reasoning, Linear Algebra, Differential Equations, Calculus III (Multivariable Calculus), and Computer Programming I <i> using Java</i>
 <br/>
 <br/>
