@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-<p align="justify"> Thanks for visiting my site! I am a first-year MS student in statistics at the Oregon State University (OSU). I am particularly interested in: </p>
+<p align="justify"> Thanks for visiting my site! I am a second-year MS student in statistics at the Oregon State University (OSU). I am particularly interested in: </p>
 
 - Spatial Statistics  
 - Spatio-Temporal Statistics 
