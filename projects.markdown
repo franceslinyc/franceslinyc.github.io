@@ -3,10 +3,13 @@ layout: page
 title: Projects
 permalink: /projects/
 ---
+#### Statistical Modeling
+<br/>
+<br/>
+
+#### Data Analysis Projects
 
 #### Large and Complex Data Sets (Big Data)
-
-**Coming soon**, Corvallis, OR, Mar 2020 – Jun 2020
 
 **Coming soon**, Corvallis, OR, Mar 2020 – Jun 2020
 
@@ -31,13 +34,9 @@ permalink: /projects/
 <br/>
 <br/>
 
-#### Statistical Methods (Linear Models)
-
-**Coming soon**, Corvallis, OR, Mar 2020 – Jun 2020
+#### Linear Models
 
 **Coming soon**, Corvallis, OR, Jan 2020 – Mar 2020
-
-**Coming soon**, Corvallis, OR, Sep 2019 – Dec 2019
 <br/>
 <br/>
 
