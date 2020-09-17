@@ -4,26 +4,32 @@ title: Coursework
 permalink: /coursework/
 ---
 #### Overview 
-<p align="justify"> This year, major parts of our coursework focus on building the fundamentals: statistical methods and theories. Next year, I aim to expand beyond statistical models and theories to include additional machine learning algorithms. </p>
+<p align="justify"> Last year, major parts of our coursework focus on building the fundamentals: statistical methods and theories. This year, I aim to expand beyond statistical models and theories to include additional machine learning algorithms. </p>
 
 (some of the major topics discussed) <br/>
-[some of the work using R intensively] 
+[some of the work using R/Python/SAS intensively] 
 <br/>
 <br/>
 
 #### Scheduled coursework 
 **MS, Statistics, Oregon State Univeristy, 2019 — Present** <br>
-- Time Series (Autoregressive Integrated Moving Average (ARIMA) Model, Forecasting, Spectral Analysis) <br> <i> using R </i> 
-- Statistical Methods (Linear Models) II (Simple & Multiple Linear Regression, Weighted Regression, Nonlinear Regression, Linear Models for Binary Data) <br> <i> using R </i> 
-- Theory of Statistics II (Convergence, Sufficiency, Point Estimation: Maximum Likelihood, Bayes)
+- Machine Learning <br> <i> using Python </i> 
+- Generalized Regression Models (GLMs) I <br> <i> using </i> 
+- Probability, Computing, And Simulation <br> <i> using </i> 
 <br/>
 <br/>
 
 #### Completed coursework 
 **MS, Statistics, Oregon State Univeristy, 2019 — Present**<br>
+- Big Data (Large and Complex Data Sets) <br> <i> using R </i> 
+- Time Series (Autoregressive Integrated Moving Average (ARIMA) Model, Forecasting, Spectral Analysis) <br> <i> using R </i> 
 - Multivariate Analysis (Multidimensional Scaling (MDS), Principal Components Analysis (PCA), Classification & Discriminant Analysis, Clustering) <br> <i> using R </i> [[See my project]](https://franceslinyc.github.io/projects/)
-- Statistical Methods I (Parametric Tests, Nonparametric Tests, Tests for Proportions, Tests for Binary Data) <br> <i> using R </i> [6 HWs]
-- Theory of Statistics I (Probability Distributions, Sampling Distributions, Order Statistic) 
+- Statistical Methods (Parametric Tests, Nonparametric Tests, Tests for Proportions, Tests for Binary Data) <br> <i> using R </i> [6 HWs]
+- Linear Models (Simple & Multiple Linear Regression, Weighted Regression, Nonlinear Regression, Linear Models for Binary Data) <br> <i> using R </i> [8 HWs]
+- Experimental Designs (Factorial Designs, Random & Mixed Effect Models, ANCOVA) <br> <i> using SAS </i> [7 HWs]
+- Theory of Statistics I (Probability Distributions, Order Statistic, Exponential Families)
+- Theory of Statistics II (Convergence, Sufficiency, Point Estimation: Maximum Likelihood, Bayes, UMVUEs)
+- Theory of Statistics III (MP & UMP Tests, CI, Large-Sample Tests: LRT, Wald, score test)
 - Probability and Mathematical Statistics I, II
 <br/>
 <br/>
