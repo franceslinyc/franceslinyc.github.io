@@ -21,8 +21,8 @@ permalink: /coursework/
 
 #### Completed coursework 
 **MS, Statistics, Oregon State Univeristy, 2019 — Present**<br>
-- Big Data/Large and Complex Data Sets (PCA, Penalized Logistic Regression, Ensemble Methods, Random Forests) <br> <i> using R </i> [[See my project]](https://franceslinyc.github.io/projects/)
-- Time Series (Autoregressive Integrated Moving Average (ARIMA) model, Forecasting, Spectral Analysis) <br> <i> using R </i> [[See my project]](https://franceslinyc.github.io/projects/)
+- Big Data/Large and Complex Data Sets (PCA, Penalized Logistic Regression, Ensemble Methods, Random Forests) <br> <i> using R </i> [[See our project]](https://franceslinyc.github.io/projects/)
+- Time Series (Autoregressive Integrated Moving Average (ARIMA) model, Forecasting, Spectral Analysis) <br> <i> using R </i> [[See our project]](https://franceslinyc.github.io/projects/)
 - Multivariate Analysis (Multidimensional Scaling (MDS), Principal Components Analysis (PCA), Classification & Discriminant Analysis, Clustering) <br> <i> using R </i> [[See my project]](https://franceslinyc.github.io/projects/)
 - Statistical Methods (Parametric tests, Nonparametric tests, Tests for Proportions, Tests for Binary Data) <br> <i> using R </i> [6 HWs]
 - Linear Models (Simple & Multiple Linear Regression, Weighted Regression, Nonlinear Regression, Linear Models for Binary Data) <br> <i> using R </i> [8 HWs]
