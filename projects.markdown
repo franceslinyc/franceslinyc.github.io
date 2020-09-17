@@ -9,7 +9,7 @@ permalink: /projects/
 
 #### Data Analysis Projects
 
-#### Large and Complex Data Sets (Big Data)
+#### Big Data/Large and Complex Data Sets
 
 **Coming soon**, Corvallis, OR, Mar 2020 – Jun 2020
 
