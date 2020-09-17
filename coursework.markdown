@@ -43,11 +43,10 @@ permalink: /coursework/
 <br/>
 
 **Post-Bac, Mathematics, University of Washington, 2016 — 2018** <br>
-- Real Analysis (Advanced Calculus) I, Mathematical Reasoning, Linear Algebra, Differential Equations, Calculus III (Multivariable Calculus), and Computer Programming I <i> using Java</i>
 <br/>
 <br/>
 
 #### Other relevant coursework
-**BS, Earth and Space Sciences, University of Washington, 2009 — 2014** <br>
+**BS, Earth and Space Sciences, University of Washington, 2014** <br>
 - Geographic Information Systems (GIS) <i> using ArcGIS</i>, Geoscience Communication, Statistical Methods <i> using R</i>, and Calculus I, II<br>
 
