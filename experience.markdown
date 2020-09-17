@@ -7,6 +7,9 @@ permalink: /experience/
 #### Statistical Consulting Services
 
 Primary Consultant, Oregon State University, Corvallis, OR, Jan 2021 – 
+
+**Coming soon** 
+<br/>
 <br/>
 Secondary Consultant, Oregon State University, Corvallis, OR, Jan 2020 – Mar 2020
 
@@ -19,7 +22,7 @@ Secondary Consultant, Oregon State University, Corvallis, OR, Jan 2020 – Mar 2
 ST 314 Introduction to Statistics for Engineers
 <br/>
 ST 351 Introduction to Statistical Methods
-
+<br/>
 
 #### Project
 
