@@ -15,7 +15,7 @@ permalink: /coursework/
 **MS, Statistics, Oregon State Univeristy, 2019 — Present** <br>
 - Machine Learning (Linear Classifiers: Gaussian Probabilistic models, Naive Bayes, Logistic Regression; Non-linear Classifiers: Neural Networks, Decision Trees, SVMs; Ensemble Methods) <br> <i> using Python </i> 
 - Generalized Regression Models (GLMs) I <br> <i> using </i> 
-- Probability, Computing, And Simulation <br> <i> using </i> 
+- Probability, Computing, and Simulation <br> <i> using </i> 
 <br/>
 <br/>
 
