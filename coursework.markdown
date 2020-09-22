@@ -13,7 +13,7 @@ permalink: /coursework/
 
 #### Scheduled coursework 
 **MS, Statistics, Oregon State Univeristy, 2019 — Present** <br>
-- Machine Learning <br> <i> using Python </i> 
+- Machine Learning (Linear Classifiers: Gaussian Probabilistic models, Naive Bayes, Logistic Regression; Non-linear Classifiers: Neural Networks, Decision Trees, SVMs; Ensemble Methods) <br> <i> using Python </i> 
 - Generalized Regression Models (GLMs) I <br> <i> using </i> 
 - Probability, Computing, And Simulation <br> <i> using </i> 
 <br/>
@@ -21,14 +21,14 @@ permalink: /coursework/
 
 #### Completed coursework 
 **MS, Statistics, Oregon State Univeristy, 2019 — Present**<br>
-- Big Data/Large and Complex Data Sets (PCA, Penalized Logistic Regression, Ensemble Methods, Random Forests) <br> <i> using R </i> [[See our project]](https://franceslinyc.github.io/projects/)
+- Big Data/Large and Complex Data Sets (PCA, Penalized Logistic Regression, Random Forests, Ensemble Methods) <br> <i> using R </i> [[See our project]](https://franceslinyc.github.io/projects/)
 - Time Series (Autoregressive Integrated Moving Average (ARIMA) model, Forecasting, Spectral Analysis) <br> <i> using R </i> [[See our project]](https://franceslinyc.github.io/projects/)
 - Multivariate Analysis (Multidimensional Scaling (MDS), Principal Components Analysis (PCA), Classification & Discriminant Analysis, Clustering) <br> <i> using R </i> [[See my project]](https://franceslinyc.github.io/projects/)
-- Statistical Methods (Parametric tests, Nonparametric tests, Tests for Proportions, Tests for Binary Data) <br> <i> using R </i> [6 HWs]
+- Statistical Methods (Parametric tests: t-test, χ2-test, F-test, Nonparametric tests, Tests for Proportions, Tests for Binary Data) <br> <i> using R </i> [6 HWs]
 - Linear Models (Simple & Multiple Linear Regression, Weighted Regression, Nonlinear Regression, Linear Models for Binary Data) <br> <i> using R </i> [8 HWs]
 - Experimental Designs (Factorial Designs, Random & Mixed Effect models, ANCOVA) <br> <i> using SAS </i> [7 HWs]
-- Theory of Statistics I (Probability Distributions, Order Statistic, Exponential Families)
-- Theory of Statistics II (Convergence, Sufficiency, Point Estimation: Maximum Likelihood, Bayes, UMVUEs)
+- Theory of Statistics I (Probability Distributions, Exponential Families, Functions of Random Variable: Transformations using cdf, pdf & mgf, Order Statistics)
+- Theory of Statistics II (Convergence, Sufficiency, Point Estimation: Maximum Likelihood, Bayes, UMVUEs, Rao-Blackwell, Lehmann-Scheffe theorem)
 - Theory of Statistics III (MP & UMP tests, CI, Large-Sample tests: LRT, Wald, score test)
 - Probability and Mathematical Statistics I, II
 <br/>
