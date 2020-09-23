@@ -4,6 +4,6 @@ title: Resume
 permalink: /resume/
 ---
 
-[[See my resume]]() (Latest version coming soon)
+[[See my resume]]() (Please refer to LinkedIn for now)
 
-[[A much detailed version, if interested]]() (Latest version coming soon)
+[[A much detailed version, if interested]]() (Please refer to LinkedIn for now)
