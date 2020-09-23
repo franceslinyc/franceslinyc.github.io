@@ -13,9 +13,9 @@ permalink: /coursework/
 
 #### Scheduled coursework 
 **MS, Statistics, Oregon State Univeristy, 2019 — Present** <br>
-- Machine Learning (Linear Classifiers: Gaussian Probabilistic models, Naive Bayes, Logistic Regression; Non-linear Classifiers: Neural Networks, Decision Trees, SVMs; Ensemble Methods) <br> <i> using Python </i> 
+- Machine Learning (Gaussian Probabilistic models, Neural Networks, SVMs, Clustering, Dimension Reduction, Ensemble Methods: Bagging, Boosting) <br> <i> using Python </i> 
 - Generalized Regression Models (GLMs) I <br> <i> using </i> 
-- Probability, Computing, and Simulation <br> <i> using </i> 
+- Probability, Computing, and Simulation (Monte Carlo methods, Bootstrap, Variance Reduction techniques) <br> <i> using R/S-Plus </i> 
 <br/>
 <br/>
 
