@@ -3,13 +3,15 @@ layout: page
 title: Projects
 permalink: /projects/
 ---
-#### Statistical Modeling
+#### Statistical Modeling Projects
+<br/>
+<br/>
 <br/>
 <br/>
 
 #### Data Analysis Projects
 
-#### Big Data/Large and Complex Data Sets
+#### Large and Complex Data Sets/Big Data
 
 **Coming soon**, Corvallis, OR, Mar 2020 – Jun 2020
 
