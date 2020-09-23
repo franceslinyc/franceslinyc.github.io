@@ -4,7 +4,7 @@ title: Coursework
 permalink: /coursework/
 ---
 #### Overview 
-<p align="justify"> Last year, major parts of our coursework focus on building the fundamentals: statistical methods and theories. This year, I aim to expand beyond statistical models and theories to include additional statistical methods (e.g. spatial statistics, stochastic models, Bayesian statistics) and machine learning algorithms. </p>
+<p align="justify"> Last year, major parts of our coursework focus on building the fundamentals: statistical methods and theories. This year, I aim to expand beyond statistical methods and theories to include additional statistical models (e.g. spatial statistics, stochastic models, Bayesian statistics) and machine learning algorithms. </p>
 
 (some of the major topics discussed) <br/>
 [some of the work using R/Python/SAS intensively] 
@@ -21,7 +21,7 @@ permalink: /coursework/
 
 #### Completed coursework 
 **MS, Statistics, Oregon State Univeristy, 2019 — Present**<br>
-- Big Data/Large and Complex Data Sets (PCA, Penalized Logistic Regression, Random Forests, Ensemble Methods) <br> <i> using R </i> [[See our project]](https://franceslinyc.github.io/projects/)
+- Large and Complex Data Sets/Big Data (PCA, Penalized Logistic Regression, Random Forests, Ensemble Methods) <br> <i> using R </i> [[See our project]](https://franceslinyc.github.io/projects/)
 - Time Series (Autoregressive Integrated Moving Average (ARIMA) model, Forecasting, Spectral Analysis) <br> <i> using R </i> [[See our project]](https://franceslinyc.github.io/projects/)
 - Multivariate Analysis (Multidimensional Scaling (MDS), Principal Components Analysis (PCA), Classification & Discriminant Analysis, Clustering) <br> <i> using R </i> [[See my project]](https://franceslinyc.github.io/projects/)
 - Statistical Methods (Parametric tests: t-test, χ2-test, F-test; Nonparametric tests, Tests for Proportions, Tests for Binary Data) <br> <i> using R </i> [6 HWs]
