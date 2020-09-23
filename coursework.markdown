@@ -4,7 +4,7 @@ title: Coursework
 permalink: /coursework/
 ---
 #### Overview 
-<p align="justify"> Last year, major parts of our coursework focus on building the fundamentals: statistical methods and theories. This year, I aim to expand beyond statistical models and theories to include additional machine learning algorithms. </p>
+<p align="justify"> Last year, major parts of our coursework focus on building the fundamentals: statistical methods and theories. This year, I aim to expand beyond statistical models and theories to include additional statistical methods and machine learning algorithms. </p>
 
 (some of the major topics discussed) <br/>
 [some of the work using R/Python/SAS intensively] 
@@ -13,7 +13,7 @@ permalink: /coursework/
 
 #### Scheduled coursework 
 **MS, Statistics, Oregon State Univeristy, 2019 — Present** <br>
-- Machine Learning (Gaussian Probabilistic models, Neural Networks, SVMs, Clustering, Dimension Reduction, Ensemble Methods: Bagging, Boosting) <br> <i> using Python </i> 
+- Machine Learning (Linear Classifiers: Gaussian Probabilistic models, Logistic Regression, Naive Bayes; Non-linear Classifiers: Neural Networks, SVMs, Decision Trees; Ensemble Methods: Bagging, Boosting) <br> <i> using Python </i> 
 - Generalized Regression Models (GLMs) I <br> <i> using </i> 
 - Probability, Computing, and Simulation (Monte Carlo methods, Bootstrap, Variance Reduction techniques) <br> <i> using R/S-Plus </i> 
 <br/>
