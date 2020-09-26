@@ -29,7 +29,7 @@ permalink: /projects/
 #### Probability, Computing, and Simulation
 **in R**, Corvallis, OR, Sep 2020 – Dec 2020
 
-<i> Final Project for ST 541 Probability, Computing, and Simulation in Statistics (PCS)
+<i> Final Project for ST 541 Probability, Computing, and Simulation in Statistics
 <br/>
 <br/>
 <br/>
