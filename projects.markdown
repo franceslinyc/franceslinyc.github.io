@@ -23,11 +23,15 @@ permalink: /projects/
 <i> Final Project for ST 623 Generalized Regression Models I
 <br/>
 <br/>
+<br/>
+<br/>
 
 #### Probability, Computing, and Simulation
 **in R**, Corvallis, OR, Sep 2020 – Dec 2020
 
 <i> Final Project for ST 541 Probability, Computing, and Simulation in Statistics (PCS)
+<br/>
+<br/>
 <br/>
 <br/>
 
@@ -78,7 +82,7 @@ permalink: /projects/
 #### Linear Models
 
 **Regression Analysis of Kaggle Housing data in R**, Corvallis, OR, Jan 2020 – Mar 2020
-<i> Final Project for ST 552 Linear Models/Statistical Methods II  
+<i> Final Project for ST 552 Statistical Methods II  
 <p align="justify"> Title: A Look At Residential Housing Price in the Ames, Iowa Area </p>
 
 <p align="justify"> Description: I implemented several inferential and predictive methods to test the relationship between SalePrice and other variables thought to be related and to predict the final prices of residential houses in Ames, Iowa. Data were provided as part of the project, which were derived from and modified according to Ames Housing Price Challenge from Kaggle and included SalePrice and 55 other explanatory variables for a total of 1078 observations (n=1078) in the modified dataset and a total of 120 observations (n=120) in the test dataset. Project was completed in R. </p>
@@ -97,7 +101,7 @@ permalink: /projects/
 [[PDF]](https://github.com/franceslinyc/Regression-Analysis-of-Education-data-in-R-2019/blob/master/Lin_STAA%20566%20Final%20Project.pdf)
 [[Repository]](https://github.com/franceslinyc/Regression-Analysis-of-Education-data-in-R-2019) 
 
-**Regression Analysis of Environment data in R**, Fort Collins, CO, Jan 2019 – May 2019
+**Regression Analysis of World Bank data in R**, Fort Collins, CO, Jan 2019 – May 2019
 
 <i> Final Project for STAT 512 Design and Data Analysis II
 <p align="justify"> Title: Environment vs. Economy: The Relationship Between CO2 Per Capita And Other Indicators and The Environmental Kuzents Curve </p>
