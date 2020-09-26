@@ -7,7 +7,7 @@ permalink: /projects/
 
 #### Machine Learning
 **in Python**, Corvallis, OR, Sep 2020 – Dec 2020
-<i> Projects for CS 534 Machine Learning
+<i> Class Projects for CS 534 Machine Learning
 <br/>
 <br/>
 <br/>
