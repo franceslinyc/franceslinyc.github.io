@@ -20,7 +20,7 @@ permalink: /projects/
 #### Generalized Regression Models I
 **in R**, Corvallis, OR, Sep 2020 – Dec 2020
 
-<i> Final Project for ST 623 Generalized Regression Models I
+<i> Final Project for ST 623 Generalized Regression Models (GLMs) I
 <br/>
 <br/>
 <br/>
@@ -53,6 +53,7 @@ permalink: /projects/
 #### Large and Complex Data Sets/Big Data
 
 **Big Data Analysis of Auto Insurance Claim data in R**, Corvallis, OR, Mar 2020 – Jun 2020
+
 <i> Final Project for ST 538 Modern Statistical Methods for Large and Complex Data Sets
 <p align="justify"> Title: Auto Insurance Claim Prediction of Porto Seguro, Brazil’s Auto and Home Insurance Company </p>
 
@@ -61,6 +62,7 @@ permalink: /projects/
 <br/>
 
 **Big Data Analysis of U.S. Census data in R**, Corvallis, OR, Mar 2020 – Jun 2020
+
 <i> Final Project for ST 538 Modern Statistical Methods for Large and Complex Data Sets
 <p align="justify"> Title: Does Speaking Additional Language Predict Higher Earning Levels? A Case Study Using The U.S. Census </p>
 
