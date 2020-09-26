@@ -7,6 +7,7 @@ permalink: /projects/
 
 #### Machine Learning
 **in Python**, Corvallis, OR, Sep 2020 – Dec 2020
+
 <i> Class Projects for CS 534 Machine Learning
 <br/>
 <br/>
@@ -18,11 +19,13 @@ permalink: /projects/
 
 #### Generalized Regression Models I
 **in R**, Corvallis, OR, Sep 2020 – Dec 2020
+
 <i> Final Project for ST 623 Generalized Regression Models I
 
 
 #### Probability, Computing, and Simulation
 **in R**, Corvallis, OR, Sep 2020 – Dec 2020
+
 <i> Final Project for ST 541 Probability, Computing, and Simulation in Statistics (PCS)
 
 
@@ -48,8 +51,7 @@ permalink: /projects/
 <p align="justify"> Title: Auto Insurance Claim Prediction of Porto Seguro, Brazil’s Auto and Home Insurance Company </p>
 
 <p align="justify"> Description: We implemented several supervised and unsupervised learning algorithms such as PCA, penalized logistic regression, bagging, boosting, and random forests to determine factors that lead to file claiming and to predict whether or not drivers would file claims. Data were extracted from Porto Seguro’s Safe Driver Prediction from Kaggle and included Claim_Initiated and 56 other explanatory variables for a total of 476k observations (n=476k) in the training dataset and a total of 119k observations (n=119k) in the test dataset. Project was completed in R. </p>
-<br/>
-<br/>
+
 
 **Big Data Analysis of U.S. Census data in R**, Corvallis, OR, Mar 2020 – Jun 2020
 <i> Final Project for ST 538 Modern Statistical Methods for Large and Complex Data Sets
