@@ -3,7 +3,37 @@ layout: page
 title: Projects
 permalink: /projects/
 ---
+#### Machine Learning Projects
+
+#### Machine Learning
+**in Python**, Corvallis, OR, Sep 2020 – Dec 2020
+<i> Projects for CS 534 Machine Learning
+<br/>
+<br/>
+<br/>
+<br/>
+  
 #### Statistical Modeling Projects
+
+
+#### Generalized Regression Models I
+**in R**, Corvallis, OR, Sep 2020 – Dec 2020
+<i> Final Project for ST 623 Generalized Regression Models I
+
+
+#### Probability, Computing, and Simulation
+**in R**, Corvallis, OR, Sep 2020 – Dec 2020
+<i> Final Project for ST 541 Probability, Computing, and Simulation in Statistics (PCS)
+
+
+#### Time Series
+
+**Vector Autoregressive Models for Multivariate Time Series with A Case Study of Stock Prices**, Corvallis, OR, Jan 2020 – Mar 2020
+
+<i> Final Project for ST 565 Time Series 
+<p align="justify"> Title: Vector Autoregressive Models for Multivariate Time Series with A Case Study of Stock Prices </p>
+
+<p align="justify"> Description: In many real-world datasets, multiple variables are at play, and they often interact with one another, producing interaction effects. Multivariate time series models such as vector autoregression (VAR) thus becomes a natural extension of its univariate autoregression (AR) model to achieve more flexibility and better forecasting. First, we discuss the differences between univariate time series and multivariate time series. Then, we introduce several key properties of multivariate time series such as stationarity, ergodicity, and cross-covariance. Next, we define the VAR model and discuss model estimation and causality. Finally, we include a case study of stock prices to illustrate how the VAR model is used for estimation and forecasting in practice. </p>
 <br/>
 <br/>
 <br/>
@@ -13,15 +43,19 @@ permalink: /projects/
 
 #### Large and Complex Data Sets/Big Data
 
-**Coming soon**, Corvallis, OR, Mar 2020 – Jun 2020
+**Big Data Analysis of Auto Insurance Claim data in R**, Corvallis, OR, Mar 2020 – Jun 2020
+<i> Final Project for ST 538 Modern Statistical Methods for Large and Complex Data Sets
+<p align="justify"> Title: Auto Insurance Claim Prediction of Porto Seguro, Brazil’s Auto and Home Insurance Company </p>
 
-**Coming soon**, Corvallis, OR, Mar 2020 – Jun 2020
+<p align="justify"> Description: We implemented several supervised and unsupervised learning algorithms such as PCA, penalized logistic regression, bagging, boosting, and random forests to determine factors that lead to file claiming and to predict whether or not drivers would file claims. Data were extracted from Porto Seguro’s Safe Driver Prediction from Kaggle and included Claim_Initiated and 56 other explanatory variables for a total of 476k observations (n=476k) in the training dataset and a total of 119k observations (n=119k) in the test dataset. Project was completed in R. </p>
 <br/>
 <br/>
 
-#### Time Series Analysis
+**Big Data Analysis of U.S. Census data in R**, Corvallis, OR, Mar 2020 – Jun 2020
+<i> Final Project for ST 538 Modern Statistical Methods for Large and Complex Data Sets
+<p align="justify"> Title: Does Speaking Additional Language Predict Higher Earning Levels? A Case Study Using The U.S. Census </p>
 
-**Coming soon**, Corvallis, OR, Jan 2020 – Mar 2020
+<p align="justify"> Description: We implemented several regression models to explore the relationship between wages and additional language other than English spoken at home in the United States. Data were extracted from the U.S. Census Bureau's American Community Survey and, pertaining to this analysis, we limited the scope of inference to individuals who speak English, Spanish and Chinese in the West region of the U.S. and selected from 700+ variables to include only Wages and 7 other explanatory variables for a total of 1.1 millions individuals (n=1.1m). Project was completed in R. </p>
 <br/>
 <br/>
 
@@ -38,7 +72,11 @@ permalink: /projects/
 
 #### Linear Models
 
-**Coming soon**, Corvallis, OR, Jan 2020 – Mar 2020
+**Regression Analysis of Kaggle Housing data in R**, Corvallis, OR, Jan 2020 – Mar 2020
+<i> Final Project for ST 552 Linear Models/Statistical Methods II  
+<p align="justify"> Title: A Look At Residential Housing Price in the Ames, Iowa Area </p>
+
+<p align="justify"> Description: I implemented several inferential and predictive methods to test the relationship between SalePrice and other variables thought to be related and to predict the final prices of residential houses in Ames, Iowa. Data were provided as part of the project, which were derived from and modified according to Ames Housing Price Challenge from Kaggle and included SalePrice and 55 other explanatory variables for a total of 1078 observations (n=1078) in the modified dataset and a total of 120 observations (n=120) in the test dataset. Project was completed in R. </p>
 <br/>
 <br/>
 
