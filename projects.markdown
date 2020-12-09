@@ -3,33 +3,28 @@ layout: page
 title: Projects
 permalink: /projects/
 ---
-#### Machine Learning Projects
 
-#### Machine Learning
-**in Python**, Corvallis, OR, Sep 2020 – Dec 2020
-
-<i> Class Projects for CS 534 Machine Learning
-<br/>
-<br/>
-<br/>
-<br/>
-  
 #### Statistical Modeling Projects
 
-
-#### Generalized Regression Models I
-**in R**, Corvallis, OR, Sep 2020 – Dec 2020
-
-<i> Final Project for ST 623 Generalized Regression Models (GLMs) I
-<br/>
-<br/>
-<br/>
-<br/>
-
 #### Probability, Computing, and Simulation
-**in R**, Corvallis, OR, Sep 2020 – Dec 2020
+**EM (Expectation-Maximization) Algorithm with An Application for Gaussian Mixture Model**, Corvallis, OR, Sep 2020 – Dec 2020
 
 <i> Final Project for ST 541 Probability, Computing, and Simulation in Statistics
+<p align="justify"> Title: EM (Expectation-Maximization) Algorithm with An Application for Gaussian Mixture Model </p>
+
+<p align="justify"> Description: We first discuss the conditions under which EM algorithm can be used to find (local) maximum likelihood estimate (MLE) of parameter, as compared to other iterative method such as Newton-Raphson, Fisher's scoring, and IRLS (iteratively reweighted least squares). Then, we briefly review MLE and posterior probability. Next, we introduce the EM algorithm in the context of the Gaussian mixture model and expand the E-step and the M-step of the algorithm in details. Finally, we apply the algorithm to a simulated dataset that follows a two-component Gaussian mixture distribution and evaluate its performance. </p>
+<br/>
+<br/>
+<br/>
+<br/>
+
+#### Generalized Regression Models/GLMs I
+**Multinomial GLMs for Multinomial Response with An Example of Brain Injury Recovery Stages**, Corvallis, OR, Sep 2020 – Dec 2020
+
+<i> Final Project for ST 623 Generalized Regression Models (GLMs) I
+<p align="justify"> Title: Multinomial GLMs for Multinomial Response with An Example of Brain Injury Recovery Stages </p>
+
+<p align="justify"> Description: We expand beyond binary (or binomial) reponse to focus on polychotomous (or multinomial) reponse. We first differentiate ordinal reponse from nominal reponse. Then, we briefly review multinomial distribution and latent variable. Next, we define the models and discuss model assumptions and estimation. Finally, we include an example of traumatic brain injury outcomes to illustrate how the proportional-odds cumulative logit model and the baseline-category logit model are used for estimation and prediction in practice. </p>
 <br/>
 <br/>
 <br/>
@@ -43,6 +38,17 @@ permalink: /projects/
 <p align="justify"> Title: Vector Autoregressive Models for Multivariate Time Series with A Case Study of Stock Prices </p>
 
 <p align="justify"> Description: In many real-world datasets, multiple variables are at play, and they often interact with one another, producing interaction effects. Multivariate time series models such as vector autoregression (VAR) thus becomes a natural extension of its univariate autoregression (AR) model to achieve more flexibility and better forecasting. First, we discuss the differences between univariate time series and multivariate time series. Then, we introduce several key properties of multivariate time series such as stationarity, ergodicity, and cross-covariance. Next, we define the VAR model and discuss model estimation and causality. Finally, we include a case study of stock prices to illustrate how the VAR model is used for estimation and forecasting in practice. </p>
+<br/>
+<br/>
+<br/>
+<br/>
+
+#### Machine Learning Projects
+
+#### Machine Learning
+**in Python**, Corvallis, OR, Pending
+
+<i> Class Projects for CS 534 Machine Learning
 <br/>
 <br/>
 <br/>
