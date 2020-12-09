@@ -13,9 +13,9 @@ permalink: /coursework/
 
 #### Scheduled coursework 
 **MS, Statistics, Oregon State Univeristy, 2019 — Present** <br>
-- Survival Analysis/GLMs II () <br>
-- Spatial Statistics () <br>
-- Consulting Practicum () <br>
+- Survival Analysis/GLMs II () <br> <i> using R </i>
+- Spatial Statistics () <br> <i> using R </i>
+- Consulting Practicum ()
 <br/>
 <br/>
 
@@ -23,7 +23,7 @@ permalink: /coursework/
 **MS, Statistics, Oregon State Univeristy, 2019 — Present**<br>
 - Probability, Computing, and Simulation (Monte Carlo methods, Bootstrap, Variance Reduction techniques, Optimization) <br> <i> using R and GitHub</i> [[See my project]](https://franceslinyc.github.io/projects/)
 - Generalized Regression Models/GLMs I (Exponential Families, Logistic Regression, Regression-type models for binomial, multinomial and Poisson data, Log-linear models for multidimensional contingency tables) <br> <i> using R</i> [[See my project]](https://franceslinyc.github.io/projects/)
-- Sampling Methods (Stratified Sampling, Clustering Sampling, Systematic Sampling, Multistage Sampling) <br> <i> using R</i> 
+- Sampling Methods (Stratified Sampling, Clustering Sampling, Systematic Sampling, Multistage Sampling) <br> <i> using R</i> [7 HWs]
 - Large and Complex Data Sets/Big Data (PCA, Penalized Logistic Regression, Random Forests, Ensemble Methods) <br> <i> using R </i> [[See our project]](https://franceslinyc.github.io/projects/)
 - Time Series (Autoregressive Integrated Moving Average (ARIMA) model, Forecasting, Spectral Analysis) <br> <i> using R </i> [[See our project]](https://franceslinyc.github.io/projects/)
 - Multivariate Analysis (Multidimensional Scaling (MDS), Principal Components Analysis (PCA), Classification & Discriminant Analysis, Clustering) <br> <i> using R </i> [[See my project]](https://franceslinyc.github.io/projects/)
