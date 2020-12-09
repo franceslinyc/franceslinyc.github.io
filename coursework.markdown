@@ -13,9 +13,9 @@ permalink: /coursework/
 
 #### Scheduled coursework 
 **MS, Statistics, Oregon State Univeristy, 2019 — Present** <br>
-- Machine Learning (Linear Classifiers: Gaussian Probabilistic models, Logistic Regression, Naive Bayes; Non-linear Classifiers: Neural Networks, SVMs, Decision Trees; Ensemble Methods: Bagging, Boosting) <br> <i> using Python </i> 
-- Generalized Regression Models/GLMs I (Exponential Families, Logistic Regression, Regression-type models for binomial and Poisson data, Log-linear models for multidimensional contingency tables) <br> <i> using R</i> 
-- Probability, Computing, and Simulation (Monte Carlo methods, Bootstrap, Variance Reduction techniques) <br> <i> using R/S-Plus </i> 
+- Probability, Computing, and Simulation (Monte Carlo methods, Bootstrap, Variance Reduction techniques, Optimization) <br> <i> using R and GitHub</i> [[See my project]](https://franceslinyc.github.io/projects/)
+- Generalized Regression Models/GLMs I (Exponential Families, Logistic Regression, Regression-type models for binomial, multinomial and Poisson data, Log-linear models for multidimensional contingency tables) <br> <i> using R</i> [[See my project]](https://franceslinyc.github.io/projects/)
+- Sampling Methods (Stratified Sampling, Clustering Sampling, Systematic Sampling, Multistage Sampling) <br> <i> using R</i> 
 <br/>
 <br/>
 
