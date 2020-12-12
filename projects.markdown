@@ -19,8 +19,7 @@ permalink: /projects/
 
 <br/>
 <br/>
-<br/>
-<br/>
+
 
 #### Generalized Regression Models/GLMs I
 **Multinomial GLMs for Multinomial Response with An Example of Brain Injury Recovery Stages**, Corvallis, OR, Sep 2020 – Dec 2020
@@ -29,8 +28,6 @@ permalink: /projects/
 <p align="justify"> Title: Multinomial GLMs for Multinomial Response with An Example of Brain Injury Recovery Stages </p>
 
 <p align="justify"> Description: We expand beyond binary (or binomial) reponse to focus on polychotomous (or multinomial) reponse. We first differentiate ordinal reponse from nominal reponse. Then, we briefly review multinomial distribution and latent variable. Next, we define the models and discuss model assumptions and estimation. Finally, we include an example of traumatic brain injury outcomes to illustrate how the proportional-odds cumulative logit model and the baseline-category logit model are used for estimation and prediction in practice. </p>
-<br/>
-<br/>
 <br/>
 <br/>
 
@@ -44,8 +41,6 @@ permalink: /projects/
 <p align="justify"> Description: In many real-world datasets, multiple variables are at play, and they often interact with one another, producing interaction effects. Multivariate time series models such as vector autoregression (VAR) thus becomes a natural extension of its univariate autoregression (AR) model to achieve more flexibility and better forecasting. First, we discuss the differences between univariate time series and multivariate time series. Then, we introduce several key properties of multivariate time series such as stationarity, ergodicity, and cross-covariance. Next, we define the VAR model and discuss model estimation and causality. Finally, we include a case study of stock prices to illustrate how the VAR model is used for estimation and forecasting in practice. </p>
 <br/>
 <br/>
-<br/>
-<br/>
 
 #### Machine Learning Projects
 
@@ -53,8 +48,6 @@ permalink: /projects/
 **in Python**, Corvallis, OR, Pending
 
 <i> Class Projects for CS 534 Machine Learning
-<br/>
-<br/>
 <br/>
 <br/>
 
