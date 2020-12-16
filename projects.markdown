@@ -39,6 +39,9 @@ permalink: /projects/
 
 <p align="justify"> Description: We expand beyond binary (or binomial) reponse to focus on polychotomous (or multinomial) reponse. We first differentiate ordinal reponse from nominal reponse. Then, we briefly review multinomial distribution and latent variable. Next, we define the models and discuss model assumptions and estimation. Finally, we include an example of traumatic brain injury outcomes to illustrate how the proportional-odds cumulative logit model and the baseline-category logit model are used for estimation and prediction in practice. </p>
 
+[[PDF]](https://github.com/franceslinyc/GLMs-for-Brain-Trama-data-2020/blob/main/analysis/Lin_ST623_Project_FULL.pdf)
+[[Repository]](https://github.com/franceslinyc/GLMs-for-Brain-Trama-data-2020) 
+
 <br/>
 <br/>
 
