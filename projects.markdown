@@ -6,7 +6,7 @@ permalink: /projects/
 
 #### Data Science Projects
 
-#### Data Science Tools and Programming
+#### Data Science Tools and Programming/Big Data
 **in Python and SQL**, Portland, OR, Dec 2020 – 
 <br/>
 <br/>
