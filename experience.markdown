@@ -23,6 +23,8 @@ ST 314 Introduction to Statistics for Engineers
 <br/>
 ST 351D Introduction to Statistical Methods
 <br/>
+ST 351 Introduction to Statistical Methods
+<br/>
 
 #### Project
 
