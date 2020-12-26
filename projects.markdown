@@ -4,6 +4,15 @@ title: Projects
 permalink: /projects/
 ---
 
+#### Data Science Projects
+
+#### Data Science Tools and Programming
+**in Python and SQL**, Corvallis, OR, Dec 2020 – 
+<br/>
+<br/>
+<br/>
+<br/>
+
 #### Statistical Modeling Projects
 
 #### Spatial Statistics
@@ -12,12 +21,12 @@ permalink: /projects/
 <br/>
 
 #### Survival Analysis/GLMs II
-**in R**, Corvallis, OR, Dec 2020 – 
+**in R**, Corvallis, OR, Pending
 <br/>
 <br/>
 
 #### Probability, Computing, and Simulation
-**EM (Expectation-Maximization) Algorithm with An Application for Gaussian Mixture Model**, Corvallis, OR, Sep 2020 – Dec 2020
+**EM (Expectation-Maximization) Algorithm with An Application for Gaussian Mixture Model**, Portland, OR, Sep 2020 – Dec 2020
 
 <i> Final Project for ST 541 Probability, Computing, and Simulation in Statistics
 <p align="justify"> Title: EM (Expectation-Maximization) Algorithm with An Application for Gaussian Mixture Model </p>
@@ -32,7 +41,7 @@ permalink: /projects/
 
 
 #### Generalized Regression Models/GLMs I
-**Multinomial GLMs for Multinomial Response with An Example of Brain Injury Recovery Stages**, Corvallis, OR, Sep 2020 – Dec 2020
+**Multinomial GLMs for Multinomial Response with An Example of Brain Injury Recovery Stages**, Portland, OR, Sep 2020 – Dec 2020
 
 <i> Final Project for ST 623 Generalized Regression Models (GLMs) I
 <p align="justify"> Title: Multinomial GLMs for Multinomial Response with An Example of Brain Injury Recovery Stages </p>
@@ -71,7 +80,7 @@ permalink: /projects/
 
 #### Data Analysis Projects
 
-#### Large and Complex Data Sets/Big Data
+#### Large and Complex Data Sets/Statistical Learning
 
 **Big Data Analysis of Auto Insurance Claim data in R**, Corvallis, OR, Mar 2020 – Jun 2020
 

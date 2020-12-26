@@ -14,7 +14,7 @@ permalink: /coursework/
 #### Scheduled coursework 
 **MS, Statistics, Oregon State Univeristy, 2019 — Present** <br>
 - Spatial Statistics () <br> <i> using R </i>
-- Survival Analysis/GLMs II () <br> <i> using R </i>
+- Data Science Tools and Programming/Big Data () <br> <i> using Python and SQL </i>
 - Consulting Practicum ()
 <br/>
 <br/>
@@ -24,7 +24,7 @@ permalink: /coursework/
 - Probability, Computing, and Simulation (Monte Carlo methods, Bootstrap estimates, Variance Reduction techniques, Optimization) <br> <i> using R and GitHub</i> [8 HWs] [[See my project]](https://franceslinyc.github.io/projects/)
 - Generalized Regression Models/GLMs I (Exponential Families, Logistic Regression, Regression-type models for binomial, multinomial and Poisson data, Log-linear models for multidimensional contingency tables) <br> <i> using R</i> [6 HWs] [[See my project]](https://franceslinyc.github.io/projects/)
 - Sampling Methods (Stratified Sampling, Cluster Sampling, Systematic Sampling, Multistage Sampling) <br> <i> using R </i> [7 HWs + 1 Project]
-- Large and Complex Data Sets/Big Data (PCA, Penalized Logistic Regression, Random Forests, Ensemble Methods) <br> <i> using R </i> [[See our project]](https://franceslinyc.github.io/projects/)
+- Large and Complex Data Sets/Statistical Learning (PCA, Penalized Logistic Regression, Random Forests, Ensemble Methods) <br> <i> using R </i> [[See our project]](https://franceslinyc.github.io/projects/)
 - Time Series (Autoregressive Integrated Moving Average (ARIMA) model, Forecasting, Spectral Analysis) <br> <i> using R </i> [6 HWs] [[See our project]](https://franceslinyc.github.io/projects/)
 - Multivariate Analysis (Multidimensional Scaling (MDS), Principal Components Analysis (PCA), Classification & Discriminant Analysis, Clustering) <br> <i> using R </i> [6 HWs] [[See my project]](https://franceslinyc.github.io/projects/)
 - Statistical Methods (Parametric tests: t-test, χ2-test, F-test; Nonparametric tests, Tests for Proportions, Tests for Binary Data) <br> <i> using R </i> [6 HWs]
