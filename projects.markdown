@@ -7,7 +7,7 @@ permalink: /projects/
 #### Data Science Projects
 
 #### Data Science Tools and Programming/Big Data
-**in Python and SQL**, Portland, OR, Dec 2020 – 
+**in Python and Query Language**, Portland, OR, Dec 2020 – 
 <br/>
 <br/>
 <br/>
@@ -16,12 +16,12 @@ permalink: /projects/
 #### Statistical Modeling Projects
 
 #### Spatial Statistics
-**in R**, Portland, OR, Dec 2020 – 
+**in R**, Portland, OR, Pending
 <br/>
 <br/>
 
 #### Survival Analysis/GLMs II
-**in R**, Corvallis, OR, Pending
+**in R**, Portland, OR, Pending
 <br/>
 <br/>
 <br/>
