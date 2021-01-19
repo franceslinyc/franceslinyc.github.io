@@ -13,8 +13,8 @@ permalink: /coursework/
 
 #### Scheduled coursework 
 **MS, Statistics, Oregon State Univeristy, 2019 — Present** <br>
-- Spatial Statistics () <br> <i> using R </i>
-- Data Science Tools and Programming/Big Data () <br> <i> using Python and SQL </i>
+- Data Science Tools and Programming/Big Data (Relational Databases and SQL, BigQuery, Non-Relational Databases Spark, Data Wrangling, Data Visualization) <br> <i> using Python and Query Language </i>
+- Advanced Theory of Statistics I (Measure, Exponential Families, Unbiasedness, Equivariance, Bayes) <br>
 - Consulting Practicum ()
 <br/>
 <br/>
