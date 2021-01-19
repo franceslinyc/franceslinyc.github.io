@@ -4,7 +4,7 @@ title: Coursework
 permalink: /coursework/
 ---
 #### Overview 
-<p align="justify"> Last year, major parts of our coursework focus on building the fundamentals: statistical methods and theories. This year, I aim to expand beyond statistical methods and theories to include additional statistical models (e.g. spatial statistics, stochastic models, Bayesian statistics) and machine learning algorithms. </p>
+<p align="justify"> Last year, major parts of our coursework focus on building the fundamentals: statistical methods and theories. This year, I aim to expand beyond statistical methods and theories to include additional statistical models (e.g. GLMs, spatial statistics), data science tools, and machine learning algorithms. </p>
 
 (some of the major topics discussed) <br/>
 [some of the work using R/Python/SAS] 
@@ -13,7 +13,7 @@ permalink: /coursework/
 
 #### Scheduled coursework 
 **MS, Statistics, Oregon State Univeristy, 2019 — Present** <br>
-- Data Science Tools and Programming/Big Data (Relational Databases and SQL, BigQuery, Non-Relational Databases Spark, Data Wrangling, Data Visualization) <br> <i> using Python and Query Language </i>
+- Data Science Tools and Programming/Big Data (Relational Databases: SQL, BigQuery, Non-Relational Databases: Spark, Data Wrangling, Data Visualization) <br> <i> using Python and Query Language </i>
 - Advanced Theory of Statistics I (Measure, Exponential Families, Unbiasedness, Equivariance, Bayes) <br>
 - Consulting Practicum ()
 <br/>
