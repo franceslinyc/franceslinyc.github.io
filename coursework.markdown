@@ -7,7 +7,7 @@ permalink: /coursework/
 <p align="justify"> Last year, major parts of our coursework focus on building the fundamentals: statistical methods and theories. This year, I aim to expand beyond statistical methods and theories to include additional statistical models (e.g. spatial statistics, stochastic models, Bayesian statistics) and machine learning algorithms. </p>
 
 (some of the major topics discussed) <br/>
-[some of the work using R/Python/SAS intensively] 
+[some of the work using R/Python/SAS] 
 <br/>
 <br/>
 
