@@ -7,7 +7,7 @@ permalink: /coursework/
 <p align="justify"> Last year, major parts of our coursework focus on building the fundamentals: statistical methods and theories. This year, I aim to expand beyond statistical methods and theories to include additional statistical models (e.g. GLMs, spatial statistics), data science tools, and machine learning algorithms. </p>
 
 (some of the major topics discussed) <br/>
-[some of the work using R/Python/SAS] 
+[some of the work using R/Python/Query Language] 
 <br/>
 <br/>
 
@@ -15,12 +15,16 @@ permalink: /coursework/
 **MS, Statistics, Oregon State Univeristy, 2019 — Present** <br>
 - Data Science Tools and Programming/Big Data (Relational Databases: SQL; Non-Relational Databases: Spark; BigQuery, Data Wrangling, Data Visualization) <br> <i> using Python and Query Language </i>
 - Advanced Theory of Statistics I (Measure, Exponential Families, Unbiasedness, Equivariance, Bayes) <br>
-- Consulting Practicum ()
+- Consulting Practicum
 <br/>
 <br/>
 
 #### Completed coursework 
 **MS, Statistics, Oregon State Univeristy, 2019 — Present**<br>
+
+- Data Science Tools and Programming/Big Data (Relational Databases: SQL; Non-Relational Databases: Spark; BigQuery, Data Wrangling, Data Visualization) <br> <i> using Python and Query Language </i> [8 HWs] [[See my project]](https://franceslinyc.github.io/projects/)
+- Advanced Theory of Statistics I (Measure, Exponential Families, Unbiasedness, Equivariance, Bayes) <br>
+- Consulting Practicum
 - Probability, Computing, and Simulation (Monte Carlo methods, Bootstrap estimates, Variance Reduction techniques, Optimization) <br> <i> using R and GitHub</i> [8 HWs] [[See my project]](https://franceslinyc.github.io/projects/)
 - Generalized Regression Models/GLMs I (Exponential Families, Logistic Regression, Regression-type models for binomial, multinomial and Poisson data, Log-linear models for multidimensional contingency tables) <br> <i> using R</i> [6 HWs] [[See my project]](https://franceslinyc.github.io/projects/)
 - Sampling Methods (Stratified Sampling, Cluster Sampling, Systematic Sampling, Multistage Sampling) <br> <i> using R </i> [7 HWs + 1 Project]
