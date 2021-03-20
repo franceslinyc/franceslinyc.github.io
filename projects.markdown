@@ -8,6 +8,10 @@ permalink: /projects/
 #### Research
 **in R**, Portland, OR, Mar 2020 – 
 
+<i> Master's Project for MS in statistics at OSU
+<p align="justify"> Title: </p>
+
+<p align="justify"> Description: </p>
 <br/>
 <br/>
 <br/>
@@ -23,8 +27,8 @@ permalink: /projects/
 
 <p align="justify"> Description: We use Google Cloud Platform (GCP) services (e.g. Compute Engine, BigQuery, Cloud Dataproc) and PySpark/Apache Spark to explore and analyze the NYC Taxi & Limousine Commission's trip records of 2019-2020 (~ 35.26 GB). Project was completed in R, Python and query language. </p>
 
-[[PDF]](https://github.com/franceslinyc/EM-for-Gaussian-Mixture-2020/blob/main/analysis/Lin_ST541_Project_FULL.pdf)
-[[Repository]](https://github.com/franceslinyc/EM-for-Gaussian-Mixture-2020) 
+[[PDF]](https://github.com/franceslinyc/Big-Data-Analysis-of-NYC-Trip-data-2021/blob/main/analysis/Lin_CS512_Final_Project.pdf)
+[[Repository]](https://github.com/franceslinyc/Big-Data-Analysis-of-NYC-Trip-data-2021) 
 
 <br/>
 <br/>
