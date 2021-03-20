@@ -13,16 +13,15 @@ permalink: /coursework/
 
 #### Scheduled coursework 
 **MS, Statistics, Oregon State Univeristy, 2019 — Present** <br>
-- Data Science Tools and Programming/Big Data (Relational Databases: SQL; Non-Relational Databases: Spark; BigQuery, Data Wrangling, Data Visualization) <br> <i> using Python and Query Language </i>
-- Advanced Theory of Statistics I (Measure, Exponential Families, Unbiasedness, Equivariance, Bayes) <br>
-- Consulting Practicum
+- Research ()
+- Advanced Theory of Statistics II () <br>
 <br/>
 <br/>
 
-#### Completed coursework 
+#### Completed coursework
 **MS, Statistics, Oregon State Univeristy, 2019 — Present**<br>
 
-- Data Science Tools and Programming/Big Data (Relational Databases: SQL; Non-Relational Databases: Spark; BigQuery, Data Wrangling, Data Visualization) <br> <i> using Python and Query Language </i> [8 HWs] [[See my project]](https://franceslinyc.github.io/projects/)
+- Data Science Tools and Programming/Big Data (Relational Databases: SQL; Non-Relational Databases: Spark; BigQuery, Data Wrangling, Data Visualization) <br> <i> using R, Python and Query Language </i> [8 HWs] [[See my project]](https://franceslinyc.github.io/projects/)
 - Advanced Theory of Statistics I (Measure, Exponential Families, Unbiasedness, Equivariance, Bayes) <br>
 - Consulting Practicum
 - Probability, Computing, and Simulation (Monte Carlo methods, Bootstrap estimates, Variance Reduction techniques, Optimization) <br> <i> using R and GitHub</i> [8 HWs] [[See my project]](https://franceslinyc.github.io/projects/)
