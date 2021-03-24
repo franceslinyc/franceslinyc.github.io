@@ -4,9 +4,11 @@ title: What Else?
 permalink: /whatelse/
 ---
 
-<p align="justify"> When I am not musing on math or stats or programming in R, I enjoy skiing, traveling, being outdoors, and watching thriller and dark comedy films/TV series on Netflix. </p>
+<p align="justify"> When I am not musing on math or stats or programming in R (10+ hours/7), I enjoy skiing, traveling, being outdoors, and watching thriller and dark comedy films/TV series on Netflix. </p>
 
-<p align="justify"> My next destination for travel: Iceland </p>
+<p align="justify"> My next travel destination: Iceland </p>
+
+<p align="justify"> Places I have been to thus far: Nepal, Tibet, Japan, Canada, Swaziland, Thailand, Australia, France, UK, Switzerland, New Zealand (chased by sheep when I was 5...) </p>
 
 <br>
 <br>
