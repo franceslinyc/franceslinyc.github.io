@@ -21,18 +21,37 @@ permalink: /coursework/
 #### Completed coursework
 **MS, Statistics, Oregon State Univeristy, 2019 — Present**<br>
 
+**Data Science**<br>
+
 - Data Science Tools and Programming/Big Data (Relational Databases: SQL; Non-Relational Databases: Spark; BigQuery, Data Wrangling, Data Visualization) <br> <i> using R, Python and Query Language </i> [8 HWs] [[See my project]](https://franceslinyc.github.io/projects/)
+
+**More Theories**<br>
+
 - Advanced Theory of Statistics I (Measure, Exponential Families, Unbiasedness, Equivariance, Bayes) <br>
-- Consulting Practicum
+
+**Simulation**<br>
+
 - Probability, Computing, and Simulation (Monte Carlo methods, Bootstrap estimates, Variance Reduction techniques, Optimization) <br> <i> using R and GitHub</i> [8 HWs] [[See my project]](https://franceslinyc.github.io/projects/)
+
+**Methods**<br>
+
 - Generalized Regression Models/GLMs I (Exponential Families, Logistic Regression, Regression-type models for binomial, multinomial and Poisson data, Log-linear models for multidimensional contingency tables) <br> <i> using R</i> [6 HWs] [[See my project]](https://franceslinyc.github.io/projects/)
+- Statistical Methods (Parametric tests: t-test, χ2-test, F-test; Nonparametric tests, Tests for Proportions, Tests for Binary Data) <br> <i> using R </i> [6 HWs]
+- Linear Models (Simple & Multiple Linear Regression, Weighted Regression, Nonlinear Regression, Linear Models for Binary Data) <br> <i> using R </i> [8 HWs]
+- Experimental Designs (Factorial Designs, Random & Mixed Effect models, ANCOVA) <br> <i> using SAS </i> [7 HWs]
+
+**Theories**<br>
+
+**Others**<br>
+
+- Consulting Practicum
+
+
 - Sampling Methods (Stratified Sampling, Cluster Sampling, Systematic Sampling, Multistage Sampling) <br> <i> using R </i> [7 HWs + 1 Project]
 - Large and Complex Data Sets/Statistical Learning (PCA, Penalized Logistic Regression, Random Forests, Ensemble Methods) <br> <i> using R </i> [[See our project]](https://franceslinyc.github.io/projects/)
 - Time Series (Autoregressive Integrated Moving Average (ARIMA) model, Forecasting, Spectral Analysis) <br> <i> using R </i> [6 HWs] [[See our project]](https://franceslinyc.github.io/projects/)
 - Multivariate Analysis (Multidimensional Scaling (MDS), Principal Components Analysis (PCA), Classification & Discriminant Analysis, Clustering) <br> <i> using R </i> [6 HWs] [[See my project]](https://franceslinyc.github.io/projects/)
-- Statistical Methods (Parametric tests: t-test, χ2-test, F-test; Nonparametric tests, Tests for Proportions, Tests for Binary Data) <br> <i> using R </i> [6 HWs]
-- Linear Models (Simple & Multiple Linear Regression, Weighted Regression, Nonlinear Regression, Linear Models for Binary Data) <br> <i> using R </i> [8 HWs]
-- Experimental Designs (Factorial Designs, Random & Mixed Effect models, ANCOVA) <br> <i> using SAS </i> [7 HWs]
+
 - Theory of Statistics I (Probability Distributions, Exponential Families, Functions of Random Variable: Transformations using cdf, pdf & mgf, Order Statistics)
 - Theory of Statistics II (Convergence, Sufficiency, Point Estimation: Maximum Likelihood, Bayes, UMVUEs, Rao-Blackwell, Lehmann-Scheffe theorem)
 - Theory of Statistics III (MP & UMP tests, CI, Large-Sample tests: LRT, Wald, score test)
