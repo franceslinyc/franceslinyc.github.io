@@ -72,6 +72,7 @@ permalink: /coursework/
 **Non-matriculated Status, Mathematics, University of Washington, 2016 — 2018**<br>
 - Real Analysis (Advanced Calculus) I, Mathematical Reasoning, Linear Algebra, Differential Equations, Multivariate Calculus
 <br/>
+<br/>
 
 #### Other relevant coursework
 **BS, Earth and Space Sciences, University of Washington, 2014** <br>
