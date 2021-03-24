@@ -25,7 +25,7 @@ permalink: /coursework/
 
 - Data Science Tools and Programming/Big Data (Relational Databases: SQL; Non-Relational Databases: Spark; BigQuery, Data Wrangling, Data Visualization) <br> <i> using R, Python and Query Language </i> [8 HWs] [[See my project]](https://franceslinyc.github.io/projects/)
 
-**More Theories**<br>
+**More Theories...**<br>
 
 - Advanced Theory of Statistics I (Measure, Exponential Families, Unbiasedness, Equivariance, Bayes) <br>
 
@@ -46,9 +46,12 @@ permalink: /coursework/
 - Theory of Statistics II (Convergence, Sufficiency, Point Estimation: Maximum Likelihood, Bayes, UMVUEs, Rao-Blackwell, Lehmann-Scheffe theorem)
 - Theory of Statistics III (MP & UMP tests, CI, Large-Sample tests: LRT, Wald, score test)
 
+**Consulting**<br>
+
+- Consulting Practicum (Cases: Occupancy Modeling, Meta-survey Analysis) <br> [[See more details]](https://franceslinyc.github.io/experience/)
+
 **Others**<br>
 
-- Consulting Practicum (Cases: Occupancy Modeling, Meta-survey Analysis)
 - Sampling Methods (Stratified Sampling, Cluster Sampling, Systematic Sampling, Multistage Sampling) <br> <i> using R </i> [7 HWs + 1 Project]
 - Large and Complex Data Sets/Statistical Learning (PCA, Penalized Logistic Regression, Random Forests, Ensemble Methods) <br> <i> using R </i> [[See our project]](https://franceslinyc.github.io/projects/)
 - Time Series (Autoregressive Integrated Moving Average (ARIMA) model, Forecasting, Spectral Analysis) <br> <i> using R </i> [6 HWs] [[See our project]](https://franceslinyc.github.io/projects/)
@@ -61,11 +64,16 @@ permalink: /coursework/
 - Data Visualization Methods (Exploratory Data Analysis (EDA), Multipanel Conditioning, 3D Plotting) <br> <i> using R (base R, lattice, ggplot2)</i> [[See my project]](https://franceslinyc.github.io/projects/)
 - Quantitative Reasoning (Confounding; Interaction; Biases & Statistical Fallacies: Regression Toward the Mean, Data Snooping, Post-Hoc Hypothesis Testing) <br> <i> using R (base R, car, ggplot2)</i> [3 HWs & 1 quiz]
 - Design and Data Analysis for Researchers II (Multiple Regression: ANCOVA, Model Selection & Diagnostics, Logistic Regression; Experimental Design: Fixed & Mixed Effects models) <br> <i> using R (base R, dplyr, car, ggplot2)</i> [[See my project]](https://franceslinyc.github.io/projects/)
-- Linear Algebra I
+- Linear Algebra
 <br/>
 <br/>
 
-**Post-Bac, Mathematics, University of Washington, 2016 — 2018** <br>
+**Non-matriculated Status, Mathematics, University of Washington, 2016 — 2018**<br>
+- Real Analysis (Advanced Calculus) I
+- Mathematical Reasoning
+- Linear Algebra
+- Differential Equations
+- Multivariate Calculus
 <br/>
 
 #### Other relevant coursework
