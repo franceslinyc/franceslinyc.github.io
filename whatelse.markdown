@@ -6,7 +6,7 @@ permalink: /whatelse/
 
 <p align="justify"> When I am not musing on math or stats or programming in R (10+ hours/7 nowadays...), I enjoy skiing, traveling, being outdoors, and watching thriller and dark comedy films/TV series on Netflix. </p>
 
-<p align="justify"> I am also a huge fan of [effective altruism](https://www.effectivealtruism.org/articles/introduction-to-effective-altruism/). Check them out if you have not! </p>
+<p align="justify"> I am also a huge fan of </p> [effective altruism](https://www.effectivealtruism.org/articles/introduction-to-effective-altruism/). <p align="justify"> Check them out if you have not! </p>
 
 <p align="justify"> My next travel destination: Iceland </p>
 
