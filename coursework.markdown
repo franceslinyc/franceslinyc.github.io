@@ -39,6 +39,8 @@ permalink: /coursework/
 - Statistical Methods (Parametric tests: t-test, χ2-test, F-test; Nonparametric tests, Tests for Proportions, Tests for Binary Data) <br> <i> using R </i> [6 HWs]
 - Linear Models (Simple & Multiple Linear Regression, Weighted Regression, Nonlinear Regression, Linear Models for Binary Data) <br> <i> using R </i> [8 HWs]
 - Experimental Designs (Factorial Designs, Random & Mixed Effect models, ANCOVA) <br> <i> using SAS </i> [7 HWs]
+- Spatial Statistics (Geostatistics, MCMC, Poisson process) <br> <i> pending/auditing </i>
+- Time Series (Autoregressive Integrated Moving Average (ARIMA) model, Forecasting, Spectral Analysis) <br> <i> using R </i> [6 HWs] [[See our project]](https://franceslinyc.github.io/projects/)
 
 **Theories**<br>
 
@@ -48,13 +50,12 @@ permalink: /coursework/
 
 **Consulting**<br>
 
-- Consulting Practicum (Cases: Occupancy Modeling, Meta-survey Analysis) <br> [[See more details]](https://franceslinyc.github.io/experience/)
+- Consulting Practicum (Cases: Occupancy Modeling, Meta-survey Analysis) <br> <i> 2021, </i> [[See more details]](https://franceslinyc.github.io/experience/)
 
-**Others**<br>
+**Others (Sampling Methods, Statistical/Machine Learning, etc)**<br>
 
 - Sampling Methods (Stratified Sampling, Cluster Sampling, Systematic Sampling, Multistage Sampling) <br> <i> using R </i> [7 HWs + 1 Project]
 - Large and Complex Data Sets/Statistical Learning (PCA, Penalized Logistic Regression, Random Forests, Ensemble Methods) <br> <i> using R </i> [[See our project]](https://franceslinyc.github.io/projects/)
-- Time Series (Autoregressive Integrated Moving Average (ARIMA) model, Forecasting, Spectral Analysis) <br> <i> using R </i> [6 HWs] [[See our project]](https://franceslinyc.github.io/projects/)
 - Multivariate Analysis (Multidimensional Scaling (MDS), Principal Components Analysis (PCA), Classification & Discriminant Analysis, Clustering) <br> <i> using R </i> [6 HWs] [[See my project]](https://franceslinyc.github.io/projects/)
 - Probability and Mathematical Statistics I, II
 <br/>
@@ -69,11 +70,7 @@ permalink: /coursework/
 <br/>
 
 **Non-matriculated Status, Mathematics, University of Washington, 2016 — 2018**<br>
-- Real Analysis (Advanced Calculus) I
-- Mathematical Reasoning
-- Linear Algebra
-- Differential Equations
-- Multivariate Calculus
+- Real Analysis (Advanced Calculus) I, Mathematical Reasoning, Linear Algebra, Differential Equations, Multivariate Calculus
 <br/>
 
 #### Other relevant coursework
