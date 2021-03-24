@@ -42,19 +42,17 @@ permalink: /coursework/
 
 **Theories**<br>
 
+- Theory of Statistics I (Probability Distributions, Exponential Families, Functions of Random Variable: Transformations using cdf, pdf & mgf, Order Statistics)
+- Theory of Statistics II (Convergence, Sufficiency, Point Estimation: Maximum Likelihood, Bayes, UMVUEs, Rao-Blackwell, Lehmann-Scheffe theorem)
+- Theory of Statistics III (MP & UMP tests, CI, Large-Sample tests: LRT, Wald, score test)
+
 **Others**<br>
 
-- Consulting Practicum
-
-
+- Consulting Practicum (Cases: Occupancy Modeling, Meta-survey Analysis)
 - Sampling Methods (Stratified Sampling, Cluster Sampling, Systematic Sampling, Multistage Sampling) <br> <i> using R </i> [7 HWs + 1 Project]
 - Large and Complex Data Sets/Statistical Learning (PCA, Penalized Logistic Regression, Random Forests, Ensemble Methods) <br> <i> using R </i> [[See our project]](https://franceslinyc.github.io/projects/)
 - Time Series (Autoregressive Integrated Moving Average (ARIMA) model, Forecasting, Spectral Analysis) <br> <i> using R </i> [6 HWs] [[See our project]](https://franceslinyc.github.io/projects/)
 - Multivariate Analysis (Multidimensional Scaling (MDS), Principal Components Analysis (PCA), Classification & Discriminant Analysis, Clustering) <br> <i> using R </i> [6 HWs] [[See my project]](https://franceslinyc.github.io/projects/)
-
-- Theory of Statistics I (Probability Distributions, Exponential Families, Functions of Random Variable: Transformations using cdf, pdf & mgf, Order Statistics)
-- Theory of Statistics II (Convergence, Sufficiency, Point Estimation: Maximum Likelihood, Bayes, UMVUEs, Rao-Blackwell, Lehmann-Scheffe theorem)
-- Theory of Statistics III (MP & UMP tests, CI, Large-Sample tests: LRT, Wald, score test)
 - Probability and Mathematical Statistics I, II
 <br/>
 <br/>
