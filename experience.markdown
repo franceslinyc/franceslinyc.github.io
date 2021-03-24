@@ -6,7 +6,7 @@ permalink: /experience/
 
 #### Statistical Consulting Services
 
-**Primary Consultant, Oregon State University, Corvallis, OR, 2022 - **
+**Primary Consultant, Oregon State University, Corvallis, OR, 2022 -**
 
 **Coming soon** 
 <br/>
