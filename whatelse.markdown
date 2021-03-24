@@ -10,7 +10,7 @@ permalink: /whatelse/
 
 <p align="justify"> My next travel destination: Iceland </p>
 
-<p align="justify"> Places I have been to thus far: Nepal, Tibet, Japan, Canada, Swaziland (volunteered with Heart for Africa), Thailand, Australia, France, UK, Switzerland, New Zealand (chased by sheep when I was 5...) </p>
+<p align="justify"> Places I have been to thus far: Nepal, Tibet, Japan, Canada, Swaziland (volunteered with Heart for Africa), Thailand, Australia, France, UK (was there during the 2005 London bombings...), Switzerland, New Zealand (chased by a group of sheep when I was 5...) </p>
 
 <br>
 <br>
