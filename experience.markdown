@@ -21,11 +21,15 @@ permalink: /experience/
 
 #### Teaching Assistantship
 
-ST 314 Introduction to Statistics for Engineers, Spring 2020
+ST 314 Intro to Statistics for Engineers, Spring 2020
 <br/>
-ST 351D Introduction to Statistical Methods, Fall 2021
+ST 351D Intro to Statistical Methods, Fall 2021
 <br/>
-ST 351 Introduction to Statistical Methods, Winter 2021
+ST 351 Intro to Statistical Methods, Winter 2021
+<br/>
+ST 314 Intro to Statistics for Engineers, Spring 2021
+<br/>
+ST 314D Intro to Statistics for Engineers, Spring 2021
 <br/>
 
 #### Project
