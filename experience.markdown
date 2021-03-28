@@ -26,6 +26,7 @@ permalink: /experience/
 <br/>
 
 **Undergraduate**
+
 ST 314 Intro to Statistics for Engineers, Spring 2020
 <br/>
 ST 351D Intro to Statistical Methods, Fall 2021
