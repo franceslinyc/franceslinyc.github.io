@@ -55,7 +55,7 @@ permalink: /coursework/
 **Others (Sampling Methods, Statistical/Machine Learning, etc)**<br>
 
 - Sampling Methods (Stratified Sampling, Cluster Sampling, Systematic Sampling, Multistage Sampling) <br> <i> using R </i> [7 HWs + 1 Project]
-- Large and Complex Data Sets/Statistical Learning (PCA, Penalized Logistic Regression, Random Forests, Ensemble Methods) <br> <i> using R </i> [[See our project]](https://franceslinyc.github.io/projects/)
+- Statistical Methods for Large and Complex Data Sets/Statistical Learning (PCA, Penalized Logistic Regression, Random Forests, Ensemble Methods) <br> <i> using R </i> [[See our project]](https://franceslinyc.github.io/projects/)
 - Multivariate Analysis (Multidimensional Scaling (MDS), Principal Components Analysis (PCA), Classification & Discriminant Analysis, Clustering) <br> <i> using R </i> [6 HWs] [[See my project]](https://franceslinyc.github.io/projects/)
 - Probability and Mathematical Statistics I, II
 <br/>
