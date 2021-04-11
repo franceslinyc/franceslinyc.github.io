@@ -4,7 +4,9 @@ title: Coursework
 permalink: /coursework/
 ---
 #### Overview 
-<p align="justify"> Last year, major parts of our coursework focus on building the fundamentals: statistical methods and theories. This year, I aim to expand beyond statistical methods and theories to include additional statistical models (e.g. GLMs, spatial statistics), data science tools, and machine learning algorithms. </p>
+<p align="justify"> First year, major parts of our coursework focused on building the fundamentals: statistical methods and theories. This year, I expand beyond statistical methods and theories to include additional statistical models (e.g. GLMs), data science tools (e.g. PySpark/Spark), and advanced theories. Right now, I am wrapping up my Master's project, which centers around a subfield of spatial statistics called Hawkes process (self-exciting point process). Beginning this summer, we will shift to focus on spatial prediction (e.g. kriging, copula) instead. In the years to come, I aim to explore spatial statistics and machine learning algorithms further. </p>
+
+<p align="justify"> This page aims to summarize major topics we have learned throughout my time at OSU. If/when time permits, I would like to turn them into posts. </p>
 
 (some of the major topics discussed) <br/>
 [some of the work using R/Python/Query Language] 
@@ -14,7 +16,7 @@ permalink: /coursework/
 #### Scheduled coursework 
 **MS, Statistics, Oregon State Univeristy, 2019 — Present** <br>
 - Research ()
-- Advanced Theory of Statistics II () <br>
+- Advanced Theory of Statistics II (Decision theory, Loss Functions, Minimax, ) <br>
 <br/>
 <br/>
 
