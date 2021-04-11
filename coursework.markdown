@@ -16,7 +16,7 @@ permalink: /coursework/
 #### Scheduled coursework 
 **MS, Statistics, Oregon State Univeristy, 2019 — Present** <br>
 - Research ()
-- Advanced Theory of Statistics II (Decision theory, Loss Functions, Minimax, ) <br>
+- Advanced Theory of Statistics II (Decision Theory, Loss Functions, Minimax, ) <br>
 <br/>
 <br/>
 
