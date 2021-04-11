@@ -4,9 +4,9 @@ title: Coursework
 permalink: /coursework/
 ---
 #### Overview 
-<p align="justify"> First year, major parts of our coursework focused on building the fundamentals: statistical methods and theories. This year, I expand beyond statistical methods and theories to include additional statistical models (e.g. GLMs), data science tools (e.g. PySpark/Spark), and advanced theories. Right now, I am wrapping up my Master's project, which centers around a subfield of spatial statistics called Hawkes process (self-exciting point process). Beginning this summer, we will shift to focus on spatial prediction (e.g. kriging, copula) instead. In the years to come, I aim to explore spatial statistics and machine learning algorithms further. </p>
+<p align="justify"> First year, major parts of our coursework focused on building the fundamentals: statistical methods and theories. This year, I expand beyond statistical methods and theories to include additional statistical models (e.g. GLMs), data science tools (e.g. PySpark/Spark), and advanced theories. Right now, I am wrapping up my Master's project focusing on a subfield of spatial statistics called Hawkes process (self-exciting point process). Beginning this summer, we will shift our focuses to focus on spatial prediction (e.g. kriging, copula). In the years to come, I aim to explore spatial statistics and machine learning algorithms further. </p>
 
-<p align="justify"> This page aims to summarize major topics we have learned throughout my time at OSU. If/when time permits, I would like to turn them into posts. </p>
+<p align="justify"> This page serves to summarize major topics we have learned throughout my time here at OSU. If/when time permits, I sure wish to turn them into posts. </p>
 
 (some of the major topics discussed) <br/>
 [some of the work using R/Python/Query Language] 
