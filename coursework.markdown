@@ -16,20 +16,20 @@ permalink: /coursework/
 #### Scheduled coursework 
 **MS, Statistics, Oregon State Univeristy, 2019 — Present** <br>
 - Research ()
-- Advanced Theory of Statistics II (Decision Theory, Loss Functions, Minimax, ) <br>
+- Advanced Theory of Statistics II (Decision Theory, Loss Functions, Minimax, Admissibility, ) <br>
 <br/>
 <br/>
 
 #### Completed coursework
 **MS, Statistics, Oregon State Univeristy, 2019 — Present**<br>
 
-**Data Science**<br>
-
-- Data Science Tools and Programming/Big Data (Relational Databases: SQL; Non-Relational Databases: Spark; BigQuery, Data Wrangling, Data Visualization) <br> <i> using R, Python and Query Language </i> [8 HWs] [[See my project]](https://franceslinyc.github.io/projects/)
-
 **More Theories...**<br>
 
 - Advanced Theory of Statistics I (Measure, Exponential Families, Unbiasedness, Equivariance, Bayes) <br>
+
+**Data Science**<br>
+
+- Data Science Tools and Programming/Big Data (Relational Databases: SQL; Non-Relational Databases: Spark; BigQuery, Data Wrangling, Data Visualization) <br> <i> using R, Python and Query Language </i> [8 HWs] [[See my project]](https://franceslinyc.github.io/projects/)
 
 **Simulation**<br>
 
