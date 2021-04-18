@@ -138,6 +138,7 @@ permalink: /projects/
 #### Linear Models
 
 **A Look At Residential Housing Price in the Ames, Iowa Area**, Corvallis, OR, Feb 2020 – Mar 2020
+
 <i> Final Project for ST 552 Statistical Methods II  
 <p align="justify"> Title: A Look At Residential Housing Price in the Ames, Iowa Area </p>
 
