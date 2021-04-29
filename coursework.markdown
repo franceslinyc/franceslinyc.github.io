@@ -4,9 +4,11 @@ title: Coursework
 permalink: /coursework/
 ---
 #### Overview 
-<p align="justify"> First year, major parts of our coursework focused on building the fundamentals: statistical methods and theories. This year, we expand beyond statistical methods and theories to include additional statistical models (e.g. GLMs), simulation methods, and data science tools (e.g. PySpark/Spark). Currently, I am wrapping up my Master's project focusing on Hawkes (self-exciting) processes. Beginning this summer, we will shift our focuses to focus on spatial prediction (e.g. kriging, copula). In the years to come, I aim to explore spatial statistics, spatio-temporal modeling, and machine learning further. </p>
+<p align="justify"> First year, major parts of our coursework focused on building the fundamentals: statistical methods and theories. This year, we expand beyond statistical methods and theories to include additional statistical models (e.g. GLMs) and simulation methods (e.g. EM). I also get a chance to gain experience working with big (~ 35GB) data using cloud computing platforms (e.g. GCP, PySpark/Spark). Currently, I am wrapping up my Master's project focusing on some well-known temporal and spatio-temporal point processes leading up to Hawkes (self-exciting) processes which find applications in a wide variety of fields such as seismology, criminology, emergency and disaster management, insurance, and finance. 
 
-<p align="justify"> This page serves to summarize major topics we have learned throughout my time here at OSU. If/when time permits, I sure wish to turn them into posts. </p>
+Beginning this summer, we will shift our focuses to focus on spatial prediction (e.g. kriging, copula) of big forestry inventory data. In the years to come, I aim to continue to work on and explore spatial statistics, spatio-temporal modeling, machine learning, and big data further while completing PhD coursework (e.g. decision theory, probability theory, linear model theory) in statistics. </p>
+
+<p align="justify"> This page serves to summarize major topics we have learned throughout my time here at OSU. If/when time permits, I wish to turn them into posts. </p>
 
 (some of the major topics discussed) <br/>
 [some of the work using R/Python/Query Language] 
@@ -16,7 +18,7 @@ permalink: /coursework/
 #### Scheduled coursework 
 **MS, Statistics, Oregon State Univeristy, 2019 — Present** <br>
 - Research ()
-- Advanced Theory of Statistics II (Decision Theory, Loss Functions, Minimax, Admissibility, ) <br>
+- Advanced Theory of Statistics II (Minimax, Admissibility, Shrinkage, Hypothesis Testing, ) <br>
 <br/>
 <br/>
 
@@ -25,11 +27,11 @@ permalink: /coursework/
 
 **More Theories...**<br>
 
-- Advanced Theory of Statistics I (Measure, Exponential Families, Unbiasedness, Equivariance, Bayes) <br>
+- Advanced Theory of Statistics I (Measure, Decision Theory, Loss Functions, Exponential Families, Unbiasedness, Equivariance, Bayes) <br>
 
 **Data Science**<br>
 
-- Data Science Tools and Programming/Big Data (Relational Databases: SQL; Non-Relational Databases: Spark; BigQuery, Data Wrangling, Data Visualization) <br> <i> using R, Python and Query Language </i> [8 HWs] [[See my project]](https://franceslinyc.github.io/projects/)
+- Data Science Tools and Programming/Big Data (Relational Databases: SQL; Non-Relational Databases: Spark; BigQuery, Data Wrangling, Data Visualization) <br> <i> using Cloud Computing Services, R, Python and Query Language </i> [8 HWs] [[See my project]](https://franceslinyc.github.io/projects/)
 
 **Simulation**<br>
 
@@ -41,7 +43,7 @@ permalink: /coursework/
 - Statistical Methods (Parametric tests: t-test, χ2-test, F-test; Nonparametric tests, Tests for Proportions, Tests for Binary Data) <br> <i> using R </i> [6 HWs]
 - Linear Models (Simple & Multiple Linear Regression, Weighted Regression, Nonlinear Regression, Linear Models for Binary Data) <br> <i> using R </i> [8 HWs]
 - Experimental Designs (Factorial Designs, Random & Mixed Effect models, ANCOVA) <br> <i> using SAS </i> [7 HWs]
-- Spatial Statistics (Geostatistics, MCMC, Poisson process) <br> <i> pending/auditing </i>
+- Spatial Statistics (Geostatistics, MCMC, Poisson Process) <br> <i> pending/auditing </i>
 - Time Series (Autoregressive Integrated Moving Average (ARIMA) model, Forecasting, Spectral Analysis) <br> <i> using R </i> [6 HWs] [[See our project]](https://franceslinyc.github.io/projects/)
 
 **Theories**<br>
@@ -63,7 +65,7 @@ permalink: /coursework/
 <br/>
 <br/>
 
-**MAS, Applied Statistics, Colorado State Univeristy, 2019** <br>
+**MAS (deferred), Applied Statistics, Colorado State Univeristy, 2019** <br>
 - Data Visualization Methods (Exploratory Data Analysis (EDA), Multipanel Conditioning, 3D Plotting) <br> <i> using R (base R, lattice, ggplot2)</i> [[See my project]](https://franceslinyc.github.io/projects/)
 - Quantitative Reasoning (Confounding; Interaction; Biases & Statistical Fallacies: Regression Toward the Mean, Data Snooping, Post-Hoc Hypothesis Testing) <br> <i> using R (base R, car, ggplot2)</i> [3 HWs & 1 quiz]
 - Design and Data Analysis for Researchers II (Multiple Regression: ANCOVA, Model Selection & Diagnostics, Logistic Regression; Experimental Design: Fixed & Mixed Effects models) <br> <i> using R (base R, dplyr, car, ggplot2)</i> [[See my project]](https://franceslinyc.github.io/projects/)
@@ -71,8 +73,9 @@ permalink: /coursework/
 <br/>
 <br/>
 
-**Non-matriculated Status, Mathematics, University of Washington, 2016 — 2018**<br>
-- Real Analysis (Advanced Calculus) I, Mathematical Reasoning, Linear Algebra, Differential Equations, Multivariate Calculus
+**Non-matriculated Status, Mathematics and CS, University of Washington, 2016 — 2018**<br>
+- Real Analysis (Advanced Calculus) I, Mathematical Reasoning, Linear Algebra, Differential Equations, Multivariate Calculus <br>
+- Computer Programming I 
 <br/>
 <br/>
 

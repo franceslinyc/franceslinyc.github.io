@@ -7,7 +7,7 @@ permalink: /experience/
 #### Statistical Consulting Services
 
 **Primary Consultant, Oregon State University, Portland, OR, Jan 2021 – Mar 2021** 
-- Consulted on a Fisheries & Wildlife MS project involving occupancy modeling of bat species in OR
+- Consulted on a Fisheries & Wildlife MS project involving hierarchical modeling of bat species occurrence in OR
 
 - Co-consulted with Andrew Rumments on a Kinesiology PhD project involving meta-survey analysis of APA and APE program quality in US universities
 

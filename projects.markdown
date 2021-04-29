@@ -25,7 +25,7 @@ permalink: /projects/
 <i> Final Project for CS 512 Data Science Tools and Programming/Big Data
 <p align="justify"> Title: Big Data Analysis of NYC TLC Trip Record (Yellow, Green Taxi, For-Hire Vehicle, HFHV) Data </p>
 
-<p align="justify"> Description: We use Google Cloud Platform (GCP) services (e.g. Compute Engine, BigQuery, Cloud Dataproc) and PySpark/Apache Spark to explore and analyze the NYC Taxi & Limousine Commission's trip records of 2019-2020 (~ 35.26 GB). Project was completed in R, Python and query language. </p>
+<p align="justify"> Description: We use Google Cloud Platform (GCP) services (e.g. Compute Engine, BigQuery, Cloud Dataproc) and PySpark/Apache Spark to explore and analyze the NYC Taxi & Limousine Commission's trip records of 2019-2020 (~ 35.26 GB). Project was completed in cloud computing services, R, Python and query language. </p>
 
 [[PDF]](https://github.com/franceslinyc/Big-Data-Analysis-of-NYC-Trip-data-2021/blob/main/analysis/Lin_CS512_Final_Project.pdf)
 [[Repository]](https://github.com/franceslinyc/Big-Data-Analysis-of-NYC-Trip-data-2021) 
