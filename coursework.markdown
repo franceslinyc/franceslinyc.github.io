@@ -40,11 +40,11 @@ permalink: /coursework/
 **Methods**<br>
 
 - Generalized Regression Models/GLMs I (Exponential Families, Logistic Regression, Regression-type models for binomial, multinomial and Poisson data, Log-linear models for multidimensional contingency tables) <br> <i> using R</i> [6 HWs] [[See my project]](https://franceslinyc.github.io/projects/)
+- Spatial Statistics (Geostatistics, Markov Random Field, Poisson Process) <br> <i> pending/auditing </i>
+- Time Series (Autoregressive Integrated Moving Average (ARIMA) model, Forecasting, Spectral Analysis) <br> <i> using R </i> [6 HWs] [[See our project]](https://franceslinyc.github.io/projects/)
 - Statistical Methods (Parametric tests: t-test, χ2-test, F-test; Nonparametric tests, Tests for Proportions, Tests for Binary Data) <br> <i> using R </i> [6 HWs]
 - Linear Models (Simple & Multiple Linear Regression, Weighted Regression, Nonlinear Regression, Linear Models for Binary Data) <br> <i> using R </i> [8 HWs]
-- Experimental Designs (Factorial Designs, Random & Mixed Effect models, ANCOVA) <br> <i> using SAS </i> [7 HWs]
-- Spatial Statistics (Geostatistics, MCMC, Poisson Process) <br> <i> pending/auditing </i>
-- Time Series (Autoregressive Integrated Moving Average (ARIMA) model, Forecasting, Spectral Analysis) <br> <i> using R </i> [6 HWs] [[See our project]](https://franceslinyc.github.io/projects/)
+- Experimental Designs (Factorial Designs, Random & Mixed Effect models, ANCOVA) <br> <i> using SAS </i> [7 HWs
 
 **Theories**<br>
 
