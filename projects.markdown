@@ -4,6 +4,37 @@ title: Projects
 permalink: /projects/
 ---
 
+This page contains a list of projects with applications in and outside of coursework. 
+
+#### Overview 
+Topics include (from most recent to oldest): 
+
+- temporal and spatio-temporal point processes 
+- big data
+- computing and simulation
+- GLM
+- statistical/machine learning
+- time series
+- multivariate analysis 
+- linear models
+- EDA
+- regression analysis
+
+Dataset include (from most recent to oldest): 
+
+- simulations
+- NYC TLC trip records
+- GMM (Gaussian mixture model)
+- brain injury recovery stages
+- stock prices
+- Porto Seguro insurance claims
+- U.S. Census Bureau's American Community Survey (ACS) data
+- wine quality
+- Kaggle's Ames housing prices
+- test scores
+- World Bank data
+
+
 #### Master's Project
 #### Research
 
@@ -15,6 +46,9 @@ permalink: /projects/
 <p align="justify"> Title: </p>
 
 <p align="justify"> Description: </p>
+
+--- 
+
 <br/>
 <br/>
 <br/>
@@ -105,7 +139,7 @@ permalink: /projects/
 <i> Final Project for ST 565 Time Series 
 <p align="justify"> Title: Vector Autoregressive Models for Multivariate Time Series with An Example of Stock Prices </p>
 
-<p align="justify"> Description: In many real-world datasets, multiple variables are at play, and they often interact with one another, producing interaction effects. Multivariate time series models such as vector autoregression (VAR) thus becomes a natural extension of its univariate autoregression (AR) model to achieve more flexibility and better forecasting. First, we discuss the differences between univariate time series and multivariate time series. Then, we introduce several key properties of multivariate time series such as stationarity, ergodicity, and cross-covariance. Next, we define the VAR model and discuss model estimation and causality. Finally, we include a case study of stock prices to illustrate how the VAR model is used for estimation and forecasting in practice. </p>
+<p align="justify"> Description: In many real-world datasets, multiple variables are at play, and they often interact with one another, producing interaction effects. Multivariate time series models such as vector autoregression (VAR) thus becomes a natural extension of its univariate autoregression (AR) model to achieve more flexibility and better forecasting. First, we discuss the differences between univariate time series and multivariate time series. Then, we introduce several key properties of multivariate time series such as stationarity, ergodicity, and cross-covariance. Next, we define the VAR model and discuss model estimation and causality. Finally, we include an example of stock prices to illustrate how the VAR model is used for estimation and forecasting in practice. </p>
 
 --- 
 
@@ -126,7 +160,7 @@ permalink: /projects/
 
 #### Data Analysis Projects
 
-#### Large and Complex Data Sets/Statistical Learning
+#### Statistical Methods for Large and Complex Data Sets/Statistical Learning
 
 --- 
 
