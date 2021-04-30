@@ -9,7 +9,7 @@ This page contains a list of course and noncourse projects.
 #### Overview 
 Topics include (from most recent to oldest): 
 
-- temporal and spatio-temporal point/stochastic processes
+- temporal and spatio-temporal point processes
 - big data
 - computing and simulation
 - GLM
@@ -22,7 +22,7 @@ Topics include (from most recent to oldest):
 
 Dataset include (from most recent to oldest): 
 
-- 1D and 2D simulations of point processes
+- 1D and 2D simulations of point/stochastic processes
 - NYC Taxi & Limousine Commission trip records
 - GMM (Gaussian mixture model)
 - brain injury recovery stages
