@@ -4,7 +4,7 @@ title: Projects
 permalink: /projects/
 ---
 
-This page contains a course and noncourse projects.
+This page contains a list of course and noncourse projects.
 
 #### Overview 
 Topics include (from most recent to oldest): 
