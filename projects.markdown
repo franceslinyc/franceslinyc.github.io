@@ -42,7 +42,7 @@ Dataset include (from most recent to oldest):
 
 --- 
 
-**in R**, Portland, OR, Mar 2020 – 
+**in R**, Portland, OR, Mar 2021 – 
 
 <i> Master's Project for MS in statistics at OSU
 <p align="justify"> Title: </p>
@@ -62,7 +62,7 @@ Dataset include (from most recent to oldest):
 
 --- 
 
-**Big Data Analysis of NYC TLC Trip Record (Yellow, Green Taxi, For-Hire Vehicle, HFHV) Data**, Portland, OR, Feb 2020 – Mar 2020
+**Big Data Analysis of NYC TLC Trip Record (Yellow, Green Taxi, For-Hire Vehicle, HFHV) Data**, Portland, OR, Feb 2021 – Mar 2021
 
 <i> Final Project for CS 512 Data Science Tools and Programming/Big Data
 <p align="justify"> Title: Big Data Analysis of NYC TLC Trip Record (Yellow, Green Taxi, For-Hire Vehicle, HFHV) Data </p>
