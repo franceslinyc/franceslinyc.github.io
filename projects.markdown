@@ -4,12 +4,12 @@ title: Projects
 permalink: /projects/
 ---
 
-This page contains a list of projects with applications in and outside of coursework. 
+This page contains a course and noncourse projects.
 
 #### Overview 
 Topics include (from most recent to oldest): 
 
-- temporal and spatio-temporal point processes 
+- temporal and spatio-temporal point/stochastic processes
 - big data
 - computing and simulation
 - GLM
@@ -22,8 +22,8 @@ Topics include (from most recent to oldest):
 
 Dataset include (from most recent to oldest): 
 
-- simulations
-- NYC TLC trip records
+- 1D and 2D simulations of point processes
+- NYC Taxi & Limousine Commission trip records
 - GMM (Gaussian mixture model)
 - brain injury recovery stages
 - Porto Seguro insurance claims
