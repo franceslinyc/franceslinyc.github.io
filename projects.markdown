@@ -20,6 +20,9 @@ permalink: /projects/
 #### Data Science Projects
 
 #### Data Science Tools and Programming/Big Data
+
+--- 
+
 **Big Data Analysis of NYC TLC Trip Record (Yellow, Green Taxi, For-Hire Vehicle, HFHV) Data**, Portland, OR, Feb 2020 – Mar 2020
 
 <i> Final Project for CS 512 Data Science Tools and Programming/Big Data
