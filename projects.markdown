@@ -26,14 +26,16 @@ Dataset include (from most recent to oldest):
 - NYC TLC trip records
 - GMM (Gaussian mixture model)
 - brain injury recovery stages
-- stock prices
 - Porto Seguro insurance claims
 - U.S. Census Bureau's American Community Survey (ACS) data
+- stock prices
 - wine quality
 - Kaggle's Ames housing prices
-- test scores
+- Colorado state standardized test scores
 - World Bank data
 
+<br/>
+<br/>
 
 #### Master's Project
 #### Research
