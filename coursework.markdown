@@ -17,7 +17,7 @@ permalink: /coursework/
 
 #### Scheduled coursework 
 **MS, Statistics, Oregon State Univeristy, 2019 — Present** <br>
-- Research ()
+- Master's Project (Counting Process, Poisson Process, Cox and cluster process, Hawkes Process, Spatio-Temporal Self-Exciting Process, 1D & 2D Simulations)
 - Advanced Theory of Statistics II (Minimax, Admissibility, Shrinkage, Hypothesis Testing, ) <br>
 <br/>
 <br/>
