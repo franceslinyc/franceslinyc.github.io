@@ -9,7 +9,7 @@ This page contains a list of course and independent projects.
 #### Overview 
 Topics include (from most recent to oldest): 
 
-✓ spatial, temporal and spatio-temporal point processes ✓ big data ✓ computing and simulation ✓ GLM ✓ statistical/machine learning ✓ time series ✓ multivariate analysis ✓ linear models ✓ EDA ✓ regression analysis
+**✓** spatial, temporal and spatio-temporal point processes ✓ big data ✓ computing and simulation ✓ GLM ✓ statistical/machine learning ✓ time series ✓ multivariate analysis ✓ linear models ✓ EDA ✓ regression analysis
 
 Dataset include (from most recent to oldest): 
 

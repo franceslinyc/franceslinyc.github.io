@@ -10,7 +10,7 @@ permalink: /about/
 - Spatio-Temporal Statistics
 - Machine Learning 
 
-with applications in, including but not limited to, environmental monitoring and prediction, resource management, and impact assessment of big data. 
+<p align="justify"> with applications in, including but not limited to, environmental monitoring and prediction, resource management, and impact assessment of big data. </p>
 
 <p align="justify"> Beginning this summer, we will shift our focuses to focus on spatial prediction (e.g. kriging, copula) of big forestry inventory data. In the years to come, I aim to continue to work on and explore further spatial statistics, spatio-temporal modeling, and machine learning, while completing PhD coursework in statistics (e.g. decision theory, probability theory, linear model theory). </p>
 
