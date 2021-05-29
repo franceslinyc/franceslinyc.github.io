@@ -9,12 +9,12 @@ This page contains a list of course and independent projects.
 #### Overview 
 Topics include (from most recent to oldest): 
 
-● spatial, temporal and spatio-temporal point processes ● big data ● computing and simulation ● GLM ● statistical/machine learning ● time series ● multivariate analysis ● linear models ● EDA ● regression analysis
+✓ spatial, temporal and spatio-temporal point processes ✓ big data ✓ computing and simulation ✓ GLM ✓ statistical/machine learning ✓ time series ✓ multivariate analysis ✓ linear models ✓ EDA ✓ regression analysis
 
 Dataset include (from most recent to oldest): 
 
-● 1D and 2D simulations of point/stochastic processes ● NYC Taxi & Limousine Commission trip records ● GMM (Gaussian mixture model) ● brain injury recovery stages ● Porto Seguro insurance claims ● U.S. Census Bureau's American Community Survey (ACS) data ● stock prices ● wine quality ● Kaggle's Ames housing prices
-● Colorado state standardized test scores ● World Bank data
+✓ 1D and 2D simulations of point/stochastic processes ✓ NYC Taxi & Limousine Commission trip records ✓ GMM (Gaussian mixture model) ✓ brain injury recovery stages ✓ Porto Seguro insurance claims ✓ U.S. Census Bureau's American Community Survey (ACS) data ✓ stock prices ✓ wine quality ✓ Kaggle's Ames housing prices
+✓ Colorado state standardized test scores ✓ World Bank data
 
 <br/>
 <br/>
