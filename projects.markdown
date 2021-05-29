@@ -9,7 +9,7 @@ This page contains a list of course and independent projects.
 #### Overview 
 Topics include (from most recent to oldest): 
 
-- spatial, temporal and spatio-temporal point processes - big data
+• spatial, temporal and spatio-temporal point processes • big data
 - computing and simulation
 - GLM
 - statistical/machine learning
