@@ -4,13 +4,12 @@ title: Projects
 permalink: /projects/
 ---
 
-This page contains a list of course and noncourse projects.
+This page contains a list of course and independent projects.
 
 #### Overview 
 Topics include (from most recent to oldest): 
 
-- temporal and spatio-temporal point processes
-- big data
+- spatial, temporal and spatio-temporal point processes - big data
 - computing and simulation
 - GLM
 - statistical/machine learning
@@ -42,10 +41,10 @@ Dataset include (from most recent to oldest):
 
 --- 
 
-**in R**, Portland, OR, Mar 2021 – 
+**Prequel to Hawkes Processes: An Overview of Spatial, Temporal and Spatio-Temporal Point Processes and Some Simulations**, Portland, OR, Mar 2021 – 
 
 <i> Master's Project for MS in statistics at OSU
-<p align="justify"> Title: </p>
+<p align="justify"> Title: Prequel to Hawkes Processes: An Overview of Spatial, Temporal and Spatio-Temporal Point Processes and Some Simulations </p>
 
 <p align="justify"> Description: </p>
 
@@ -228,7 +227,7 @@ Dataset include (from most recent to oldest):
 
 --- 
 
-**Regression Analysis of Education data in R**, Fort Collins, CO, Mar 2019 – May 2019
+**Regression Analysis of Education data in R**, Fort Collins, CO, Apr 2019 – May 2019
 
 <i> Final Project for STAA 566 Data Visualization
 <p align="justify"> Title: An Investigation Into State Standardized Tests for Elementary School Students in the Denver, Colorado Area </p>
@@ -245,7 +244,7 @@ Dataset include (from most recent to oldest):
 
 --- 
 
-**Regression Analysis of World Bank data in R**, Fort Collins, CO, Jan 2019 – May 2019
+**Regression Analysis of World Bank data in R**, Fort Collins, CO, Apr 2019 – May 2019
 
 <i> Final Project for STAT 512 Design and Data Analysis II
 <p align="justify"> Title: Environment vs. Economy: The Relationship Between CO2 Per Capita And Other Indicators and The Environmental Kuzents Curve </p>

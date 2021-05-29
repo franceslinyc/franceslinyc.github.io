@@ -35,6 +35,8 @@ ST 351 Intro to Statistical Methods, Winter 2021
 <br/>
 ST 314 Intro to Statistics for Engineers, Spring 2021
 <br/>
+ST 314D Intro to Statistics for Engineers, Summer 2021
+<br/>
 
 
 #### Project

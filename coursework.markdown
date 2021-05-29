@@ -3,12 +3,11 @@ layout: page
 title: Coursework
 permalink: /coursework/
 ---
-<p align="justify"> This page serves to summarize major topics we have learned throughout my time here at OSU. If/when time permits, I wish to turn them into posts. </p>
+<p align="justify"> This page contains a list of coursework and serves to summarize major topics we have learned throughout my time here at OSU. If/when time permits, I wish to turn them into posts. </p>
 
 #### Overview 
-<p align="justify"> First year, major parts of our coursework focused on building the fundamentals: statistical methods and theories. This year, we expand beyond statistical methods and theories to include additional statistical models (e.g. GLMs) and simulation methods (e.g. EM). I also get a chance to gain experience working with big (~ 35GB) data using cloud computing platforms (e.g. GCP, PySpark/Spark). Currently, I am wrapping up my Master's project focusing on selected temporal and spatio-temporal point processes leading up to Hawkes (self-exciting) processes, which find applications in a wide variety of fields such as seismology, criminology, risk management, and finance. </p>
 
-<p align="justify"> Beginning this summer, we will shift our focuses to focus on spatial prediction (e.g. kriging, copula) of big forestry inventory data. In the years to come, I aim to continue to work on and explore further spatial statistics, spatio-temporal modeling, big data, and machine learning, while completing PhD coursework in statistics (e.g. decision theory, probability theory, linear model theory).</p>
+<p align="justify"> First year of Master's at OSU, major parts of our coursework focused on building the fundamentals: statistical methods and theories. Second year, we expanded beyond statistical methods and theories to include additional statistical models (e.g. GLMs) and simulation methods (e.g. EM). I also gained experience working with big (~ 35GB) data using cloud computing platforms (e.g. GCP, PySpark/Spark). </p>
 
 (some of the major topics discussed) <br/>
 [some of the work using R/Python/Query Language] 
@@ -17,7 +16,7 @@ permalink: /coursework/
 
 #### Scheduled coursework 
 **MS, Statistics, Oregon State Univeristy, 2019 — Present** <br>
-- Master's Project (Counting Process, Poisson Process, Cox and cluster process, Hawkes Process, Spatio-Temporal Self-Exciting Process, 1D & 2D Simulations)
+- Master's Project (Counting Process, Poisson Process, Cox and Cluster Process, Hawkes Process, Spatio-Temporal Self-Exciting Process, Thinning Algorithm, 1D & 2D Simulations)
 - Advanced Theory of Statistics II (Minimax, Admissibility, Shrinkage, Hypothesis Testing, ) <br>
 <br/>
 <br/>
