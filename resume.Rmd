@@ -1,0 +1,139 @@
+---
+title: "Lijia Yu's resume"
+author: Lijia Yu
+date: "`r Sys.Date()`"
+output:
+  pagedown::html_resume:
+    # set it to true for a self-contained HTML page but it'll take longer to render
+    self_contained: false
+# uncomment this line to produce HTML and PDF in RStudio:
+knit: pagedown::chrome_print
+---
+
+Aside
+================================================================================
+
+Contact Info {#contact}
+--------------------------------------------------------------------------------
+
+- <i class="fa fa-linkedin"></i>
+[linkedin.com/in/franceslinyc/](https://www.linkedin.com/in/franceslinyc/)
+- <i class="fa fa-github"></i> [github.com/franceslinyc](https://github.com/franceslinyc)
+- <i class="fa fa-envelope"></i> linyuchu@oregonstate.edu
+- <i class="fa fa-phone"></i> +1 206-849-7556
+- Looking for relevant statistics and/or data science opportunities
+
+
+Skills {#skills}
+--------------------------------------------------------------------------------
+
+- Experienced in statistical models, optimization methods, data analysis
+
+- Skilled in R, Python, GitHub
+
+- Experience with big (~ 35.26 GB) data using Google Cloud Platform (GCP) services, PySpark/Apache Spark
+
+Coursework {#coursework}
+--------------------------------------------------------------------------------
+
+*statistical methods, statistical machine learning, multivariate analysis, time series, big data, linear models, generalized linear models, experimental designs, simulation methods, theory of statistics I, II, III, advanced theory of statistics I, II, sampling methods, data visualization*
+
+
+Disclaimer {#disclaimer}
+--------------------------------------------------------------------------------
+
+This resume was made with the R package [**pagedown**](https://github.com/rstudio/pagedown).
+
+Last updated on `r Sys.Date()`.
+
+
+
+Main
+================================================================================
+
+Frances Lin {#title}
+--------------------------------------------------------------------------------
+
+Education {data-icon=graduation-cap data-concise=true}
+--------------------------------------------------------------------------------
+
+### Oregon State University
+
+PhD in Statistics
+
+Corvallis, OR
+
+2021 - Current
+
+### Oregon State University
+
+MS in Statistics
+
+Corvallis, OR
+
+2019 - 2021
+
+Project Title: Prequel to Hawkes Processes: An Overview of Spatial, Temporal and Spatio-Temporal Point Processes and Some Simulations
+
+Other Projects: Big Data Analysis of NYC TLC Trip Records, EM Algorithm for GMMs, Multinomial GLMs for Brain Injury Recovery Stages, Auto Insurance Claim Prediction of Porto Seguro, Regression Models for U.S. Census, VAR Model for Stock Prices, Inference, Classification, and Clustering for Red vs. White Wine
+
+### University of Washington
+
+BS in Earth and Space Sciences
+
+Seattle, WA
+
+2014
+
+
+Professional Experience {data-icon=laptop}
+--------------------------------------------------------------------------------
+
+### Graduate Teaching Assistant
+
+Oregon State University 
+
+Corvallis, OR
+
+2020 - Current
+
+- Assist in in-class activities, hold office hours, grade and provide feedback on exams and assignments for ST 314 x2, ST 314D (Intro to Statistics for Engineers), ST 351, ST 351D (Intro To Statistical Methods)
+- Lead R programming lab activities for ST 351 (Intro To Statistical Methods)
+
+### Statistical Consultant
+
+Oregon State University
+
+Corvallis, OR
+
+2021 - Current
+
+- Consulted on a Fisheries & Wildlife MS project involving hierarchical modeling of bat species occurrence in OR
+- Co-consulted on a Kinesiology PhD project involving meta-survey analysis of APA and APE program quality in US universities
+
+### Data Analyst
+
+Everyone For Veterans
+
+Seattle, WA
+
+2018
+
+### Independent Researcher
+
+National Taiwan Normal University
+
+Taipei, Taiwan
+
+2017
+
+### Branding Strategist
+
+Roman Catholics Diocese of Taichung
+
+Taichung, Taiwan
+
+2014 - 2016
+
+
+
