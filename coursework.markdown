@@ -15,18 +15,24 @@ permalink: /coursework/
 <br/>
 
 #### Scheduled coursework 
-**MS, Statistics, Oregon State Univeristy, 2019 — Present** <br>
-- Master's Project (Counting Process, Poisson Process, Cox and Cluster Process, Hawkes Process, Spatio-Temporal Self-Exciting Process, Thinning Algorithm, 1D & 2D Simulations)
-- Advanced Theory of Statistics II (Minimax, Admissibility, Shrinkage, Hypothesis Testing, ) <br>
+**PhD, Statistics, Oregon State Univeristy, 2021 — Present** <br>
+
+
 <br/>
 <br/>
 
 #### Completed coursework
-**MS, Statistics, Oregon State Univeristy, 2019 — Present**<br>
+**MS, Statistics, Oregon State Univeristy, 2019 — 2021**<br>
+
+**Research**<br>
+
+- Master's Project (Counting Process, Poisson Process, Cox and Cluster Process, Hawkes Process, Spatio-Temporal Self-Exciting Process, Thinning Algorithm, 1D & 2D Simulations)
 
 **More Theories...**<br>
 
 - Advanced Theory of Statistics I (Measure, Decision Theory, Loss Functions, Exponential Families, Unbiasedness, Equivariance, Bayes) <br>
+
+- Advanced Theory of Statistics II (Minimax, Admissibility, Shrinkage, Hypothesis Testing: UMP, MLR, UMPU) <br>
 
 **Data Science**<br>
 
@@ -43,7 +49,7 @@ permalink: /coursework/
 - Time Series (Autoregressive Integrated Moving Average (ARIMA) model, Forecasting, Spectral Analysis) <br> <i> using R </i> [6 HWs] [[See our project]](https://franceslinyc.github.io/projects/)
 - Statistical Methods (Parametric tests: t-test, χ2-test, F-test; Nonparametric tests, Tests for Proportions, Tests for Binary Data) <br> <i> using R </i> [6 HWs]
 - Linear Models (Simple & Multiple Linear Regression, Weighted Regression, Nonlinear Regression, Linear Models for Binary Data) <br> <i> using R </i> [8 HWs]
-- Experimental Designs (Factorial Designs, Random & Mixed Effect models, ANCOVA) <br> <i> using SAS </i> [7 HWs
+- Experimental Designs (Factorial Designs, Random & Mixed Effect models, ANCOVA) <br> <i> using SAS </i> [7 HWs]
 
 **Theories**<br>
 
