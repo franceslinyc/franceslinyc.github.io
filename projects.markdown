@@ -18,17 +18,40 @@ Dataset include (from most recent to oldest):
 <br/>
 <br/>
 
+
+#### Independent Projects
+#### Machine Learning and Deep Learning
+
+--- 
+
+**in Python**, Portland, OR, June 2021 – 
+
+<i> Independent Projects
+<p align="justify"> Title: </p>
+
+<p align="justify"> Description: </p>
+
+--- 
+
+<br/>
+<br/>
+<br/>
+<br/>
+
 #### Master's Project
 #### Research
 
 --- 
 
-**Prequel to Hawkes Processes: An Overview of Spatial, Temporal and Spatio-Temporal Point Processes and Some Simulations**, Portland, OR, Mar 2021 – 
+**Prequel to Hawkes Processes: An Overview of Spatial, Temporal and Spatio-Temporal Point Processes and Some Simulations**, Portland, OR, Mar 2021 – June 2021
 
 <i> Master's Project for MS in statistics at OSU
 <p align="justify"> Title: Prequel to Hawkes Processes: An Overview of Spatial, Temporal and Spatio-Temporal Point Processes and Some Simulations </p>
 
-<p align="justify"> Description: </p>
+<p align="justify"> Description: We give brief introductions, review definitions, discuss properties and applications of selected spatial and temporal point processes leading up to spatio-temporal SEPP, and simulate some of the processes in 1D and 2D in hope that interested readers have the background knowledge to comprehend existing SEPP literature as well as explore the field further. </p>
+
+[[PDF]](https://github.com/franceslinyc/Hawkes-Process-2021/blob/main/analysis/Lin_Masters_Project.pdf)
+[[Repository]](https://github.com/franceslinyc/Hawkes-Process-2021) 
 
 --- 
 

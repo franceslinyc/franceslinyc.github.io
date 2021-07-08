@@ -16,8 +16,6 @@ permalink: /coursework/
 
 #### Scheduled coursework 
 **PhD, Statistics, Oregon State Univeristy, 2021 — Present** <br>
-
-
 <br/>
 <br/>
 
@@ -31,7 +29,6 @@ permalink: /coursework/
 **More Theories...**<br>
 
 - Advanced Theory of Statistics I (Measure, Decision Theory, Loss Functions, Exponential Families, Unbiasedness, Equivariance, Bayes) <br>
-
 - Advanced Theory of Statistics II (Minimax, Admissibility, Shrinkage, Hypothesis Testing: UMP, MLR, UMPU) <br>
 
 **Data Science**<br>
