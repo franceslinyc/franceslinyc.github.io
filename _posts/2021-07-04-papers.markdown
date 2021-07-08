@@ -4,4 +4,4 @@ title:  "Papers to read"
 date:   2021-07-04 11:50:00
 categories: jekyll update
 ---
-I have 3 papers to read: [this](https://www.jstor.org/stable/pdf/20696583.pdf?casa_token=XoTUpHrZh3IAAAAA:9ECrjjFcHyS-8chy1AymFQLEuxyDwx9i74E1BjCHmFswpuScM77WBdmvdwFvKJkoPD7kvQiRFPQkS2JHrCJbDTF4MA93DYlEji4phidXYy1JuVF80mWvKw), [this](http://sites.science.oregonstate.edu/~madsenl/files/MadsenBirkes2013.pdf) and [this](https://arxiv.org/pdf/1710.05013.pdf), yet I am having too much fun musings over machine learning and Python. 
+I have 3 papers to read: [this](https://www.jstor.org/stable/pdf/20696583.pdf?casa_token=XoTUpHrZh3IAAAAA:9ECrjjFcHyS-8chy1AymFQLEuxyDwx9i74E1BjCHmFswpuScM77WBdmvdwFvKJkoPD7kvQiRFPQkS2JHrCJbDTF4MA93DYlEji4phidXYy1JuVF80mWvKw), [this](http://sites.science.oregonstate.edu/~madsenl/files/MadsenBirkes2013.pdf) and [this](https://arxiv.org/pdf/1710.05013.pdf), yet I am having too much fun musing on machine learning and `Python`. 
