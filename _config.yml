@@ -21,7 +21,7 @@
 title: Frances Lin (she/her)
 email: linyuchu@oregonstate.edu
 description: >- # this means to ignore newlines until "baseurl:"
-  MS student in statistics at the Oregon State University
+  PhD student in statistics at the Oregon State University
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://franceslinyc.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: jekyllrb
