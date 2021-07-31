@@ -4,4 +4,7 @@ title:  "Papers to read"
 date:   2021-07-04 11:50:00
 categories: jekyll update
 ---
-I have 3 papers to read: [this](https://www.jstor.org/stable/pdf/20696583.pdf?casa_token=XoTUpHrZh3IAAAAA:9ECrjjFcHyS-8chy1AymFQLEuxyDwx9i74E1BjCHmFswpuScM77WBdmvdwFvKJkoPD7kvQiRFPQkS2JHrCJbDTF4MA93DYlEji4phidXYy1JuVF80mWvKw), [this](http://sites.science.oregonstate.edu/~madsenl/files/MadsenBirkes2013.pdf) and [this](https://arxiv.org/pdf/1710.05013.pdf), yet I am having too much fun musing on machine learning and `Python`. 
+I have 3 papers to read: [this](https://www.jstor.org/stable/pdf/20696583.pdf?casa_token=XoTUpHrZh3IAAAAA:9ECrjjFcHyS-8chy1AymFQLEuxyDwx9i74E1BjCHmFswpuScM77WBdmvdwFvKJkoPD7kvQiRFPQkS2JHrCJbDTF4MA93DYlEji4phidXYy1JuVF80mWvKw) (MLE of spatially dependent discrete data), [this](http://sites.science.oregonstate.edu/~madsenl/files/MadsenBirkes2013.pdf) (simulation of spatially dependent discrete dat) and [this](https://arxiv.org/pdf/1710.05013.pdf) (methods for large spatial data), yet I am having too much fun musing on machine learning and `Python`. 
+
+Update: There has been a slight detour. Instead of venturing into other "state-of-the-art" ml algorithms, which I am sure I'll pick them up over the next few years, I decide to focus instead on two main topics: [Gaussian process](https://en.wikipedia.org/wiki/Gaussian_process) and [MCMC](https://en.wikipedia.org/wiki/Markov_chain_Monte_Carlo).
+
