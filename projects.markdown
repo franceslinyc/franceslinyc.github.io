@@ -45,7 +45,7 @@ Dataset include (from most recent to oldest):
 
 <p align="justify"> Description: These mini projects introduce and walk through selected machine learning algorithms such as random forest, boosting and k-means clustering and use Python Libraries such as scikit-learn to apply the algorithms to simulated (e.g. GMM) or real-world data (e.g. wine quality). </p>
 
-Some of the sections are omitted for now since we already spent a fair amount of time (~ a year) on the topics through one of the statistical methods sequence, GLMs, and statistical learning class. The next two topics of focus are perhaps: Gaussian processes & MCMC.</p>
+<p align="justify"> Some of the sections are omitted for now since we already spent a fair amount of time (~ a year) on the topics through one of the statistical methods sequence, GLMs, and statistical learning class. The next two topics of focus are perhaps: Gaussian processes & MCMC. </p>
 
 [[Repository]](https://github.com/franceslinyc/Machine-Learning-2021-Current) 
 
