@@ -16,8 +16,12 @@ permalink: /coursework/
 
 #### Scheduled coursework 
 **PhD, Statistics, Oregon State Univeristy, 2021 — Present** <br>
-<br/>
-<br/>
+
+**Research**<br>
+
+**Theories**<br>
+
+- Probability Theory (Measure Theory, Convergence, Central Limit Theorem, Characteristic Functions, Martingales) <br>
 
 #### Completed coursework
 **MS, Statistics, Oregon State Univeristy, 2019 — 2021**<br>
@@ -56,7 +60,7 @@ permalink: /coursework/
 
 **Consulting**<br>
 
-- Consulting Practicum (Cases: Occupancy Modeling, Meta-survey Analysis) <br> <i> 2021, </i> [[See more details]](https://franceslinyc.github.io/experience/)
+- Consulting Practicum (Cases: Occupancy Modeling, Meta-survey Analysis) <br> <i> 2021, 2021, </i> [[See more details]](https://franceslinyc.github.io/experience/)
 
 **Others (Sampling Methods, Statistical/Machine Learning, etc)**<br>
 
