@@ -6,7 +6,9 @@ permalink: /experience/
 
 #### Statistical Consulting Services
 
-**Primary Consultant, Oregon State University, Corvallis, OR, Sep 2021 – Dec 2021** 
+**Primary Consultant, Oregon State University, Corvallis, OR, Sep 2021 – Oct 2021** 
+
+- Co-consulted with Shannon Leiss on a Fisheries & Wildlife MS project involving t-test, one-, multi-way ANOVA analyses and multiple testing techniques for Pacific oyster larval performance across different rearing systems 
 
 <br/>
 <br/>
@@ -30,7 +32,9 @@ permalink: /experience/
 
 **Graduate**
 
-ST 411/511 Methods of Data Analysis, Fall 2021
+ST 411/511 Methods of Data Analysis I, Fall 2021
+<br/>
+ST 412/512 Methods of Data Analysis II, Winter 2021
 <br/>
 
 **Undergraduate**
