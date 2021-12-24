@@ -6,10 +6,11 @@ permalink: /whatelse/
 
 <p align="justify"> When I am not musing on math or stats or programming in R/Python, I enjoy skiing, traveling, being outdoors, and watching thriller and dark comedy films/TV series on Netflix. </p>
 
-<p align="justify"> My dream travel destination: Iceland </p>
+<br>
+<br>
 
-<br>
-<br>
+![](https://raw.githubusercontent.com/franceslinyc/franceslinyc.github.io/master/_photos/2021%20at%20Mammoth%20Mountain%20Ski%20Area.jpeg)
+Dec, 2021 at Mammoth Mountain Ski Area, CA
 
 ![](https://raw.githubusercontent.com/franceslinyc/franceslinyc.github.io/master/_photos/5%2C%202019%20at%20Rocky%20Mountain%20National%20Park.jpg)
 May (yes, May!), 2019 at Rocky Mountain National Park, CO 
