@@ -34,7 +34,7 @@ permalink: /experience/
 
 ST 411/511 Methods of Data Analysis I, Fall 2021
 <br/>
-ST 412/512 Methods of Data Analysis II, Winter 2021
+ST 412/512 Methods of Data Analysis II, Winter 2022
 <br/>
 
 **Undergraduate**
