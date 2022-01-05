@@ -27,7 +27,6 @@ Notes from Dr. *Jiang, Duo*:
 
 [Matrix Algebra Review: Linear Independence, Rank, Inverse, some Thms](https://github.com/franceslinyc/franceslinyc.github.io/blob/master/notes_ST651/01042022.pdf)
 
-
 **Methods**<br>
 
 - Survival Analysis () <br>
