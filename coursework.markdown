@@ -21,9 +21,24 @@ permalink: /coursework/
 
 **Theories**<br>
 
-- Probability Theory (Measure Theory, Convergence, Central Limit Theorem, Characteristic Functions, Martingales) <br>
+- Linear Models Theory () <br>
+
+Notes from Dr. *Jiang, Duo*.
+
+[Matrix Algebra Review: Linear Independence, Rank, Inverse, some Thms](https://github.com/franceslinyc/franceslinyc.github.io/blob/master/notes_ST651/01042022.pdf)
+
+
+**Methods**<br>
+
+- Survival Analysis () <br>
 
 #### Completed coursework
+**PhD, Statistics, Oregon State Univeristy, 2021 — Present** <br>
+
+**Theories**<br>
+
+- Probability Theory (Measure Theory, Convergence, Central Limit Theorem, Characteristic Functions, Martingales) <br>
+
 **MS, Statistics, Oregon State Univeristy, 2019 — 2021**<br>
 
 **Research**<br>
