@@ -5,6 +5,18 @@ date: "1/4/2022"
 output: pdf_document
 ---
 
+## Outline
+
+Linearly Independence 
+
+Rank
+
+Full Rank Matrix
+
+Inverse
+
+Computation
+
 ## Linearly Independence
 
 A set of vectors $a_1$, $a_2$,... $a_n$ is said to be linearly independent if there exists $c_1$, $c_2$,... $c_n$ not all zero s.t.
