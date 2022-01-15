@@ -1,0 +1,7 @@
+---
+title: 'ST 661 Note'
+author: "Frances Lin"
+date: "1/13/2022"
+output: pdf_document
+---
+
