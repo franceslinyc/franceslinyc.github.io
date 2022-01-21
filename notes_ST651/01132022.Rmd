@@ -5,3 +5,277 @@ date: "1/13/2022"
 output: pdf_document
 ---
 
+## Outline 
+
+Orthogonal matrices (Cont.)
+
+Trace
+
+Eigenvales and eigenvector 
+
+- general
+
+- functions of matrices
+
+- symmetric 
+
+- pd
+
+## Definition 
+
+$$
+C \ is \ orthogonal <=> C^T C = I <=> CC^T = I <=> C^{-1} = C^T
+$$
+
+## Thm 
+
+If C is a $p$x$p$ orthogonal and A is $p$x$p$, 
+
+i) $det(C) = \pm 1$
+
+This is because $C^T C = I$, $det(C^TC) = det(C^T) det(C) = det(C) det(C) = 1$.
+
+ii) $det(C^TAC) = det(A)$, 
+
+where $C^TAC$ is called conjugate transformation of A.  
+
+proof. 
+$$
+det(C^TAC) = det(ACC^T) = det(ACC^T) = det(AI) = det(A) \ \ \ \ \ \Box
+$$
+
+iii) $-1 \leq C_{ij} \leq 1$ for all $i$, $j$ since they were normalized. 
+
+
+## Trace (For Square Matrices Only)
+
+For $n$x$n$ matrix $A = (a_{ij})$, $1 \leq i, j \geq n$, trace is a linear scalar function of $A$ s.t. $tr(A) = \sum_{i = 1}^N a_{ij}$.
+
+## Thm  
+
+i) If A, B are both $n$x$n$, then 
+$$
+tr(A + B) = tr(A) + tr(B).
+$$
+
+ii) For A$: n x p$ and B$: p x n$,  
+$$
+tr(AB) = tr(BA).
+$$ 
+
+Proof. Exercise. Use definition of trace. 
+
+Example. If C is orthogonal, is $tr(C^TAC) = tr(A)$? 
+
+Proof. Yes, and the proof is similiar to $det(A^TAC) = det(A)$. Here, we have 
+$$
+tr(C^TAC) = tr(ACC^T) = tr(AI) = tr(A). 
+$$
+This is called the conjugate transformation. There are other transformations. Suppose P is nonsingular, then the similarity transformation is given as $P^{-1}AP$ and
+$$
+tr (P^{-1}AP) = tr(A). 
+$$
+
+## Taking A Step Back 
+
+Saying A is $n$x$p$ matrix is same as saying that $A \in \mathbb{R}^n$. A can also be thought as a linear transformation. If
+
+$$
+A_{nxp} X_{px1} = nx1, 
+$$
+then $A: \mathbb{R}^p \rightarrow \mathbb{R}^n$ for $x \rightarrow AX$. 
+
+If A is $n$x$n$, then $A: \mathbb{R}^n \rightarrow \mathbb{R}^n$ for $x \rightarrow AX$. 
+
+Next, we want to ask 
+
+1. For what A, we have $||x||$ (length of x) $= ||Ax||$ for all $x \in \mathbb{R}^n$ (i.e. rotation)?
+
+To make 
+$$
+||x|| = \sqrt(x^Tx) = \sqrt({(Ax)}^T (Ax)) \\ 
+= \sqrt(x^TA^TAx), 
+$$
+we need
+$$
+x^Tx = x^TA^TAx.
+$$
+
+Or more like we need 
+$$
+x^TI x = x^TA^TAx \\ 
+<=> x^T (A^TA - I)x = 0 \ \forall x
+$$
+
+$$
+=> A^TA = I
+$$
+
+$<=>$ A has to be orthogonal (and A is a rotation matrix). I.e., orthogonal matrices preserve length. 
+
+2. For what A, do we have $x$ and $Ax$ in the same direction $\forall x$? 
+
+x and ax are in the direction $\forall$ a. For scalr a, we need 
+$$
+A x = a x 
+$$
+Then 
+$$
+A = aI, 
+$$
+if a is the same since 
+$$
+(A - aI) x = 0 \ \forall x. 
+$$
+
+Or more flexible A can be 
+$$
+A = 
+\begin{bmatrix} 
+1 & 0 & 0 & 0\\
+0 & 2 & 0 & 0\\
+0 & 0 & 3 & 0 \\
+0 & 0 & 0 & \ddots
+\end{bmatrix}.
+$$
+
+Relaxing it a bit, we can ask 
+
+3. For a given A, what x guarantee that (nontrivial) x and Ax are in the same direction? 
+
+
+## Eigenvalues 
+
+A is $n$x$n$. A scalar $\lambda$ is called an eigenvalue of A is $\exists$ $x$ s.t.
+$$
+Ax = \lambda x.
+$$
+Such a vector x is called an eigenvector of A. 
+
+To find $\lambda$ and x, set 
+$$
+(A - \lambda I) x = 0.
+$$
+
+Since $(A - \lambda I)$ has to be singular (???) $<=>$ $det(A - \lambda I) = 0$. This is a degree $n$ polynomial about $\lambda$. In addition, root of degree $n$ polynomial has $n$ items and exists, so $\lambda$ always exists. 
+
+## Characteristic Equation 
+
+$(A - \lambda I) x = 0$ is called the characteristic (or polynomial) equation of $A$. $\lambda$ is an eigenvalue of $A$ and $x$ is a corresponding eigenvector. 
+
+$A x = \lambda x$ 
+
+Claim. $2x$ is also eigenvector of $A$ corresponding to $\lambda$. 
+
+Proof. 
+$$
+A(2x) = 2Ax = 2 \lambda x = \lambda (2x)
+$$
+
+In general, $cx$ is also an eigenvector of $A$, where $c$ is a scalar and $\neq 0$. Among this class of eigenvectors, we often require $||x^Tx|| = 1$ for eigenvector. 
+
+Ques. Suppose $\lambda$ is an eigenvalue of $A$ with corresponding eigenvector $x$, when does $g(A)$ has the same $\lambda$? 
+
+i) $g(A) = cA$ where $c$ is a scalar 
+
+Proof. 
+$$
+A x = \lambda x => (cA) x = c \lambda x, 
+$$
+so $c \lambda$ is an eigenvalue of $cA$. 
+
+ii) $g(A) = cA + bI$ 
+
+$$
+g(A)x = (cA + bI)x = cAx + bIx \\
+= cAx + bx \\
+= c \lambda x + bx \\
+= (c \lambda + b)x, 
+$$
+so $(c \lambda + b)$ is an eigenvalue of $g(A) = cA + bI$. 
+ 
+iii) Suppose $g(A) = A^2$, is $\lambda^2$ an eigenvalue of $A^2$? Yes. 
+ 
+Proof. 
+$$
+(A^2x) = A(Ax) \\
+= A(\lambda x) \\
+= \lambda(Ax) \\
+= \lambda(\lambda x) = \lambda^2 x \ \ \ \ \ \Box
+$$
+In general, $A^k$ has $\lambda^k$ as an eigenvalue. 
+
+iv) Combining ii) and iii), we get that 
+$$
+(A^3 + 4A^2 - 3A + 3I)x \\
+= A^3x + 4A^2x - 3A + 3x \\
+= \lambda^3x + 4\lambda^2x - 3\lambda x + 3x \\ 
+= (\lambda^3 + 4\lambda^2 - 3\lambda + 3)x.
+$$
+
+v) Suppose $A$ is nonsingular (has inverse), $g(A) = A^{-1}$ has $\frac{1} {\lambda}$ as an eigenvalue. 
+
+Claim. If $A$ is nonsingular, then $\lambda \neq 0$. 
+
+Proof. If $\lambda = 0$, then $\exists$ $x \neq 0$ s.t. $Ax = 0$ $x = 0$. 
+
+## Thm 
+
+$A$ is $n$x$n$, 
+
+i) If $P$ is nonsingular, then $P^{-1}AP$ and $A$ share the same eigenvalue. 
+
+ii) If $C$ is orthogonal, then $C^TAC$ and $A$ share the same eigenvalue. 
+
+Proof. HW. Remark. Eigenvectors may be different. 
+
+
+## (!Important) Thm 
+
+$A$ is $n$x$n$ symmetric (i.e. $A = A^T$ or $a_{ij} = a_{ji}$), then 
+
+i) The eigenvalue $\lambda_1$, $\lambda_2...$, $\lambda_n$ are real (some of them have the same eigenvetor). 
+
+ii) The eigenvector $x_1$, $x_2...$, $x_k$ of $A$ corresponding to the distinct eigenvalue $\lambda_1$, $\lambda_2...$, $\lambda_k$ are mutually orthogonal and the eigenvector $x_{k+1}$, $x_{k+2}...$, $x_{k+n}$ corresponding to the nondistinct eigenvalue can be chosen to be mutually orthogonal, so $x_i^T x_j^T = 0$ $\forall \ i \neq j$. 
+
+Ques. Why though? 
+$C$ is $n$x$n$ 
+$$
+C = 
+\begin{bmatrix} 
+c_1  & c_2 & \cdots & c_n
+\end{bmatrix} \\
+= 
+\begin{bmatrix} 
+x_1  & x_2 & \cdots & x_n
+\end{bmatrix} \\ 
+= 
+\begin{bmatrix} 
+| & | & \cdots & \cdots & |
+\end{bmatrix}
+$$
+
+$C$ is an orthogonal matric becuase using this this thm, there is way to make sure we have orthogonal vector. 
+
+$$
+AC = A (x_1, x_2,... x_n) \\
+= (Ax_1, Ax_2,... Ax_n) \\
+= (\lambda_1 x_1, \lambda_2 x_2,... \lambda_n x_n) \\
+= C \begin{bmatrix} 
+\lambda_1 & & & \\ 
+ & \lambda_2 \\
+ & & \ddots \\
+ & & & \lambda_n 
+\end{bmatrix} \\
+= (or \ \ CD) ,
+$$
+where $x_i$ are eigenvectors. 
+
+$AC = CD$ where $C$ is an orthogonal matrix. 
+
+$=> A = CDC^T$ for any symmetric $A$ (This is called spectral decomposition.)
+
+$<=> C^TAC = D$ This is called the diagonization of matrix. 
+
+
+
