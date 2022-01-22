@@ -1,0 +1,190 @@
+---
+title: "ST 661 Note"
+author: "Frances Lin"
+date: "1/20/2022"
+output: pdf_document
+---
+
+## Outline 
+
+- Idempotent matrix 
+
+- Matrix calculus 
+
+## Last time 
+
+Let $A_1$ be the 1st subspace and $A_2$ be the second subspace, then we can write $x$ s.t. 
+$$
+x = A_1 x + A_2 x \ \ \ \forall x \in \mathbb{R}^n
+$$
+
+$$
+I = A_1 + A_2 \ \ , \ rank(I) = 2
+$$
+$$
+rank(A_1) = 1 \\
+rank(A_2) = 2
+$$
+Both $A_1$ and $A_2$ are idempotent matrices. 
+
+Now, we pick $x \in \mathbb{R}^3$ and decompose it s.t. 
+$$
+x = A_1 x + A_2 x, 
+$$
+where
+$$
+rank(A_1) = 2 \ \ \  a \ plane \\
+rank(A_2) = 1 \ \ \  a \ line, 
+$$
+so
+$$
+rank(I) = 3 = 2 + 1 = rank(A_1) + rank(A_2).
+$$
+
+## Thm 
+
+$I: $ $n$x$n$, $I = A_1 + A_2 +... A_k$ ($k$ can be anything $\leq n$), where each $A_i$ is $n$x$n$ symmetric of rank $r_i$. 
+
+If $\sum_{i = 1}^k = n$ (no gain or loss of rank), then 
+
+i) $A_i$ (each $A_i$) is idempotent $i = 1, 2,... k$ 
+
+ii) $A_i A_j = 0$ $i \neq j$ (complementary)
+
+Comment. In general, $rank(A + B) \neq rank(A) + rank(B)$. So when it is equal, then all $A_i$ are idempotent. 
+
+e.g. $n = 2$
+$$
+I = \begin{bmatrix} 
+1 & 0\\
+0 & 1
+\end{bmatrix} \\ 
+= \begin{bmatrix} 
+1 & 0\\
+0 & 0
+\end{bmatrix}
+\begin{bmatrix} 
+0 & 0\\
+0 & 1
+\end{bmatrix} \\
+= A_1 + A_2
+$$
+So, $rank(A_1) + rank(A_2) = 2 = rank(I)$. 
+
+$=>$ 
+
+i) $A_1$ $A_2$ are both idempotent 
+
+ii) $A_1 A_2 = 0$ Info does not overlap. 
+
+$$
+x = 
+\begin{bmatrix} 
+x_1 \\
+x_2
+\end{bmatrix}
+$$
+$$
+A_1 x = 
+\begin{bmatrix} 
+1 & 0 \\
+0 & 0
+\end{bmatrix}
+\begin{bmatrix} 
+x_1 \\
+0
+\end{bmatrix},
+$$
+projecting to x axis. 
+
+$$
+A_2 x = 
+\begin{bmatrix} 
+0 & 0 \\
+0 & 1
+\end{bmatrix}
+\begin{bmatrix} 
+0 \\
+x_2
+\end{bmatrix}, 
+$$
+projecting to y axis. 
+
+e.g.
+$$
+I = 
+\begin{bmatrix} 
+1 & 0 \\
+0 & 1 
+\end{bmatrix} \\
+= \begin{bmatrix} 
+\frac{1}{2} & 0 \\
+0 & \frac{1}{2}
+\end{bmatrix} + 
+\begin{bmatrix} 
+\frac{1}{2} & 0 \\
+0 & \frac{1}{2}
+\end{bmatrix}
+$$
+In this case, 
+$$
+rank(I) = 2 \neq 2 + 2 = rank(A_1) + rank(A_2)
+$$
+
+Condition is not met. Info overlap. 
+
+ii) 
+$$
+A_1 A_2 = 
+\begin{bmatrix} 
+\frac{1}{4} & 0 \\
+0 & \frac{1}{4}
+\end{bmatrix} \neq 0,
+$$
+so info overlap. 
+
+## Vector or matrix calculus (derivatives mostly)
+
+1. vector $\rightarrow$ scalar 
+
+$u = f(x)$, where $u$ is a scalar, $x$ is a column vector and 
+$$
+x = 
+{\begin{bmatrix} 
+x_1 & x_2 & \cdots & x_p
+\end{bmatrix}}^T \\ 
+= \begin{bmatrix} 
+x_1 \\ 
+x_2 \\ 
+\vdots \\
+x_p
+\end{bmatrix}, 
+$$
+then 
+$$
+\frac{\partial u} {\partial x} = 
+\begin{bmatrix} 
+\frac{\partial u} {\partial x_1} \\ 
+\frac{\partial u} {\partial x_2} \\ 
+\vdots \\
+\frac{\partial u} {\partial x_p}
+\end{bmatrix}. 
+$$
+
+## Thm 
+
+Let $u = a^Tx$ and $a = {(a_1, a_2,... a_p)}^T$ is a constant vector, then
+$$
+\frac{\partial u} {\partial x} = a, 
+$$
+i.e. 
+$$
+\frac{\partial u} {\partial x_1} = a_1.  
+$$
+
+## Thm 
+
+page 3
+
+
+

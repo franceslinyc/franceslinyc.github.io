@@ -1,9 +1,9 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.23 (TeX Live 2022/dev) (preloaded format=pdflatex 2022.1.14)  21 JAN 2022 16:41
+This is pdfTeX, Version 3.141592653-2.6-1.40.23 (TeX Live 2022/dev) (preloaded format=pdflatex 2022.1.14)  21 JAN 2022 22:43
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
-**01182021.tex
-(./01182021.tex
+**01182022.tex
+(./01182022.tex
 LaTeX2e <2021-11-15> patch level 1
 L3 programming layer <2022-01-12> (/Users/franceslinyc/Library/TinyTeX/texmf-di
 st/tex/latex/base/article.cls
@@ -347,8 +347,8 @@ dftex.def
 File: l3backend-pdftex.def 2022-01-12 L3 backend support: PDF output (pdfTeX)
 \l__color_backend_stack_int=\count284
 \l__pdf_internal_box=\box52
-) (./01182021.aux)
-\openout1 = `01182021.aux'.
+) (./01182022.aux)
+\openout1 = `01182022.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 70.
 LaTeX Font Info:    ... okay on input line 70.
@@ -396,9 +396,9 @@ Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 LaTeX Info: Redefining \ref on input line 70.
 LaTeX Info: Redefining \pageref on input line 70.
 LaTeX Info: Redefining \nameref on input line 70.
-(./01182021.out) (./01182021.out)
+(./01182022.out) (./01182022.out)
 \@outlinefile=\write3
-\openout3 = `01182021.out'.
+\openout3 = `01182022.out'.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -489,8 +489,8 @@ ap}] [2] [3] [4] [5]
 LaTeX Warning: No positions in optional float specifier.
                Default added (so using `tbp') on input line 436.
 
-[6] (./01182021.aux)
-Package rerunfilecheck Info: File `01182021.out' has not changed.
+[6] (./01182022.aux)
+Package rerunfilecheck Info: File `01182022.out' has not changed.
 (rerunfilecheck)             Checksum: D6D1D1D2F830C6D99BF7EB9506C2B06E;756.
  ) 
 Here is how much of TeX's memory you used:
@@ -520,7 +520,7 @@ lm/lmr17.pfb></Users/franceslinyc/Library/TinyTeX/texmf-dist/fonts/type1/public
 /lm/lmsy10.pfb></Users/franceslinyc/Library/TinyTeX/texmf-dist/fonts/type1/publ
 ic/lm/lmsy7.pfb></Users/franceslinyc/Library/TinyTeX/texmf-dist/fonts/type1/pub
 lic/amsfonts/symbols/msbm10.pfb>
-Output written on 01182021.pdf (6 pages, 188657 bytes).
+Output written on 01182022.pdf (6 pages, 188657 bytes).
 PDF statistics:
  186 PDF objects out of 1000 (max. 8388607)
  150 compressed objects within 2 object streams
