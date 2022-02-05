@@ -22,8 +22,7 @@ $$
 I = A_1 + A_2 \ \ , \ rank(I) = 2
 $$
 $$
-rank(A_1) = 1 \\
-rank(A_2) = 2
+rank(A_1) = 1 \ \ , \ rank(A_2) = 2
 $$
 Both $A_1$ and $A_2$ are idempotent matrices. 
 
@@ -33,7 +32,7 @@ x = A_1 x + A_2 x,
 $$
 where
 $$
-rank(A_1) = 2 \ \ \  a \ plane \\
+rank(A_1) = 2 \ \ \  a \ plane \ \ , \ 
 rank(A_2) = 1 \ \ \  a \ line, 
 $$
 so
@@ -43,7 +42,7 @@ $$
 
 ## Thm 
 
-$I: $ $n$x$n$, $I = A_1 + A_2 +... A_k$ ($k$ can be anything $\leq n$), where each $A_i$ is $n$x$n$ symmetric of rank $r_i$. 
+$I:$ $n$x$n$, $I = A_1 + A_2 +... A_k$ ($k$ can be anything $\leq n$), where each $A_i$ is $n$x$n$ symmetric of rank $r_i$. 
 
 If $\sum_{i = 1}^k = n$ (no gain or loss of rank), then 
 
@@ -184,7 +183,240 @@ $$
 
 ## Thm 
 
-page 3
+$u = X^T A X$ (quadratic form). A is symmetric matrix of constants. 
+$$
+u = X^T A X \\
+= \sum_{i = 1}^n \sum_{i = j}^n a_{ij} x_i x_j, 
+$$
+then 
+$$
+\frac{\partial u} {\partial x} = \frac{\partial X^T A X} {\partial x} \\
+= 2AX, 
+$$
+which is anagulous to taking 
+$$
+\frac{\partial} {\partial x} (ax^2) = 2ax. 
+$$
+
+Proof. 
+$$
+\frac{\partial u} {\partial x_i} = \frac{\partial X^T A X} {\partial x_i} = \ ...... \ \ \ \ \ \ \ \ \Box
+$$
 
 
+2. matrix $\rightarrow$ scalar 
 
+$\mu = f(X)$ $X$ is a $p$x$p$ square matrix. e.g.
+$$
+\frac{\partial u} {\partial X} = 
+\begin{bmatrix} 
+\frac{\partial u} {\partial x_{11}} & \frac{\partial u} {\partial x_{12}} & \cdots & \frac{\partial u} {\partial x_{1p}}\\
+\vdots \\
+\frac{\partial u} {\partial x_{p1}} & \cdots & \cdots & \frac{\partial u} {\partial x_{pp}}
+\end{bmatrix} .
+$$
+
+Notation. $x$ is vector. $X$ is matrix.
+
+## Thm 
+
+$u = tr(XA)$ where $A$ is a $p$x$p$ constant matrix (This is more general than $u = tr(X)$.), then 
+$$
+\frac{\partial u} {\partial X} = \frac{\partial} {\partial X} tr(XA)
+$$
+
+$$
+= A + A^T - diag(A). 
+$$
+Proof. 
+$$
+tr(XA) = \sum_{i=1}^p \sum_{j=1}^p x_{ij} a_{ji}
+$$
+Verify the above. 
+
+$$
+\frac{\partial} {\partial x_{ij}} = 
+\left\{\begin{aligned}
+&a_{ij} + a_{ji} && i \neq j \\
+&a_{ii} && i = j
+\end{aligned}
+\right.                    
+$$
+The idea is that $tr()$ is a linear function. 
+
+
+## Thm 
+
+$u = log(det(X))$, $X$ is $p$x$p$ p.d., then 
+
+$$
+\frac{\partial} {\partial X} (det(X)) = 2X^{-1} - diag(X^{-1}).
+$$
+
+Proof. Skip here.
+
+E.g. log likelihood of MVN's sigma term. 
+
+3. scalar $\rightarrow$ vector or matrix 
+
+$A: A(x)$ where $x$ is scalar. 
+
+$A: (a_{ij})$ is matrix. 
+
+## Properties 
+
+$A = A(x)$ and $B = B(x)$
+
+i) If A and B have the same dim, then
+
+$$
+\frac{\partial} {\partial X} (A + B)  = \frac{\partial A} {\partial X} + \frac{\partial B} {\partial X} .
+$$
+
+ii) If A and B are conformal for multiplication, then 
+
+$$
+\frac{\partial} {\partial X} (AB) = \frac{\partial A} {\partial X} B + A \frac{\partial B} {\partial X} 
+$$
+
+$$
+\frac{\partial} {\partial X} (ABC) = \frac{\partial A} {\partial X} B C + A \frac{\partial B} {\partial X} C + AB \frac{\partial C} {\partial X} .
+$$
+
+## Thm 
+
+$A = A(x)$ is nonsingular, $A^{-1} = A^{-1}(x)$ is another matrix function of $x$, then
+
+$$
+\frac{\partial} {\partial X} A^{-1} = - A^{-1} + \frac{\partial A} {\partial X} A^{-1}
+$$
+
+Proof. Start with $A A^{-1} = I$. $\frac{\partial A} {\partial X}$, $A^{-1}$, and $A$ are known, then
+
+$$
+0 = \frac{\partial A A^{-1}} {\partial X} = \frac{\partial A} {\partial X} A^{-1} + A \frac{\partial A^{-1}} {\partial X}, 
+$$
+so 
+$$
+A \frac{\partial A^{-1}} {\partial X} = - \frac{\partial A} {\partial X} A^{-1} 
+$$
+
+$$
+\frac{\partial A^{-1}} {\partial X} = - A^{-1} \frac{\partial A} {\partial X} A^{-1} \ \ \ \ \ \Box
+$$
+
+
+## Thm 
+
+$A = A(x)$ Now $A$ is indexed by scalar. $A$ is $n$x$n$, symmetric, p.d. $log(det(A))$ is a scalar function of $x$, then 
+
+$$
+\frac{\partial} {\partial X} log(det(A)) = tr(A^{-1} \frac{\partial A} {\partial X})
+$$
+
+Proof. $A = CDC^T$ 
+
+First, show that 
+
+$$
+\frac{\partial} {\partial X} log(det(D)) = \frac{\partial} {\partial X} log(\lambda_1,... \lambda_n) \\
+= \frac{\partial} {\partial X} (log(\lambda_1),... log(\lambda_n)) \\
+= \sum_{i=1}^n \frac{1} {\lambda_i} \frac{\partial \lambda_i} {\partial X}
+$$
+
+$$
+? tr(D^{-1} \frac{\partial D} {\partial X})
+$$
+$$
+= tr(
+\begin{bmatrix} 
+\frac{1} {\lambda_1} & 0 & 0\\
+0 & \ddots & 0 \\
+0 & 0 & \frac{1} {\lambda_n}
+\end{bmatrix} 
+\begin{bmatrix} 
+\frac{\partial \lambda_1} {\partial X} & 0 & 0\\
+0 & \ddots & 0 \\
+0 & 0 & \frac{\partial \lambda_n} {\partial X}
+\end{bmatrix}
+)
+$$
+$$
+= tr(
+\begin{bmatrix} 
+\frac{1} {\lambda_1} \frac{\partial \lambda_1} {\partial X} & 0 & 0\\
+0 & \ddots & 0 \\
+0 & 0 & \frac{1} {\lambda_n} \frac{\partial \lambda_n} {\partial X}
+\end{bmatrix} 
+)
+$$
+$$
+= \sum_{i=1}^n \frac{1} {\lambda_i} \frac{\partial \lambda_i} {\partial X}. 
+$$
+Next, for general $A$, we want to diagonalize it: $A = CDC^T$. 
+
+Recall that $det(CDC^T) = det(D)$ since $C$... , so
+
+$$
+\frac{\partial} {\partial X} log(det(A)) = \frac{\partial} {\partial X} log(det(D)) \\
+= tr(D^{-1} \frac{\partial D} {\partial X}) \\ 
+? tr(A^{-1})\frac{\partial A} {\partial X}
+$$
+? remains to be shown. 
+
+Start with RHS, we have that 
+
+$$
+tr(A^{-1} \frac{\partial A} {\partial X}) = tr({(CDC^T)}^{-1} \frac{\partial (CDC^T)} {\partial X})
+$$
+$$
+= tr((CD^{-1}C^T) ((\frac{\partial C} {\partial X})DC^T + C (\frac{\partial D} {\partial X}) C^T) + CD (\frac{\partial C^T} {\partial X}))
+$$
+$$
+= tr(CD^{-1}C^T (\frac{\partial C} {\partial X})DC^T) + \\
+tr(CD^{-1}C^T C(\frac{\partial D} {\partial X})C^T) + \\
+tr(CD^{-1}C^T CD(\frac{\partial C^T} {\partial X}))
+$$
+Recall that $tr(AB) = tr(BA)$ 
+
+$$
+= tr(D^{-1}C^T \frac{\partial C} {\partial X} D I) + \\
+... + \\
+... \\
+= tr(C^T \frac{\partial C} {\partial X}) + \\
+tr(D^{-1} \frac{\partial D} {\partial X}) + \\
+tr(C \frac{\partial C^T } {\partial X})
+$$
+
+To show that
+$$
+tr(A^{-1} \frac{\partial A} {\partial X}) = tr(D^{-1} \frac{\partial D} {\partial X}), 
+$$
+need to show 
+$$
+tr(C^T \frac{\partial C} {\partial X}) + tr(C \frac{\partial C^T } {\partial X}) = 0
+$$
+
+$$
+tr(C^T \frac{\partial C} {\partial X}) + tr(C \frac{\partial C^T } {\partial X}) \\
+= tr(C^T \frac{\partial C} {\partial X} + C \frac{\partial C^T } {\partial X}), 
+$$
+but this is not quite the same. 
+
+However, notice that 
+$$
+\frac{\partial I} {\partial X} = \frac{\partial (CC^T)} {\partial X} \\
+= \frac{\partial C} {\partial X} C^T + C \frac{\partial C^T} {\partial X} = 0, 
+$$
+since $I$ does not depend on X. 
+
+Reverse the order of the 1st term s.t. 
+
+$$
+tr(\frac{\partial C} {\partial X} C^T + C \frac{\partial C^T } {\partial X}), 
+$$
+then 
+$$
+= \frac{\partial (CC^T)} {\partial X} \\
+= \frac{\partial I} {\partial X} = 0 \ \ \Box
+$$
