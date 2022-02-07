@@ -75,6 +75,8 @@ This is called the conjugate transformation. There are other transformations. Su
 $$
 tr (P^{-1}AP) = tr(A). 
 $$
+Check p.59 of PDF for more. 
+
 
 ## Taking A Step Back 
 
@@ -115,7 +117,7 @@ $<=>$ A has to be orthogonal (and A is a rotation matrix). I.e., orthogonal matr
 
 2. For what A, do we have $x$ and $Ax$ in the same direction $\forall x$? 
 
-x and ax are in the direction $\forall$ a. For scalr a, we need 
+x and ax are in the direction $\forall$ a. For scalar a, we need 
 $$
 A x = a x 
 $$
@@ -157,7 +159,7 @@ $$
 (A - \lambda I) x = 0.
 $$
 
-Since $(A - \lambda I)$ has to be singular (???) $<=>$ $det(A - \lambda I) = 0$. This is a degree $n$ polynomial about $\lambda$. In addition, root of degree $n$ polynomial has $n$ items and exists, so $\lambda$ always exists. 
+Since $(A - \lambda I)$ has to be singular $<=>$ $det(A - \lambda I) = 0$. This is a degree $n$ polynomial about $\lambda$. In addition, root of degree $n$ polynomial has $n$ items and exists, so $\lambda$ always exists. 
 
 ## Characteristic Equation 
 
@@ -277,5 +279,5 @@ $=> A = CDC^T$ for any symmetric $A$ (This is called spectral decomposition.)
 
 $<=> C^TAC = D$ This is called the diagonization of matrix. 
 
-
+Check p.66 of PDF for more. 
 

@@ -1,0 +1,48 @@
+---
+output: pdf_document
+geometry: margin=1cm
+---
+
+## Transpose 
+
+\newpage
+
+## Rank 
+
+\newpage
+
+## Inverse
+
+\newpage
+
+## Quadratic form 
+
+\newpage
+
+## pd, psd 
+
+\newpage 
+
+## Determinant
+
+\newpage
+
+## Orthogonal matrices 
+
+\newpage
+
+## Trace
+
+\newpage
+
+## Eigenvalue, eigenvector 
+
+\newpage
+
+## Idempotent matrix
+
+\newpage
+
+## Matrix calculus
+
+\newpage

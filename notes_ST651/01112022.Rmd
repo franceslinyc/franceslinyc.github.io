@@ -62,7 +62,7 @@ i) If $rank(B)=p$, then $B^T B$ is pd.
 
 ii) If $rank(B)<p$, then $B^T B$ is psd, not pd. (psd can be pd but not in this case.)
 
-Proof. Exercise. Use quadric form from previous proof and rank. 
+Proof. Exercise or check p.42 of PDF (textbook). Use quadratic form from previous proof and rank. 
 
 ## Thm 
 
@@ -81,7 +81,7 @@ $=>$ $A^{-1}$ is pd.
 
 ## Determinant 
 
-Check textbook for full definition. As a demonstration, suppose 
+Check p.52 of PDF (textbook) for full definition. As a demonstration, suppose 
 
 $$
 A = 
@@ -147,6 +147,7 @@ $$
 2a_{21} & 2a_{22} 
 \end{bmatrix}. 
 $$
+
 ## Thm 
 
 If A and B are both square $n$x$n$ matrices, then 
@@ -158,7 +159,7 @@ $$
 
 i)
 $$
-det(BA) = det(BA)
+det(BA) = det(AB)
 $$
 
 ii) (special case of thm)
@@ -170,14 +171,15 @@ e.g.
 $$
 det(A^2) = {(det(A))}^2 
 $$
+
 ## Thm 
 
 If A is square and partitioned as 
 $$
 A = 
 \begin{bmatrix} 
-a_{11} & a_{12}\\ 
-a_{21} & a_{22} 
+A_{11} & A_{12}\\ 
+A_{21} & A_{22} 
 \end{bmatrix}
 $$
 and $A_{11}$ and $A_{22}$ are both square and nonsingular (can be of different size), then 
@@ -186,6 +188,8 @@ $$
 det(A) = det(A_{11}) det(A_{22} - A_{21} {(A_{11})}^{-1} A_{12}) \\ 
 = det(A_{22}) det(A_{11} - A_{12} {(A_{22})}^{-1} A_{21}).
 $$
+
+Check p.54 of PDF for more. 
 
 Intuition.  
 $$
@@ -234,6 +238,8 @@ d_1 & 0 & 0\\
 $$
 is diagonal, then $det(D) = d_1 d_2 ... d_n$. 
 
+
+
 ## Thm
 
 $$
@@ -253,16 +259,20 @@ and assume
 $$
 A^{-1} = 
 \begin{bmatrix} 
-A_{11}^{-1} - B^{-1} A_{21} A_{11}^{-1} + A_{11}^{-1} A_{12} B^{-1} A_{21} A_{11}^{-1} & -A_{11}^{-1} A_{12} B^{-1} \\ 
+A_{11}^{-1} + A_{11}^{-1} A_{12} B^{-1} A_{21} A_{11}^{-1} & -A_{11}^{-1} A_{12} B^{-1} \\ 
 -B^{-1} A_{21} A_{11}^{-1} & B^{-1} 
 \end{bmatrix}. 
 $$
 
 ? $dim(A_{11}) = dim(3 \ terms)$
 
+
+Check. p.38 of PDF for more. 
+
+
 Note. We only need $B^{-1}$ and $A_{11}^{-1}$ and the rest are matrix multiplication. 
 
-In addition, this is helpful when we need to compare $A_{11}^{-1} - B^{-1} A_{21} A_{11}^{-1} + A_{11}^{-1} A_{12} B^{-1} A_{21} A_{11}^{-1}$ to $A_{11}^{-1}$. 
+In addition, this is helpful when we need to compare $A_{11}^{-1} (- B^{-1} A_{21} A_{11}^{-1}) + A_{11}^{-1} A_{12} B^{-1} A_{21} A_{11}^{-1}$ to $A_{11}^{-1}$. Remove $(- B^{-1} A_{21} A_{11}^{-1})$ after comparing to p.38 of PDF. 
 
 e.g. 
 $$
@@ -324,6 +334,7 @@ a and b are perpendicular (i.e. $\theta = 90^{0}$) iff
 $$
 cos(\theta) = 0 = a^T b \ \ (or \ \ b^T a = 0 )
 $$
+
 ## Definition 
 
 In general, if a is an $n-$dim vector, then length of a 
@@ -376,7 +387,7 @@ c_2^T \\
 c_p^T
 \end{bmatrix} 
 \begin{bmatrix} 
-c_1^T & c_2^T & \cdots & c_p^T 
+c_1 & c_2 & \cdots & c_p 
 \end{bmatrix} =
 $$
 $(i, j)$ entry of $C^TC = c_i^T c_j = 0$ when $i \neq j$. $C^TC = c_i^T c_j = 1$ when $i = j$, so 
