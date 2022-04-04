@@ -44,7 +44,7 @@ $$
 
 $I:$ $n$x$n$, $I = A_1 + A_2 +... A_k$ ($k$ can be anything $\leq n$), where each $A_i$ is $n$x$n$ symmetric of rank $r_i$. 
 
-If $\sum_{i = 1}^k = n$ (no gain or loss of rank), then 
+If $\sum_{i = 1}^k r_i = n$ (no gain or loss of rank), then 
 
 i) $A_i$ (each $A_i$) is idempotent $i = 1, 2,... k$ 
 

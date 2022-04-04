@@ -1,11 +1,11 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.23 (TeX Live 2022/dev) (preloaded format=pdflatex 2022.1.14)  4 FEB 2022 19:52
+This is pdfTeX, Version 3.141592653-2.6-1.40.23 (TeX Live 2022/dev) (preloaded format=pdflatex 2022.3.2)  15 MAR 2022 13:59
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
-**01182022.tex
-(./01182022.tex
+**Cheatsheet.tex
+(./Cheatsheet.tex
 LaTeX2e <2021-11-15> patch level 1
-L3 programming layer <2022-01-12> (/Users/franceslinyc/Library/TinyTeX/texmf-di
+L3 programming layer <2022-02-24> (/Users/franceslinyc/Library/TinyTeX/texmf-di
 st/tex/latex/base/article.cls
 Document Class: article 2021/10/04 v1.4n Standard LaTeX document class
 (/Users/franceslinyc/Library/TinyTeX/texmf-dist/tex/latex/base/size10.clo
@@ -120,13 +120,8 @@ LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
 (Font)                  OT1/cmr/bx/it --> OT1/lmr/bx/it on input line 37.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
 (Font)                  OT1/cmtt/m/n --> OT1/lmtt/m/n on input line 38.
-) (/Users/franceslinyc/Library/TinyTeX/texmf-dist/tex/generic/iftex/ifxetex.sty
-Package: ifxetex 2019/10/25 v0.7 ifxetex legacy package. Use iftex instead.
-(/Users/franceslinyc/Library/TinyTeX/texmf-dist/tex/generic/iftex/iftex.sty
-Package: iftex 2020/03/06 v1.0d TeX engine tests
-)) (/Users/franceslinyc/Library/TinyTeX/texmf-dist/tex/generic/iftex/ifluatex.s
-ty
-Package: ifluatex 2019/10/25 v1.5 ifluatex legacy package. Use iftex instead.
+) (/Users/franceslinyc/Library/TinyTeX/texmf-dist/tex/generic/iftex/iftex.sty
+Package: iftex 2022/02/03 v1.0f TeX engine tests
 ) (/Users/franceslinyc/Library/TinyTeX/texmf-dist/tex/latex/base/fontenc.sty
 Package: fontenc 2021/04/29 v2.0v Standard LaTeX package
 LaTeX Font Info:    Trying to load font information for T1+lmr on input line 11
@@ -166,7 +161,7 @@ Package xcolor Info: Model `Gray' substituted by `gray' on input line 1374.
 Package xcolor Info: Model `wave' substituted by `hsb' on input line 1375.
 )
 (/Users/franceslinyc/Library/TinyTeX/texmf-dist/tex/latex/hyperref/hyperref.sty
-Package: hyperref 2021-06-07 v7.00m Hypertext links for LaTeX
+Package: hyperref 2022-02-21 v7.00n Hypertext links for LaTeX
 
 (/Users/franceslinyc/Library/TinyTeX/texmf-dist/tex/generic/ltxcmds/ltxcmds.sty
 Package: ltxcmds 2020-05-10 v1.25 LaTeX kernel commands for general use (HO)
@@ -215,14 +210,9 @@ Package: kvoptions 2020-10-07 v3.14 Key value format for package options (HO)
 \Hy@linkcounter=\count271
 \Hy@pagecounter=\count272
 (/Users/franceslinyc/Library/TinyTeX/texmf-dist/tex/latex/hyperref/pd1enc.def
-File: pd1enc.def 2021-06-07 v7.00m Hyperref: PDFDocEncoding definition (HO)
+File: pd1enc.def 2022-02-21 v7.00n Hyperref: PDFDocEncoding definition (HO)
 Now handling font encoding PD1 ...
 ... no UTF-8 mapping file for font encoding PD1
-)
-(/Users/franceslinyc/Library/TinyTeX/texmf-dist/tex/latex/hyperref/hyperref-lan
-gpatches.def
-File: hyperref-langpatches.def 2021-06-07 v7.00m Hyperref: patches for babel la
-nguages
 )
 (/Users/franceslinyc/Library/TinyTeX/texmf-dist/tex/generic/intcalc/intcalc.sty
 Package: intcalc 2019/12/15 v1.3 Expandable calculations with integers (HO)
@@ -233,24 +223,24 @@ Package: etexcmds 2019/12/15 v1.7 Avoid name clashes with e-TeX commands (HO)
 )
 \Hy@SavedSpaceFactor=\count273
 (/Users/franceslinyc/Library/TinyTeX/texmf-dist/tex/latex/hyperref/puenc.def
-File: puenc.def 2021-06-07 v7.00m Hyperref: PDF Unicode definition (HO)
+File: puenc.def 2022-02-21 v7.00n Hyperref: PDF Unicode definition (HO)
 Now handling font encoding PU ...
 ... no UTF-8 mapping file for font encoding PU
 )
-Package hyperref Info: Option `unicode' set `true' on input line 4073.
-Package hyperref Info: Hyper figures OFF on input line 4192.
-Package hyperref Info: Link nesting OFF on input line 4197.
-Package hyperref Info: Hyper index ON on input line 4200.
-Package hyperref Info: Plain pages OFF on input line 4207.
-Package hyperref Info: Backreferencing OFF on input line 4212.
+Package hyperref Info: Option `unicode' set `true' on input line 4018.
+Package hyperref Info: Hyper figures OFF on input line 4137.
+Package hyperref Info: Link nesting OFF on input line 4142.
+Package hyperref Info: Hyper index ON on input line 4145.
+Package hyperref Info: Plain pages OFF on input line 4152.
+Package hyperref Info: Backreferencing OFF on input line 4157.
 Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
-Package hyperref Info: Bookmarks ON on input line 4445.
+Package hyperref Info: Bookmarks ON on input line 4390.
 \c@Hy@tempcnt=\count274
 (/Users/franceslinyc/Library/TinyTeX/texmf-dist/tex/latex/url/url.sty
 \Urlmuskip=\muskip17
 Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
 )
-LaTeX Info: Redefining \url on input line 4804.
+LaTeX Info: Redefining \url on input line 4749.
 \XeTeXLinkMargin=\dimen149
 (/Users/franceslinyc/Library/TinyTeX/texmf-dist/tex/generic/bitset/bitset.sty
 Package: bitset 2019/12/09 v1.3 Handle bit-vector datatype (HO)
@@ -263,15 +253,15 @@ Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO
 \Fld@menulength=\count275
 \Field@Width=\dimen150
 \Fld@charsize=\dimen151
-Package hyperref Info: Hyper figures OFF on input line 6076.
-Package hyperref Info: Link nesting OFF on input line 6081.
-Package hyperref Info: Hyper index ON on input line 6084.
-Package hyperref Info: backreferencing OFF on input line 6091.
-Package hyperref Info: Link coloring OFF on input line 6096.
-Package hyperref Info: Link coloring with OCG OFF on input line 6101.
-Package hyperref Info: PDF/A mode OFF on input line 6106.
-LaTeX Info: Redefining \ref on input line 6146.
-LaTeX Info: Redefining \pageref on input line 6150.
+Package hyperref Info: Hyper figures OFF on input line 6027.
+Package hyperref Info: Link nesting OFF on input line 6032.
+Package hyperref Info: Hyper index ON on input line 6035.
+Package hyperref Info: backreferencing OFF on input line 6042.
+Package hyperref Info: Link coloring OFF on input line 6047.
+Package hyperref Info: Link coloring with OCG OFF on input line 6052.
+Package hyperref Info: PDF/A mode OFF on input line 6057.
+LaTeX Info: Redefining \ref on input line 6097.
+LaTeX Info: Redefining \pageref on input line 6101.
 
 (/Users/franceslinyc/Library/TinyTeX/texmf-dist/tex/latex/base/atbegshi-ltx.sty
 Package: atbegshi-ltx 2021/01/10 v1.0c Emulation of the original atbegshi
@@ -283,7 +273,7 @@ package with kernel methods
 )
 Package hyperref Info: Driver (autodetected): hpdftex.
 (/Users/franceslinyc/Library/TinyTeX/texmf-dist/tex/latex/hyperref/hpdftex.def
-File: hpdftex.def 2021-06-07 v7.00m Hyperref driver for pdfTeX
+File: hpdftex.def 2022-02-21 v7.00n Hyperref driver for pdfTeX
 
 (/Users/franceslinyc/Library/TinyTeX/texmf-dist/tex/latex/base/atveryend-ltx.st
 y
@@ -344,30 +334,30 @@ Package graphics Info: Driver file: pdftex.def on input line 107.
 )
 (/Users/franceslinyc/Library/TinyTeX/texmf-dist/tex/latex/l3backend/l3backend-p
 dftex.def
-File: l3backend-pdftex.def 2022-01-12 L3 backend support: PDF output (pdfTeX)
+File: l3backend-pdftex.def 2022-02-07 L3 backend support: PDF output (pdfTeX)
 \l__color_backend_stack_int=\count284
 \l__pdf_internal_box=\box52
-) (./01182022.aux)
-\openout1 = `01182022.aux'.
+) (./Cheatsheet.aux)
+\openout1 = `Cheatsheet.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 70.
-LaTeX Font Info:    ... okay on input line 70.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 70.
-LaTeX Font Info:    ... okay on input line 70.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 70.
-LaTeX Font Info:    ... okay on input line 70.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 70.
-LaTeX Font Info:    ... okay on input line 70.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 70.
-LaTeX Font Info:    ... okay on input line 70.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 70.
-LaTeX Font Info:    ... okay on input line 70.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 70.
-LaTeX Font Info:    ... okay on input line 70.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 70.
-LaTeX Font Info:    ... okay on input line 70.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 70.
-LaTeX Font Info:    ... okay on input line 70.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 67.
+LaTeX Font Info:    ... okay on input line 67.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 67.
+LaTeX Font Info:    ... okay on input line 67.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 67.
+LaTeX Font Info:    ... okay on input line 67.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 67.
+LaTeX Font Info:    ... okay on input line 67.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 67.
+LaTeX Font Info:    ... okay on input line 67.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 67.
+LaTeX Font Info:    ... okay on input line 67.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 67.
+LaTeX Font Info:    ... okay on input line 67.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 67.
+LaTeX Font Info:    ... okay on input line 67.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 67.
+LaTeX Font Info:    ... okay on input line 67.
 
 (/Users/franceslinyc/Library/TinyTeX/texmf-dist/tex/latex/epstopdf-pkg/epstopdf
 -base.sty
@@ -380,7 +370,7 @@ sys.cfg
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
 e
 ))
-Package hyperref Info: Link coloring OFF on input line 70.
+Package hyperref Info: Link coloring OFF on input line 67.
 (/Users/franceslinyc/Library/TinyTeX/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2021-04-02 v2.47 Cross-referencing by name of section
 
@@ -393,12 +383,12 @@ Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 )
 \c@section@level=\count285
 )
-LaTeX Info: Redefining \ref on input line 70.
-LaTeX Info: Redefining \pageref on input line 70.
-LaTeX Info: Redefining \nameref on input line 70.
-(./01182022.out) (./01182022.out)
+LaTeX Info: Redefining \ref on input line 67.
+LaTeX Info: Redefining \pageref on input line 67.
+LaTeX Info: Redefining \nameref on input line 67.
+(./Cheatsheet.out) (./Cheatsheet.out)
 \@outlinefile=\write3
-\openout3 = `01182022.out'.
+\openout3 = `Cheatsheet.out'.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -408,15 +398,15 @@ LaTeX Info: Redefining \nameref on input line 70.
 * layout: <same size as paper>
 * layoutoffset:(h,v)=(0.0pt,0.0pt)
 * modes: 
-* h-part:(L,W,R)=(72.26999pt, 469.75502pt, 72.26999pt)
-* v-part:(T,H,B)=(72.26999pt, 650.43001pt, 72.26999pt)
+* h-part:(L,W,R)=(28.45274pt, 557.38951pt, 28.45274pt)
+* v-part:(T,H,B)=(28.45274pt, 738.0645pt, 28.45274pt)
 * \paperwidth=614.295pt
 * \paperheight=794.96999pt
-* \textwidth=469.75502pt
-* \textheight=650.43001pt
-* \oddsidemargin=0.0pt
-* \evensidemargin=0.0pt
-* \topmargin=-37.0pt
+* \textwidth=557.38951pt
+* \textheight=738.0645pt
+* \oddsidemargin=-43.81725pt
+* \evensidemargin=-43.81725pt
+* \topmargin=-80.81725pt
 * \headheight=12.0pt
 * \headsep=25.0pt
 * \topskip=10.0pt
@@ -455,11 +445,11 @@ LaTeX Font Info:    Trying to load font information for OMX+lmex on input line
 File: omxlmex.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <12> on input line 72.
+(Font)              <10> on input line 72.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <8> on input line 72.
+(Font)              <7> on input line 72.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <6> on input line 72.
+(Font)              <5> on input line 72.
 LaTeX Font Info:    Trying to load font information for U+msa on input line 72.
 
 (/Users/franceslinyc/Library/TinyTeX/texmf-dist/tex/latex/amsfonts/umsa.fd
@@ -469,61 +459,56 @@ LaTeX Font Info:    Trying to load font information for U+msb on input line 72.
 
 (/Users/franceslinyc/Library/TinyTeX/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
-)
-LaTeX Font Info:    Trying to load font information for TS1+lmr on input line 7
-8.
-(/Users/franceslinyc/Library/TinyTeX/texmf-dist/tex/latex/lm/ts1lmr.fd
-File: ts1lmr.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
-)
-LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <10> on input line 92.
-LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <7> on input line 92.
-LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <5> on input line 92.
-[1
+) [1
 
 {/Users/franceslinyc/Library/TinyTeX/texmf-var/fonts/map/pdftex/updmap/pdftex.m
-ap}] [2] [3] [4] [5]
+ap}] [2] [3] [4] [5] [6] [7] [8] [9]
 
 LaTeX Warning: No positions in optional float specifier.
-               Default added (so using `tbp') on input line 436.
+               Default added (so using `tbp') on input line 472.
 
-[6] (./01182022.aux)
-Package rerunfilecheck Info: File `01182022.out' has not changed.
-(rerunfilecheck)             Checksum: D6D1D1D2F830C6D99BF7EB9506C2B06E;756.
+[10] [11] [12] [13] [14] [15] [16] [17] [18] [19] [20] [21] [22]
+<../notes_ST651/Table8.1.png, id=303, 713.66624pt x 263.98625pt>
+File: ../notes_ST651/Table8.1.png Graphic file (type png)
+<use ../notes_ST651/Table8.1.png>
+Package pdftex.def Info: ../notes_ST651/Table8.1.png  used on input line 1357.
+(pdftex.def)             Requested size: 557.4197pt x 206.1904pt.
+[23 <../notes_ST651/Table8.1.png>] (./Cheatsheet.aux)
+Package rerunfilecheck Info: File `Cheatsheet.out' has not changed.
+(rerunfilecheck)             Checksum: 0E850160199A6CC749879864213CA2C3;2767.
  ) 
 Here is how much of TeX's memory you used:
- 10554 strings out of 480221
- 165538 string characters out of 5893555
- 455645 words of memory out of 5000000
- 28297 multiletter control sequences out of 15000+600000
- 505917 words of font info for 64 fonts, out of 8000000 for 9000
+ 10554 strings out of 480211
+ 164116 string characters out of 5893319
+ 479929 words of memory out of 5000000
+ 28206 multiletter control sequences out of 15000+600000
+ 497759 words of font info for 49 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
- 60i,10n,63p,242b,387s stack positions out of 5000i,500n,10000p,200000b,80000s
-{/Users/franceslinyc/Library/TinyTeX/texmf-dist/fonts/enc/dvips/lm/lm-mathsy.
+ 60i,10n,63p,313b,384s stack positions out of 5000i,500n,10000p,200000b,80000s
+{/Users/franceslinyc/Library/TinyTeX/texmf-dist/fonts/enc/dvips/lm/lm-ec.enc}
+{/Users/franceslinyc/Library/TinyTeX/texmf-dist/fonts/enc/dvips/lm/lm-mathex.en
+c}{/Users/franceslinyc/Library/TinyTeX/texmf-dist/fonts/enc/dvips/lm/lm-mathit.
 enc}{/Users/franceslinyc/Library/TinyTeX/texmf-dist/fonts/enc/dvips/lm/lm-rm.en
-c}{/Users/franceslinyc/Library/TinyTeX/texmf-dist/fonts/enc/dvips/lm/lm-mathex.
-enc}{/Users/franceslinyc/Library/TinyTeX/texmf-dist/fonts/enc/dvips/lm/lm-mathi
-t.enc}{/Users/franceslinyc/Library/TinyTeX/texmf-dist/fonts/enc/dvips/lm/lm-ec.
-enc}{/Users/franceslinyc/Library/TinyTeX/texmf-dist/fonts/enc/dvips/lm/lm-ts1.e
-nc}</Users/franceslinyc/Library/TinyTeX/texmf-dist/fonts/type1/public/lm/lmbx12
-.pfb></Users/franceslinyc/Library/TinyTeX/texmf-dist/fonts/type1/public/lm/lmex
-10.pfb></Users/franceslinyc/Library/TinyTeX/texmf-dist/fonts/type1/public/lm/lm
-mi10.pfb></Users/franceslinyc/Library/TinyTeX/texmf-dist/fonts/type1/public/lm/
-lmmi7.pfb></Users/franceslinyc/Library/TinyTeX/texmf-dist/fonts/type1/public/lm
-/lmr10.pfb></Users/franceslinyc/Library/TinyTeX/texmf-dist/fonts/type1/public/l
-m/lmr12.pfb></Users/franceslinyc/Library/TinyTeX/texmf-dist/fonts/type1/public/
-lm/lmr17.pfb></Users/franceslinyc/Library/TinyTeX/texmf-dist/fonts/type1/public
-/lm/lmr5.pfb></Users/franceslinyc/Library/TinyTeX/texmf-dist/fonts/type1/public
-/lm/lmr7.pfb></Users/franceslinyc/Library/TinyTeX/texmf-dist/fonts/type1/public
-/lm/lmsy10.pfb></Users/franceslinyc/Library/TinyTeX/texmf-dist/fonts/type1/publ
-ic/lm/lmsy7.pfb></Users/franceslinyc/Library/TinyTeX/texmf-dist/fonts/type1/pub
-lic/amsfonts/symbols/msbm10.pfb>
-Output written on 01182022.pdf (6 pages, 188657 bytes).
+c}{/Users/franceslinyc/Library/TinyTeX/texmf-dist/fonts/enc/dvips/lm/lm-mathsy.
+enc}</Users/franceslinyc/Library/TinyTeX/texmf-dist/fonts/type1/public/lm/lmbx1
+0.pfb></Users/franceslinyc/Library/TinyTeX/texmf-dist/fonts/type1/public/lm/lmb
+x12.pfb></Users/franceslinyc/Library/TinyTeX/texmf-dist/fonts/type1/public/lm/l
+mex10.pfb></Users/franceslinyc/Library/TinyTeX/texmf-dist/fonts/type1/public/lm
+/lmmi10.pfb></Users/franceslinyc/Library/TinyTeX/texmf-dist/fonts/type1/public/
+lm/lmmi5.pfb></Users/franceslinyc/Library/TinyTeX/texmf-dist/fonts/type1/public
+/lm/lmmi7.pfb></Users/franceslinyc/Library/TinyTeX/texmf-dist/fonts/type1/publi
+c/lm/lmr10.pfb></Users/franceslinyc/Library/TinyTeX/texmf-dist/fonts/type1/publ
+ic/lm/lmr5.pfb></Users/franceslinyc/Library/TinyTeX/texmf-dist/fonts/type1/publ
+ic/lm/lmr7.pfb></Users/franceslinyc/Library/TinyTeX/texmf-dist/fonts/type1/publ
+ic/lm/lmri10.pfb></Users/franceslinyc/Library/TinyTeX/texmf-dist/fonts/type1/pu
+blic/lm/lmsy10.pfb></Users/franceslinyc/Library/TinyTeX/texmf-dist/fonts/type1/
+public/lm/lmsy5.pfb></Users/franceslinyc/Library/TinyTeX/texmf-dist/fonts/type1
+/public/lm/lmsy7.pfb></Users/franceslinyc/Library/TinyTeX/texmf-dist/fonts/type
+1/public/amsfonts/symbols/msbm10.pfb>
+Output written on Cheatsheet.pdf (23 pages, 295814 bytes).
 PDF statistics:
- 186 PDF objects out of 1000 (max. 8388607)
- 150 compressed objects within 2 object streams
- 43 named destinations out of 1000 (max. 500000)
- 89 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 412 PDF objects out of 1000 (max. 8388607)
+ 352 compressed objects within 4 object streams
+ 160 named destinations out of 1000 (max. 500000)
+ 150 words of extra memory for PDF output out of 10000 (max. 10000000)
 

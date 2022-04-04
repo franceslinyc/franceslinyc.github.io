@@ -127,7 +127,6 @@ iv) $det(A) = det(A^T)$
 
 v) If A is singular ($det(A) \neq 0$), then $det(A^{-1}) = \frac{1} {det(A)}$. 
 
-
 vi) If cA where c is scalar and A is $n$x$n$, then $det(cA) = c^n det(A)$. 
 
 e.g. 
