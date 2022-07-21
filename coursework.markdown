@@ -30,14 +30,14 @@ permalink: /coursework/
 
 **Methods**<br>
 
-- Bayesian Statistics () <br> Project Title: [INLA for GMRFs (e.g. GLMMs, Spatial Models) with Spatial Examples of Leukemia Incident Cases and Heavy Metal Concentrations]()
-- Survival Analysis () <br> Project Title: [Random Survival Forests with An Example of Systolic Heart Failure]()
+- Bayesian Statistics () <br> Project Title: [[INLA for GMRFs (e.g. GLMMs, Spatial Models) with Spatial Examples of Leukemia Incident Cases and Heavy Metal Concentrations]]()
+- Survival Analysis () <br> Project Title: [[Random Survival Forests with An Example of Systolic Heart Failure]]()
 
 **Theories**<br>
 
 - Probability Theory (Measure Theory, Convergence, Central Limit Theorem, Characteristic Functions, Martingales) <br>
-- Linear Models Theory I () <br> Project Title: [Reduced-Rank Regression Model: A Review]()
-- Linear Models Theory II () <br> Project Title: [Reparameterized SGLMM (Spatial Generalized Linear Mixed Model): A Review]()
+- Linear Models Theory I () <br> Project Title: [[Reduced-Rank Regression Model: A Review]]()
+- Linear Models Theory II () <br> Project Title: [[Reparameterized SGLMM (Spatial Generalized Linear Mixed Model): A Review]]()
 
 
 **MS, Statistics, Oregon State Univeristy, 2019 — 2021**<br>
@@ -76,7 +76,7 @@ permalink: /coursework/
 
 **Consulting**<br>
 
-- Consulting Practicum (Cases: Occupancy Modeling, Meta-survey Analysis) <br> <i> 2021, 2021, </i> [[See more details]](https://franceslinyc.github.io/experience/)
+- Consulting Practicum (Cases: Occupancy Modeling, Meta-survey Analysis) <br> <i> 2021, 2021, and more </i> [[See more details]](https://franceslinyc.github.io/experience/)
 
 **Others (Sampling Methods, Statistical/Machine Learning, etc)**<br>
 

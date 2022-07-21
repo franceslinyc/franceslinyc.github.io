@@ -19,43 +19,6 @@ Dataset include (from most recent to oldest):
 <br/>
 
 
-#### Independent Projects
-#### Machine Learning and Deep Learning
-
---- 
-
-**II Deep Learning**, Portland, OR, Pending
-
-<i> Independent Projects
-<p align="justify"> Title: </p>
-
-<p align="justify"> Description: </p>
-
---- 
-
-<br/>
-<br/>
-
---- 
-
-**Musings over the Hot Summer Days I: Statistical Modeling and Machine Learning**, Portland, OR, June 2021 – Ongoing
-
-<i> Independent Projects
-<p align="justify"> Title: Musings over the Hot Summer Days I: Statistical Modeling and Machine Learning </p>
-
-<p align="justify"> Description: These mini projects introduce and walk through selected machine learning algorithms such as random forest, boosting and k-means clustering and use Python Libraries such as scikit-learn to apply the algorithms to simulated (e.g. GMM) or real-world data (e.g. wine quality). </p>
-
-<p align="justify"> Some of the sections are omitted for now since we already spent a fair amount of time (~ a year) on the topics through one of the statistical methods sequence, GLMs, and statistical learning class. The next two topics of focus are perhaps: Gaussian processes & MCMC. </p>
-
-[[Repository]](https://github.com/franceslinyc/Machine-Learning-2021-Current) 
-
---- 
-
-<br/>
-<br/>
-<br/>
-<br/>
-
 #### Master's Project
 #### Research
 

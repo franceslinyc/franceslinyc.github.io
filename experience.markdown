@@ -36,6 +36,8 @@ ST 411/511 Methods of Data Analysis I, Fall 2021
 <br/>
 ST 412/512 Methods of Data Analysis II, Winter 2022
 <br/>
+ST 412/512 Methods of Data Analysis II, Spring 2022
+<br/>
 
 **Undergraduate**
 
@@ -48,6 +50,8 @@ ST 351 Intro to Statistical Methods, Winter 2021
 ST 314 Intro to Statistics for Engineers, Spring 2021
 <br/>
 ST 314D Intro to Statistics for Engineers, Summer 2021
+<br/>
+ST 351D Intro to Statistical Methods, Summer 2022
 <br/>
 
 

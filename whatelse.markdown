@@ -4,7 +4,7 @@ title: What Else?
 permalink: /whatelse/
 ---
 
-<p align="justify"> When I am not musing on math or stats or programming in R/Python, I enjoy skiing, traveling, being outdoors, and watching thriller and dark comedy films/TV series on Netflix. </p>
+<p align="justify"> When I am not musing on math or stats or programming in R / Python, I enjoy skiing, traveling, being outdoors, and watching thriller and dark comedy films / TV series on Netflix. </p>
 
 <br>
 <br>
