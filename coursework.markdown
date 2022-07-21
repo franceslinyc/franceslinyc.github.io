@@ -7,7 +7,7 @@ permalink: /coursework/
 
 #### Overview 
 
-<p align="justify"> First year of Master's at OSU, major parts of our coursework focused on building the fundamentals: statistical methods and theories. Second year, we expanded beyond statistical methods and theories to include additional statistical models (e.g. GLMs) and simulation methods (e.g. EM). I also gained experience working with big (~ 35GB) data using cloud computing platforms (e.g. GCP, PySpark/Spark). </p>
+<p align="justify"> First year of Master's at OSU, major parts of our coursework focused on building the fundamentals: statistical methods and theories. Second year of Master's at OSU, we expanded beyond statistical methods and theories to include additional statistical models (e.g. GLMs) and simulation methods (e.g. EM). I also gained experience working with big (~ 35GB) data using cloud computing platforms (e.g. GCP, PySpark/Spark). Third year of PhD's at OSU, </p>
 
 (some of the major topics discussed) <br/>
 [some of the work using R/Python/Query Language] 
@@ -21,22 +21,24 @@ permalink: /coursework/
 
 **Theories**<br>
 
-- Linear Models Theory () <br>
+- Advanced Theory of Statistics II (Minimax, Admissibility, Shrinkage, Hypothesis Testing: UMP, MLR, UMPU) <br>
+- Advanced Theory of Statistics III () <br>
 
-Notes from Dr. *Jiang, Duo*:
-
-[Matrix Algebra Review: Linear Independence, Rank, Inverse, some Thms](https://github.com/franceslinyc/franceslinyc.github.io/blob/master/notes_ST651/01042022.pdf)
-
-**Methods**<br>
-
-- Survival Analysis () <br>
 
 #### Completed coursework
 **PhD, Statistics, Oregon State Univeristy, 2021 — Present** <br>
 
+**Methods**<br>
+
+- Bayesian Statistics () <br> Project Title: [INLA for GMRFs (e.g. GLMMs, Spatial Models) with Spatial Examples of Leukemia Incident Cases and Heavy Metal Concentrations]()
+- Survival Analysis () <br> Project Title: [Random Survival Forests with An Example of Systolic Heart Failure]()
+
 **Theories**<br>
 
 - Probability Theory (Measure Theory, Convergence, Central Limit Theorem, Characteristic Functions, Martingales) <br>
+- Linear Models Theory I () <br> Project Title: [Reduced-Rank Regression Model: A Review]()
+- Linear Models Theory II () <br> Project Title: [Reparameterized SGLMM (Spatial Generalized Linear Mixed Model): A Review]()
+
 
 **MS, Statistics, Oregon State Univeristy, 2019 — 2021**<br>
 
