@@ -3,14 +3,16 @@ layout: page
 title: Coursework
 permalink: /coursework/
 ---
-<p align="justify"> This page contains a list of coursework and serves to summarize major topics we have learned throughout my time here at OSU. If/when time permits, I wish to turn them into posts. </p>
+<p align="justify"> This page contains a list of coursework and serves to summarize major topics we have learned throughout my time here at OSU. If / when time permits, I wish to turn them into posts. </p>
 
 #### Overview 
 
-<p align="justify"> First year of Master's at OSU, major parts of our coursework focused on building the fundamentals: statistical methods and theories. Second year of Master's at OSU, we expanded beyond statistical methods and theories to include additional statistical models (e.g. GLMs) and simulation methods (e.g. EM). I also gained experience working with big (~ 35GB) data using cloud computing platforms (e.g. GCP, PySpark/Spark). Third year of PhD's at OSU, </p>
+<p align="justify"> **First year** of Master's at OSU, major parts of our coursework focused on building the fundamentals: statistical methods and theories. **Second year** of Master's at OSU, we expanded beyond statistical methods and theories to include additional statistical models (e.g. GLMs) and simulation methods (e.g. EM). I also gained experience working with big (~ 35GB) data using cloud computing platforms (e.g. GCP, PySpark / Apache Spark). </p>  
+
+<p align="justify"> **Third year** of PhD's at OSU, we dived into advanced topics in statistics (e.g. decision theory, theories for GLM, GLMM). I also took a sneak peek of advanced algorithms (e.g. reduced-rank regression, spatial GLMM, INLA, MCMC) while completing course & independent projects. </p>
 
 (some of the major topics discussed) <br/>
-[some of the work using R/Python/Query Language] 
+[some of the work using R / Python / Query Language] 
 <br/>
 <br/>
 
