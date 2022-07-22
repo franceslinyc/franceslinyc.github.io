@@ -4,6 +4,6 @@ title: Resume
 permalink: /resume/
 ---
 
-[[See my resume]](https://franceslinyc.github.io/resume.pdf) 
+[[See my resume]]() (Please refer to LinkedIn for now)
 
 [[A much detailed version, if interested]]() (Please refer to LinkedIn for now)
