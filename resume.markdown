@@ -10,6 +10,9 @@ permalink: /resume/
 
 #### Since 2019 
 
+<br/>
+<br/>
+
 #### Prior to 2019 
 
 **Data Analyst, Everyone For Veterans, Greater Seattle Area, Jan 2018 – Dec 2018** 
@@ -51,5 +54,4 @@ Roman Catholics Diocese of Taichung's Institution for Disabilities and Special N
 
 <br/>
 <br/>
-
 
