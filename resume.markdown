@@ -10,6 +10,18 @@ permalink: /resume/
 
 #### Since 2019 
 
+**PhD Student, Oregon State University, Sep 2021 – Present**
+
+**MS Student, Oregon State University, Sep 2019 – Jun 2021**
+
+**Statistical Consultant, Oregon State University, Jan 2021 – Present** 
+
+- Provide consulting services in areas ranging from statistical modeling (hierarchical occupancy / detection model, ANOVA), statistical software, study design to data manipulation and visualization 
+
+**Graduate Teaching Assistant, Oregon State University, Mar 2020 – Present** 
+
+- Conduct lab sessions, teach R programming, hold office hours, and/or grade exams and assignments for graduate and undergraduate courses such as methods of data analysis I (hypothesis testing), II (regression analysis), statistical methods, and statistics for engineers
+
 <br/>
 <br/>
 
@@ -43,7 +55,7 @@ Roman Catholics Diocese of Taichung's Institution for Disabilities and Special N
 
 - Served as the main line of communication for press representatives, corporate sponsors and individual donors
 
-**Branding Strategist, Roman Catholic Diocese of Taichung, Taichung City, Taiwan, Sep 2014 – 2016** 
+**Marketing Assistant, Roman Catholic Diocese of Taichung, Taichung City, Taiwan, Sep 2014 – 2016** 
 
 <br/>
 <br/>
@@ -51,7 +63,4 @@ Roman Catholics Diocese of Taichung's Institution for Disabilities and Special N
 **Teaching Assistant, University of Washington, Seattle, Washington, Jan 2014 – Mar 2014** 
 
 - Assisted in in-class activities, reviewed research prospectus, and commented on presenters’ technical and non-technical oral presentations for ESS 418 Geoscience Communication, Dept. of Earth and Space Sciences
-
-<br/>
-<br/>
 
