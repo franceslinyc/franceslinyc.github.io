@@ -6,6 +6,13 @@ permalink: /experience/
 
 #### Statistical Consulting Services
 
+**Primary Consultant, Oregon State University, Corvallis, OR, Sep 2022 – ** 
+
+- 
+
+<br/>
+<br/>
+
 **Primary Consultant, Oregon State University, Corvallis, OR, Sep 2021 – Oct 2021** 
 
 - Co-consulted with Shannon Leiss on a Fisheries & Wildlife MS project involving t-test, one-, multi-way ANOVA analyses and multiple testing techniques for Pacific oyster larval performance across different rearing systems 
@@ -38,6 +45,8 @@ ST 412/512 Methods of Data Analysis II, Winter 2022
 <br/>
 ST 412/512 Methods of Data Analysis II, Spring 2022
 <br/>
+ST 421/521 Intro to Mathematical Statistics, 
+Fall 2022
 
 **Undergraduate**
 
