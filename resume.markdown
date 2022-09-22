@@ -20,7 +20,7 @@ permalink: /resume/
 
 **Graduate Teaching Assistant, Oregon State University, Mar 2020 – Present** 
 
-- Conduct lab sessions, teach R programming, hold office hours, and/or grade exams and assignments for graduate and undergraduate courses such as methods of data analysis I (hypothesis testing), II (regression analysis), statistical methods, and statistics for engineers
+- Conduct weekly lab or recitation, teach R programming, hold office hours, and/or grade exams and assignments for graduate and undergraduate courses such as methods of data analysis I (hypothesis testing), II (regression analysis), mathematical statistics, statistical methods, and statistics for engineers
 
 <br/>
 <br/>
