@@ -12,9 +12,9 @@ permalink: /resume/
 
 **PhD Student, Oregon State University, Sep 2021 – Present**
 
-- Adapt code to extract, transform, and process data from various sources and formats (shapefiles, raster files) 
+- Adapt code to extract, transform, and process forestry inventory data from various sources and formats (shapefiles, raster files) 
 
-- Review existing literature about statistical techniques,  machine learning algorithms (Gaussian processes, nearest neighbors, random forests) and Bayesian methods (MCMC, INLA) for large-scale spatial data 
+- Review existing literature about statistical techniques,  machine learning algorithms (Gaussian processes, nearest neighbors, random forests) and Bayesian methods for large-scale spatial data 
 
 **MS Student, Oregon State University, Sep 2019 – Jun 2021**
 
