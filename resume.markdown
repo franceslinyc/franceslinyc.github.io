@@ -12,9 +12,9 @@ permalink: /resume/
 
 **PhD Student, Oregon State University, Sep 2021 – Present**
 
-- Adapt R code to extract, transform, and merge data from various sources and formats (.shp, .grd, .gri, .rds) 
+- Adapt code to extract, transform, and process data from various sources and formats (shape file / vector data, raster data, etc.)
 
-- Review existing literature about statistical techniques and adaptive machine learning algorithms for large-scale spatial data 
+- Review existing literature about statistical techniques and machine learning (Gaussian processes) for large-scale spatial data 
 
 **MS Student, Oregon State University, Sep 2019 – Jun 2021**
 
