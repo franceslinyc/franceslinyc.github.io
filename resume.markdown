@@ -14,13 +14,13 @@ permalink: /resume/
 
 - Adapt code to extract, transform, and pre-process data from various sources (USFS, USDA, PRISM Climate Group) and formats (shape / vector files, raster files) 
 
-- Review existing literature about statistical techniques,  machine learning algorithms (Gaussian processes, nearest neighbors, random forests) and Bayesian methods for large-scale spatial data 
+- Review existing literature about statistical techniques, Bayesian methods and machine learning algorithms (Gaussian processes, nearest neighbors, random forests) for large-scale spatial data 
 
 **MS Student, Oregon State University, Sep 2019 – Jun 2021**
 
 **Statistical Consultant, Oregon State University, Jan 2021 – Present** 
 
-- Provide consulting services in areas ranging from statistical modeling (hierarchical occupancy / detection model, ANOVA), statistical software, study design to data manipulation and visualization 
+- Provide consulting services in areas ranging from statistical modeling (hierarchical occupancy / detection model, ANOVA), statistical software, study design to data manipulation and visualization to graduate student researchers from various departments 
 
 **Graduate Teaching Assistant, Oregon State University, Mar 2020 – Present** 
 
