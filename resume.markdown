@@ -12,7 +12,7 @@ permalink: /resume/
 
 **PhD Student, Oregon State University, Sep 2021 – Present**
 
-- Adapt code to extract, transform, and pre-process data from various sources (USFS, USDA, PRISM Climate Group) and formats (shapefiles, raster files) 
+- Adapt code to extract, transform, and pre-process data from various sources (USFS, USDA, PRISM Climate Group) and formats (shape / vector files, raster files) 
 
 - Review existing literature about statistical techniques,  machine learning algorithms (Gaussian processes, nearest neighbors, random forests) and Bayesian methods for large-scale spatial data 
 
@@ -24,7 +24,7 @@ permalink: /resume/
 
 **Graduate Teaching Assistant, Oregon State University, Mar 2020 – Present** 
 
-- Conduct weekly lab or recitation, teach R programming, hold office hours, and/or grade exams and assignments for graduate and undergraduate courses such as methods of data analysis I (hypothesis testing), II (regression analysis), mathematical statistics, statistical methods, and statistics for engineers
+- Conduct weekly lab or recitation, teach R programming, hold office hours, and grade exams and assignments for graduate and undergraduate courses such as data analysis methods I (hypothesis testing), II (regression analysis), mathematical statistics, statistical methods, and statistics for engineers
 
 <br/>
 <br/>
