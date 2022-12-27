@@ -6,9 +6,11 @@ permalink: /experience/
 
 #### Statistical Consulting Services
 
-**Primary Consultant, Oregon State University, Corvallis, OR, Sep 2022 –** 
+**Primary Consultant, Oregon State University, Corvallis, OR, Sep 2022 – Dec 2022** 
 
-- 
+- Consulted on a Public Health PhD project involving chi-square test, etc. for SRH (sexual and reproductive health) curriculum development in central Botswana
+
+- Consulted on a Horticulture PhD project involving GLMs (e.g. logit and Poisson regression), etc. for establishment of TJ (*Trissolcus japonicus*) in Oregon 
 
 <br/>
 <br/>
@@ -31,7 +33,7 @@ permalink: /experience/
 
 **Secondary Consultant, Oregon State University, Corvallis, OR, Jan 2020 – Mar 2020**
 
-**Coming soon** 
+Coming soon
 <br/>
 <br/>
 
@@ -45,8 +47,11 @@ ST 412/512 Methods of Data Analysis II, Winter 2022
 <br/>
 ST 412/512 Methods of Data Analysis II, Spring 2022
 <br/>
-ST 421/521 Intro to Mathematical Statistics, 
+ST 421/521 Intro to Mathematical Statistics I, 
 Fall 2022
+<br/>
+ST 422/522 Intro to Mathematical Statistics II, 
+Winter 2022
 
 **Undergraduate**
 
