@@ -13,13 +13,11 @@ permalink: /experience/
 - Consulted on a Horticulture PhD project involving GLMs (e.g. logit and Poisson regression), etc. for TJ (*Trissolcus japonicus*) establishment in Oregon 
 
 <br/>
-<br/>
 
 **Primary Consultant, Oregon State University, Corvallis, OR, Sep 2021 – Oct 2021** 
 
 - Co-consulted with Shannon Leiss on a Fisheries & Wildlife MS project involving t-test, one-, multi-way ANOVA analyses and multiple testing techniques for Pacific oyster larval performance across different rearing systems 
 
-<br/>
 <br/>
 
 **Primary Consultant, Oregon State University, Portland, OR, Jan 2021 – Mar 2021** 
@@ -29,12 +27,11 @@ permalink: /experience/
 - Co-consulted with Andrew Rumments on a Kinesiology PhD project involving meta-survey analysis of APA and APE program quality in US universities
 
 <br/>
-<br/>
 
 **Secondary Consultant, Oregon State University, Corvallis, OR, Jan 2020 – Mar 2020**
 
 Coming soon
-<br/>
+
 <br/>
 
 #### Graduate Teaching Assistantship
