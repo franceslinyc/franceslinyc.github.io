@@ -10,7 +10,7 @@ permalink: /experience/
 
 - Consulted on a Public Health PhD project involving chi-square test, etc. for SRH (sexual and reproductive health) curriculum development in central Botswana
 
-- Consulted on a Horticulture PhD project involving GLMs (e.g. logit and Poisson regression), etc. for establishment of TJ (*Trissolcus japonicus*) in Oregon 
+- Consulted on a Horticulture PhD project involving GLMs (e.g. logit and Poisson regression), etc. for TJ (*Trissolcus japonicus*) establishment in Oregon 
 
 <br/>
 <br/>
