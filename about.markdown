@@ -12,7 +12,7 @@ permalink: /about/
 
 <p align="justify"> with applications in, including but not limited to, environmental prediction, resource management, and impact assessment of large-scale datasets. </p> 
 
-<p align="justify"> Since Fall 2021, we have shifted our focuses to focus on spatial prediction, statistical computing, and machine learning of big forestry inventory data. I have also completed most PhD coursework in statistics (e.g. decision theory, probability theory, linear model theory, bayesian statistics). To further improve my algorithm design & development skillset, I also enroll in several specialization courses in computer science and statistics (e.g. mastering software development in R, data structures and algorithms, deep learning) on Coursera. </p> 
+<p align="justify"> Since Fall 2021, we have shifted our focuses to focus on spatial prediction, statistical computing, and machine learning of big forestry inventory data. I have also completed most PhD coursework in statistics (e.g. decision theory, probability theory, linear model theory, bayesian statistics). To further improve my algorithm design & development skillset, I also enroll in several specialization courses in statistics and computer science (e.g. mastering software development in R, data structures and algorithms, deep learning) on Coursera. </p> 
 
 <p align="justify"> For Master's capstone project, adviced by Dr. James Molyneux, I worked on selected spatial and temporal point processes leading up to Hawkes processes (or self-exciting point processes), which find applications in a wide variety of fields such as seismology, criminology, risk management, finance, etc. </p> 
 
