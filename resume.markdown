@@ -4,7 +4,7 @@ title: Resume
 permalink: /resume/
 ---
 
-[[See my resume]](https://viewscreen.githubusercontent.com/view/pdf?browser=safari&color_mode=light&commit=4e1b1c2bdcf4f672974fefb509a2398309e7b9f6&device=unknown_device&enc_url=68747470733a2f2f7261772e67697468756275736572636f6e74656e742e636f6d2f6672616e6365736c696e79632f6672616e6365736c696e79632e6769746875622e696f2f346531623163326264636634663637323937346665666235303961323339383330396537623966362f4c696e5f726573756d655f323032322e706466&logged_in=true&nwo=franceslinyc%2Ffranceslinyc.github.io&path=Lin_resume_2022.pdf&platform=mac&repository_id=203487883&repository_type=Repository&version=16#10969b72-9d53-4bc9-8d0c-e534be6e56e0) (Please refer to LinkedIn for now)
+[[See my resume]]() (Please refer to LinkedIn for now)
 
 [[A much detailed version, if interested]]() (Please refer to LinkedIn for now)
 
