@@ -9,6 +9,8 @@ permalink: /whatelse/
 <br>
 <br>
 
+Dec, 2022 Finally got to visit Mt. Bachelor Ski Resort, OR!
+
 ![](https://raw.githubusercontent.com/franceslinyc/franceslinyc.github.io/master/_photos/2021%20at%20Mammoth%20Mountain%20Ski%20Area.jpeg)
 Dec, 2021 at Mammoth Mountain Ski Area, CA
 
