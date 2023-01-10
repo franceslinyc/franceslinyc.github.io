@@ -38,16 +38,16 @@ Coming soon
 
 **Graduate**
 
-ST 411/511 Methods of Data Analysis I, Fall 2021
+ST 411/511 Methods of Data Analysis I (hypothesis testing), Fall 2021
 <br/>
-ST 412/512 Methods of Data Analysis II, Winter 2022
+ST 412/512 Methods of Data Analysis II (regression analysis), Winter 2022
 <br/>
-ST 412/512 Methods of Data Analysis II, Spring 2022
+ST 412/512 Methods of Data Analysis II (regression analysis), Spring 2022
 <br/>
-ST 421/521 Intro to Mathematical Statistics I, 
+ST 421/521 Intro to Mathematical Statistics I (probability, random variables), 
 Fall 2022
 <br/>
-ST 422/522 Intro to Mathematical Statistics II, 
+ST 422/522 Intro to Mathematical Statistics II (estimation, hypothesis testing), 
 Winter 2022
 
 **Undergraduate**
