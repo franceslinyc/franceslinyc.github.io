@@ -4,15 +4,15 @@ title: About
 permalink: /about/
 ---
 
-<p align="justify"> Thanks for visiting my site! I am a four-year PhD student in statistics at the Oregon State University (OSU). I am particularly interested in: </p>
+<p align="justify"> Thanks for visiting my site! I am a four-year PhD student in statistics at the Oregon State University (OSU). Broadly speaking, my research interests lie in </p>
 
 - spatial prediction, 
 - statistical computing, and 
 - machine learning 
 
-<p align="justify"> with applications in, including but not limited to, environmental prediction, resource management, and impact assessment of large-scale datasets. </p> 
+<p align="justify"> for large-scale spatial data. My other interests include deep learning and hybrid models (Bayesian hierarchical models + deep neural networks) for spatial and spatio-temporal data. </p> 
 
-<p align="justify"> Since Fall 2021, we (my co-advisors Dr. Lisa Madsen & Dr. Charlotte Wickham and I) have shifted our focuses to focus on spatial prediction, statistical computing, and machine learning for big forestry inventory data. More specifically, we focus on Gaussian processes (GPs) and its variants that are faster and more scalable for larger data. I have also completed most PhD coursework in statistics (e.g. decision theory, probability theory, linear model theory, bayesian statistics). To further improve my algorithm design & development skillset, I also enroll in several specialization courses in statistics and computer science (e.g. mastering software development in R, data structures and algorithms, deep learning) on Coursera. </p> 
+<p align="justify"> Since Fall 2021, we (my co-advisors Dr. Lisa Madsen & Dr. Charlotte Wickham and I) have focused on spatial prediction, statistical computing, and machine learning for big forestry inventory data with spatial dependence and excessive zero counts. More specifically, we focus on Gaussian processes (GPs) and its variants that are faster and more scalable for larger datasets, and I have been regularly exposed to classes of models such as stochastic processes, mixed-effects models, mixture models, copula-based models, Bayesian hierarchical models, and MCMC methods. I have also completed most PhD coursework in statistics (e.g. decision theory, probability theory, linear model theory, bayesian statistics). To further improve my algorithm design & development skillset, I also enroll in several specialization courses in statistics and computer science (e.g. mastering software development in R, data structures and algorithms, deep learning) on Coursera. </p> 
 
 <p align="justify"> For Master's capstone project, advised by Dr. James Molyneux, I worked on selected spatial and temporal point / stochastic processes leading up to Hawkes processes (or self-exciting point processes), which find applications in a wide variety of fields such as seismology, criminology, risk management, finance, etc. </p> 
 
