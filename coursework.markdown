@@ -38,8 +38,8 @@ permalink: /coursework/
 **Theories**<br>
 
 - Probability Theory (Measure Theory, Convergence, Central Limit Theorem, Characteristic Functions, Martingales) <br>
-- Linear Models Theory I () <br> Project Title: [[Reduced-Rank Regression Model: A Review]]()
-- Linear Models Theory II () <br> Project Title: [[Reparameterized SGLMM (Spatial Generalized Linear Mixed Model): A Review]]()
+- Linear Models Theory I (Least Squares Estimation, Best Linear Unbiased Estimation BLUE, Multivariate Normal Distributions, Random Vectors and Matrices) <br> Project Title: [[Reduced-Rank Regression Model: A Review]]()
+- Linear Models Theory II (Mixed-effects models GLM, Generalized linear mixed-effects models GLMM) <br> Project Title: [[Reparameterized SGLMM (Spatial Generalized Linear Mixed Model): A Review]]()
 
 
 **MS, Statistics, Oregon State Univeristy, 2019 — 2021**<br>
@@ -78,7 +78,7 @@ permalink: /coursework/
 
 **Consulting**<br>
 
-- Consulting Practicum (Cases: Occupancy Modeling, Meta-survey Analysis) <br> <i> 2021, 2021, and more </i> [[See more details]](https://franceslinyc.github.io/experience/)
+- Consulting Practicum (Cases: GLMs, Occupancy Modeling, Meta-survey Analysis) <br> <i> 2022, 2021, 2021, and more </i> [[See more details]](https://franceslinyc.github.io/experience/)
 
 **Others (Sampling Methods, Statistical/Machine Learning, etc)**<br>
 
@@ -99,7 +99,7 @@ permalink: /coursework/
 
 **Non-matriculated Status, Mathematics and CS, University of Washington, 2016 — 2018**<br>
 - Real Analysis (Advanced Calculus) I, Mathematical Reasoning, Linear Algebra, Differential Equations, Multivariate Calculus <br>
-- Computer Programming I 
+- Computer Programming I <i> using Java</i>
 <br/>
 <br/>
 
