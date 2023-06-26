@@ -23,7 +23,6 @@ permalink: /coursework/
 
 **Theories**<br>
 
-- Advanced Theory of Statistics II (Minimax, Admissibility, Shrinkage, Hypothesis Testing: UMP, MLR, UMPU) <br>
 - Advanced Theory of Statistics III () <br>
 
 
@@ -37,10 +36,14 @@ permalink: /coursework/
 
 **Theories**<br>
 
+- Advanced Theory of Statistics II (Minimax, Admissibility, Shrinkage, Hypothesis Testing: UMP, MLR, UMPU) <br>
 - Probability Theory (Measure Theory, Convergence, Central Limit Theorem, Characteristic Functions, Martingales) <br>
 - Linear Models Theory I (Least Squares Estimation, Best Linear Unbiased Estimation BLUE, Multivariate Normal Distributions, Random Vectors and Matrices) <br> Project Title: [[Reduced-Rank Regression Model: A Review]]()
 - Linear Models Theory II (Mixed-effects models GLM, Generalized linear mixed-effects models GLMM) <br> Project Title: [[Reparameterized SGLMM (Spatial Generalized Linear Mixed Model): A Review]]()
 
+**CS**<br>
+
+- Data Structures (Time Complexity Analysis, Aynamic Array and Bag ADT, Linked List, Stack and Queue ADT, BST/AVL Tree, MinHeap, HashMap) <br> Programming Assignments: [[Data-Structures-2023]]()
 
 **MS, Statistics, Oregon State Univeristy, 2019 — 2021**<br>
 

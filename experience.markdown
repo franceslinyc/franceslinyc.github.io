@@ -52,6 +52,8 @@ ST 413/513 Methods of Data Analysis III, Spring 2023
 <br/>
 ST 443/543 Applied Stochastic Models, Spring 2023
 <br/>
+ST 411/511 Methods of Data Analysis I (4 weeks), Summer 2023
+<br/>
 
 **Undergraduate**
 
@@ -66,6 +68,8 @@ ST 314 Intro to Statistics for Engineers, Spring 2021
 ST 314D Intro to Statistics for Engineers, Summer 2021
 <br/>
 ST 351D Intro to Statistical Methods, Summer 2022
+<br/>
+ST 243Z Elementrary Statistics I, Summer 2023
 <br/>
 
 
