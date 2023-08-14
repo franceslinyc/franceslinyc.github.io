@@ -6,6 +6,10 @@ permalink: /experience/
 
 #### Statistical Consulting Services
 
+**Primary Consultant, Oregon State University, Corvallis, OR, Jan 2024 – Mar 2024** 
+
+<br/>
+
 **Primary Consultant, Oregon State University, Corvallis, OR, Sep 2022 – Dec 2022** 
 
 - Consulted on a Public Health PhD project involving chi-square test, etc. for SRH (sexual and reproductive health) curriculum development in central Botswana
@@ -57,19 +61,11 @@ ST 411/511 Methods of Data Analysis I (4 weeks), Summer 2023
 
 **Undergraduate**
 
-ST 314 Intro to Statistics for Engineers, Spring 2020
+- ST 351/D Intro to Statistical Methods (Winter 2021, Fall 2021, Summer 2022)
 <br/>
-ST 351D Intro to Statistical Methods, Fall 2021
+- ST 314/D Intro to Statistics for Engineers (Spring 2020, Spring 2021, Summer 2021)
 <br/>
-ST 351 Intro to Statistical Methods, Winter 2021
-<br/>
-ST 314 Intro to Statistics for Engineers, Spring 2021
-<br/>
-ST 314D Intro to Statistics for Engineers, Summer 2021
-<br/>
-ST 351D Intro to Statistical Methods, Summer 2022
-<br/>
-ST 243Z Elementrary Statistics I, Summer 2023
+- ST 243Z Elementrary Statistics I (Summer 2023)
 <br/>
 
 
