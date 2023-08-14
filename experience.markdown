@@ -44,15 +44,15 @@ Coming soon
 
 - ST 443/543 Applied Stochastic Models (Spring 2023)
 <br/>
-- ST 422/522 Intro to Mathematical Statistics II (Winter 2023)
+- ST 422/522 Intro to Mathematical Statistics II (Point Estimation, Hypothesis Testing; Winter 2023)
 <br/>
-- ST 421/521 Intro to Mathematical Statistics I (Fall 2022)
+- ST 421/521 Intro to Mathematical Statistics I (Probability, Random Variables; Fall 2022)
 <br/>
-- ST 413/513 Methods of Data Analysis III (Spring 2023) <br> <i> generalized linear models </i>
+- ST 413/513 Methods of Data Analysis III (Generalized Linear Models; Spring 2023) 
 <br/>
-- ST 412/512 Methods of Data Analysis II regression analysis (Winter 2022, Spring 2022)
+- ST 412/512 Methods of Data Analysis II (Regression Analysis; Winter 2022, Spring 2022)
 <br/>
-- ST 411/511 Methods of Data Analysis I hypothesis testing (Fall 2021, Summer 2023)
+- ST 411/511 Methods of Data Analysis I (Hypothesis Testing; Fall 2021, Summer 2023)
 <br/>
 
 **Undergraduate**
