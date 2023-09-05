@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Some referenes"
-date:   2023-09-05 08:05:00
+date:   2023-09-04 08:05:00
 categories: jekyll update
 ---
 Methods for big spatial data -- from statistics 
