@@ -20,13 +20,19 @@ categories: jekyll update
 
 Jiang, Z. (2018). A survey on spatial prediction methods. IEEE Transactions on Knowledge and Data Engineering, 31(9), 1645-1664.
 
-### GP (Gaussian Process) models
+### GP (Gaussian process) models
 
 ### Variants of GPs
 
-### NNGPs
+### NNGPs (Nearest-neighbor Gaussian process)
 
-### NNMPs
+### NNMPs (Nearest-neighbor mixture process)
+
+[Zheng, X., Kottas, A., & Sansó, B. (2022a). On construction and estimation of stationary mixture transition distribution models. Journal of Computational and Graphical Statistics, 31(1), 283-293.](https://arxiv.org/pdf/2010.12696.pdf)
+
+[Zheng, X., Kottas, A., & Sansó, B. (2022b). Nearest-Neighbor Mixture Models for Non-Gaussian Spatial Processes. arXiv preprint arXiv:2107.07736.](https://arxiv.org/pdf/2107.07736)
+
+[Zheng, X., Kottas, A., & Sansó, B. (2022c). Bayesian Geostatistical Modeling for Discrete-Valued Processes. arXiv preprint arXiv:2111.01840.](https://onlinelibrary.wiley.com/doi/full/10.1002/env.2805)
 
 
 
