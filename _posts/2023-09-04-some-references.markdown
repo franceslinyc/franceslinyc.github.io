@@ -34,5 +34,5 @@ Jiang, Z. (2018). A survey on spatial prediction methods. IEEE Transactions on K
 
 [Zheng, X., Kottas, A., & Sansó, B. (2022c). Bayesian Geostatistical Modeling for Discrete-Valued Processes. arXiv preprint arXiv:2111.01840.](https://onlinelibrary.wiley.com/doi/full/10.1002/env.2805)
 
-
+### Deep GPs
 
