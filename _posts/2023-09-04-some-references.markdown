@@ -20,6 +20,8 @@ categories: jekyll update
 
 Jiang, Z. (2018). A survey on spatial prediction methods. IEEE Transactions on Knowledge and Data Engineering, 31(9), 1645-1664.
 
+[Shekhar, S., Evans, M. R., Kang, J. M., & Mohan, P. (2011). Identifying patterns in spatial information: A survey of methods. Wiley Interdisciplinary Reviews: Data Mining and Knowledge Discovery, 1(3), 193-214.](http://i2pc.es/coss/Docencia/SignalProcessingReviews/Shekhar2011.pdf)
+
 ### GP (Gaussian process) models
 
 ### Variants of GPs
@@ -35,4 +37,10 @@ Jiang, Z. (2018). A survey on spatial prediction methods. IEEE Transactions on K
 [Zheng, X., Kottas, A., & Sansó, B. (2022c). Bayesian Geostatistical Modeling for Discrete-Valued Processes. arXiv preprint arXiv:2111.01840.](https://onlinelibrary.wiley.com/doi/full/10.1002/env.2805)
 
 ### Deep GPs
+
+### Methods for spatiotemporal data
+
+[Shekhar, S., Jiang, Z., Ali, R. Y., Eftelioglu, E., Tang, X., Gunturi, V. M., & Zhou, X. (2015). Spatiotemporal data mining: A computational perspective. ISPRS International Journal of Geo-Information, 4(4), 2306-2338.](https://www.mdpi.com/2220-9964/4/4/2306)
+
+[Atluri, G., Karpatne, A., & Kumar, V. (2018). Spatio-temporal data mining: A survey of problems and methods. ACM Computing Surveys (CSUR), 51(4), 1-41.](https://dl.acm.org/doi/pdf/10.1145/3161602)
 
