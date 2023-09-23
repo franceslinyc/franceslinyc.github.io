@@ -6,6 +6,10 @@ categories: jekyll update
 ---
 ### Methods for big spatial data -- from statistics 
 
+Sun, Y., Li, B., & Genton, M. G. (2012). Geostatistics for large datasets. In Advances and challenges in space-time modelling of natural events (pp. 55-77). Springer Berlin Heidelberg.
+
+Bradley, J. R., Cressie, N., & Shi, T. (2016). A comparison of spatial predictors when datasets could be very large.
+
 [Heaton, M. J., Datta, A., Finley, A. O., Furrer, R., Guinness, J., Guhaniyogi, R., ... & Zammit-Mangion, A. (2019). A case study competition among methods for analyzing large spatial data. Journal of Agricultural, Biological and Environmental Statistics, 24, 398-425.](https://www.scienceopen.com/document_file/44268d42-af9d-4a92-8004-cc2b0855bd0a/PubMedCentral/44268d42-af9d-4a92-8004-cc2b0855bd0a.pdf)
 
 
@@ -15,6 +19,9 @@ categories: jekyll update
 
 [Jakkala, K. (2021). Deep Gaussian processes: A survey. arXiv preprint arXiv:2106.12135.](https://arxiv.org/pdf/2106.12135.pdf)
 
+[Hazra, A., Nag, P., Yadav, R., & Sun, Y. (2023). Exploring the Efficacy of Statistical and Deep Learning Methods for Large Spatial Datasets: A Case Study. arXiv preprint arXiv:2308.05812.](https://arxiv.org/pdf/2308.05812.pdf)
+
+### Methods for spatial data -- from statistics
 
 ### Methods for spatial data -- from CS
 
@@ -27,6 +34,10 @@ Jiang, Z. (2018). A survey on spatial prediction methods. IEEE Transactions on K
 ### Variants of GPs
 
 ### NNGPs (Nearest-neighbor Gaussian process)
+
+Datta, A., Banerjee, S., Finley, A. O., & Gelfand, A. E. (2016). Hierarchical nearest-neighbor Gaussian process models for large geostatistical datasets. Journal of the American Statistical Association, 111(514), 800-812.
+
+Finley, A. O., Datta, A., Cook, B. D., Morton, D. C., Andersen, H. E., & Banerjee, S. (2019). Efficient algorithms for Bayesian nearest neighbor Gaussian processes. Journal of Computational and Graphical Statistics, 28(2), 401-414.
 
 ### NNMPs (Nearest-neighbor mixture process)
 
@@ -43,4 +54,10 @@ Jiang, Z. (2018). A survey on spatial prediction methods. IEEE Transactions on K
 [Shekhar, S., Jiang, Z., Ali, R. Y., Eftelioglu, E., Tang, X., Gunturi, V. M., & Zhou, X. (2015). Spatiotemporal data mining: A computational perspective. ISPRS International Journal of Geo-Information, 4(4), 2306-2338.](https://www.mdpi.com/2220-9964/4/4/2306)
 
 [Atluri, G., Karpatne, A., & Kumar, V. (2018). Spatio-temporal data mining: A survey of problems and methods. ACM Computing Surveys (CSUR), 51(4), 1-41.](https://dl.acm.org/doi/pdf/10.1145/3161602)
+
+### Nearest-Neighbor Neural Network
+
+[Wang, H., Guan, Y., & Reich, B. (2019, November). Nearest-neighbor neural networks for geostatistics. In 2019 international conference on data mining workshops (ICDMW) (pp. 196-205). IEEE.](https://arxiv.org/pdf/1903.12125.pdf)
+
+### Others
 
