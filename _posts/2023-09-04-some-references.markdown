@@ -60,9 +60,11 @@ Finley, A. O., Datta, A., Cook, B. D., Morton, D. C., Andersen, H. E., & Banerje
 
 [Damianou, A., & Lawrence, N. D. (2013, April). Deep gaussian processes. In Artificial intelligence and statistics (pp. 207-215). PMLR.](http://proceedings.mlr.press/v31/damianou13a.pdf)
 
+[Jakkala, K. (2021). Deep Gaussian processes: A survey. arXiv preprint arXiv:2106.12135.](https://arxiv.org/pdf/2106.12135.pdf)
+
 ### Deep Learning
 
-[Schmidhuber, J. (2015). Deep learning in neural networks: An overview. Neural networks, 61, 85-117.](https://arxiv.org/pdf/1404.7828.pdf))
+[Schmidhuber, J. (2015). Deep learning in neural networks: An overview. Neural networks, 61, 85-117.](https://arxiv.org/pdf/1404.7828.pdf)
 
 [LeCun, Y., Bengio, Y., & Hinton, G. (2015). Deep learning. nature, 521(7553), 436-444.](https://creativecoding.soe.ucsc.edu/courses/cs523/slides/week3/DeepLearning_LeCun.pdf)
 
