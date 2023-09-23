@@ -23,6 +23,7 @@ Bradley, J. R., Cressie, N., & Shi, T. (2016). A comparison of spatial predictor
 
 ### Methods for spatial data -- from statistics
 
+
 ### Methods for spatial data -- from CS
 
 Jiang, Z. (2018). A survey on spatial prediction methods. IEEE Transactions on Knowledge and Data Engineering, 31(9), 1645-1664.
@@ -47,6 +48,14 @@ Finley, A. O., Datta, A., Cook, B. D., Morton, D. C., Andersen, H. E., & Banerje
 
 [Zheng, X., Kottas, A., & Sansó, B. (2022c). Bayesian Geostatistical Modeling for Discrete-Valued Processes. arXiv preprint arXiv:2111.01840.](https://onlinelibrary.wiley.com/doi/full/10.1002/env.2805)
 
+### Deep Learning
+
+[Schmidhuber, J. (2015). Deep learning in neural networks: An overview. Neural networks, 61, 85-117.](https://arxiv.org/pdf/1404.7828.pdf))
+
+[LeCun, Y., Bengio, Y., & Hinton, G. (2015). Deep learning. nature, 521(7553), 436-444.]()
+
+[Goodfellow, I., Bengio, Y., & Courville, A. (2016). Deep learning. MIT press.](https://creativecoding.soe.ucsc.edu/courses/cs523/slides/week3/DeepLearning_LeCun.pdf)
+
 ### Deep GPs
 
 ### Methods for spatiotemporal data
@@ -58,6 +67,4 @@ Finley, A. O., Datta, A., Cook, B. D., Morton, D. C., Andersen, H. E., & Banerje
 ### Nearest-Neighbor Neural Network
 
 [Wang, H., Guan, Y., & Reich, B. (2019, November). Nearest-neighbor neural networks for geostatistics. In 2019 international conference on data mining workshops (ICDMW) (pp. 196-205). IEEE.](https://arxiv.org/pdf/1903.12125.pdf)
-
-### Others
 
