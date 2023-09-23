@@ -48,9 +48,13 @@ Finley, A. O., Datta, A., Cook, B. D., Morton, D. C., Andersen, H. E., & Banerje
 
 [Zheng, X., Kottas, A., & Sansó, B. (2022c). Bayesian Geostatistical Modeling for Discrete-Valued Processes. arXiv preprint arXiv:2111.01840.](https://onlinelibrary.wiley.com/doi/full/10.1002/env.2805)
 
-### 4N (Nearest-Neighbor Neural Network) process
+### Deep Learning for Spatial Data
 
 [Wang, H., Guan, Y., & Reich, B. (2019, November). Nearest-neighbor neural networks for geostatistics. In 2019 international conference on data mining workshops (ICDMW) (pp. 196-205). IEEE.](https://arxiv.org/pdf/1903.12125.pdf)
+
+[Zammit-Mangion, A., Ng, T. L. J., Vu, Q., & Filippone, M. (2022). Deep compositional spatial models. Journal of the American Statistical Association, 117(540), 1787-1808.](https://arxiv.org/pdf/1906.02840.pdf)
+
+[Hazra, A., Nag, P., Yadav, R., & Sun, Y. (2023). Exploring the Efficacy of Statistical and Deep Learning Methods for Large Spatial Datasets: A Case Study. arXiv preprint arXiv:2308.05812.](https://arxiv.org/pdf/2308.05812.pdf)
 
 ### Deep Learning
 
