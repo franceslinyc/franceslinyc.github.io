@@ -56,6 +56,10 @@ Finley, A. O., Datta, A., Cook, B. D., Morton, D. C., Andersen, H. E., & Banerje
 
 [Hazra, A., Nag, P., Yadav, R., & Sun, Y. (2023). Exploring the Efficacy of Statistical and Deep Learning Methods for Large Spatial Datasets: A Case Study. arXiv preprint arXiv:2308.05812.](https://arxiv.org/pdf/2308.05812.pdf)
 
+### Deep GPs
+
+[Damianou, A., & Lawrence, N. D. (2013, April). Deep gaussian processes. In Artificial intelligence and statistics (pp. 207-215). PMLR.](http://proceedings.mlr.press/v31/damianou13a.pdf)
+
 ### Deep Learning
 
 [Schmidhuber, J. (2015). Deep learning in neural networks: An overview. Neural networks, 61, 85-117.](https://arxiv.org/pdf/1404.7828.pdf))
@@ -63,8 +67,6 @@ Finley, A. O., Datta, A., Cook, B. D., Morton, D. C., Andersen, H. E., & Banerje
 [LeCun, Y., Bengio, Y., & Hinton, G. (2015). Deep learning. nature, 521(7553), 436-444.](https://creativecoding.soe.ucsc.edu/courses/cs523/slides/week3/DeepLearning_LeCun.pdf)
 
 Goodfellow, I., Bengio, Y., & Courville, A. (2016). Deep learning. MIT press.
-
-### Deep GPs
 
 ### Methods for spatiotemporal data
 
