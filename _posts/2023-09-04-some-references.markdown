@@ -13,7 +13,7 @@ Bradley, J. R., Cressie, N., & Shi, T. (2016). A comparison of spatial predictor
 [Heaton, M. J., Datta, A., Finley, A. O., Furrer, R., Guinness, J., Guhaniyogi, R., ... & Zammit-Mangion, A. (2019). A case study competition among methods for analyzing large spatial data. Journal of Agricultural, Biological and Environmental Statistics, 24, 398-425.](https://www.scienceopen.com/document_file/44268d42-af9d-4a92-8004-cc2b0855bd0a/PubMedCentral/44268d42-af9d-4a92-8004-cc2b0855bd0a.pdf)
 
 
-### Methods for big spatial data -- from CS
+### Methods for big spatial data -- from ML/AI
 
 [Liu, H., Ong, Y. S., Shen, X., & Cai, J. (2020). When Gaussian process meets big data: A review of scalable GPs. IEEE transactions on neural networks and learning systems, 31(11), 4405-4423.](https://arxiv.org/pdf/1807.01065.pdf)
 
@@ -21,10 +21,12 @@ Bradley, J. R., Cressie, N., & Shi, T. (2016). A comparison of spatial predictor
 
 [Hazra, A., Nag, P., Yadav, R., & Sun, Y. (2023). Exploring the Efficacy of Statistical and Deep Learning Methods for Large Spatial Datasets: A Case Study. arXiv preprint arXiv:2308.05812.](https://arxiv.org/pdf/2308.05812.pdf)
 
+- The results showed that proper statistical models (BCL, GpGp, GpGp0, SPDE, and NNGP) consistently outperformed other approaches (DeepGP, DeepKriging, Gap- fill, FRK) on all five simulated competition datasets and also the total precipitable water (TPW) dataset.
+
 ### Methods for spatial data -- from statistics
 
 
-### Methods for spatial data -- from CS
+### Methods for spatial data -- from ML/AI
 
 Jiang, Z. (2018). A survey on spatial prediction methods. IEEE Transactions on Knowledge and Data Engineering, 31(9), 1645-1664.
 
@@ -48,7 +50,7 @@ Finley, A. O., Datta, A., Cook, B. D., Morton, D. C., Andersen, H. E., & Banerje
 
 [Zheng, X., Kottas, A., & Sansó, B. (2022c). Bayesian Geostatistical Modeling for Discrete-Valued Processes. arXiv preprint arXiv:2111.01840.](https://onlinelibrary.wiley.com/doi/full/10.1002/env.2805)
 
-### Deep Learning for Spatial Data
+### Deep learning for spatial data
 
 [Wang, H., Guan, Y., & Reich, B. (2019, November). Nearest-neighbor neural networks for geostatistics. In 2019 international conference on data mining workshops (ICDMW) (pp. 196-205). IEEE.](https://arxiv.org/pdf/1903.12125.pdf)
 
@@ -62,11 +64,11 @@ Finley, A. O., Datta, A., Cook, B. D., Morton, D. C., Andersen, H. E., & Banerje
 
 [Jakkala, K. (2021). Deep Gaussian processes: A survey. arXiv preprint arXiv:2106.12135.](https://arxiv.org/pdf/2106.12135.pdf)
 
-#### DeepKriging
+#### Deep kriging
 
 [Chen, W., Li, Y., Reich, B. J., & Sun, Y. (2020). Deepkriging: Spatially dependent deep neural networks for spatial prediction. arXiv preprint arXiv:2007.11972.](https://arxiv.org/pdf/2007.11972.pdf)
 
-### Deep Learning
+### Deep learning
 
 [Schmidhuber, J. (2015). Deep learning in neural networks: An overview. Neural networks, 61, 85-117.](https://arxiv.org/pdf/1404.7828.pdf)
 
