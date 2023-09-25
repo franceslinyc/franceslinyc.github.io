@@ -21,7 +21,7 @@ Bradley, J. R., Cressie, N., & Shi, T. (2016). A comparison of spatial predictor
 
 [Hazra, A., Nag, P., Yadav, R., & Sun, Y. (2023). Exploring the Efficacy of Statistical and Deep Learning Methods for Large Spatial Datasets: A Case Study. arXiv preprint arXiv:2308.05812.](https://arxiv.org/pdf/2308.05812.pdf)
 
-- The results showed that proper statistical models (BCL, GpGp, GpGp0, SPDE, and NNGP) consistently outperformed other approaches (DeepGP, DeepKriging, Gap- fill, FRK) on all five simulated competition datasets and also the total precipitable water (TPW) dataset.
+- The results showed that proper statistical models (BCL, GpGp, GpGp0, SPDE, and NNGP) consistently outperformed other (i.e., deep learning and algorithmic) approaches (DeepGP, DeepKriging, Gap-fill, FRK) on all five simulated competition datasets and also the total precipitable water (TPW) dataset.
 
 ### Methods for spatial data -- from statistics
 
