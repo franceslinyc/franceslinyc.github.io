@@ -56,11 +56,15 @@ Finley, A. O., Datta, A., Cook, B. D., Morton, D. C., Andersen, H. E., & Banerje
 
 [Hazra, A., Nag, P., Yadav, R., & Sun, Y. (2023). Exploring the Efficacy of Statistical and Deep Learning Methods for Large Spatial Datasets: A Case Study. arXiv preprint arXiv:2308.05812.](https://arxiv.org/pdf/2308.05812.pdf)
 
-### Deep GPs
+#### Deep GPs
 
 [Damianou, A., & Lawrence, N. D. (2013, April). Deep gaussian processes. In Artificial intelligence and statistics (pp. 207-215). PMLR.](http://proceedings.mlr.press/v31/damianou13a.pdf)
 
 [Jakkala, K. (2021). Deep Gaussian processes: A survey. arXiv preprint arXiv:2106.12135.](https://arxiv.org/pdf/2106.12135.pdf)
+
+#### DeepKriging
+
+[Chen, W., Li, Y., Reich, B. J., & Sun, Y. (2020). Deepkriging: Spatially dependent deep neural networks for spatial prediction. arXiv preprint arXiv:2007.11972.](https://arxiv.org/pdf/2007.11972.pdf)
 
 ### Deep Learning
 
