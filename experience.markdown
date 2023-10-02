@@ -44,6 +44,8 @@ Coming soon
 
 - ST 443/543 Applied Stochastic Models (Spring 2023)
 <br/>
+- ST 441/541 Probability, Computing, and Simulation in Statistics (Computational Statistics; Fall 2023)
+<br/>
 - ST 422/522 Intro to Mathematical Statistics II (Point Estimation, Hypothesis Testing; Winter 2023)
 <br/>
 - ST 421/521 Intro to Mathematical Statistics I (Probability, Random Variables; Fall 2022)
