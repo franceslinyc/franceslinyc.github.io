@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-<p align="justify"> Thanks for visiting my site! I am a 5-year PhD student (2 year in Master's) in statistics at the Oregon State University (OSU). Broadly speaking, my research interests lie in </p>
+<p align="justify"> Thanks for visiting my site! I am a 5-year PhD student (2 years in Master's) in statistics at the Oregon State University (OSU). Broadly speaking, my research interests lie in </p>
 
 - spatial prediction, 
 - statistical computing, and 
