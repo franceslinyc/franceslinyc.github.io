@@ -88,4 +88,14 @@ Goodfellow, I., Bengio, Y., & Courville, A. (2016). Deep learning. MIT press.
 
 ### Big spatial data
 
+### Copula-based models 
 
+#### Copula
+
+#### Copula-based models for non-Gaussian time series
+
+Escarela, G., Mena, R. H., & Castillo-Morales, A. (2006). A flexible class of parametric transition regression models based on copulas: application to poliomyelitis incidence. Statistical Methods in Medical Research, 15(6), 593-609.
+
+Huang, X. W., & Emura, T. (2022). Computational methods for a copula-based Markov chain model with a binomial time series. Communications in Statistics-Simulation and Computation, 1-18.
+
+#### Copula-based models for non-Gaussian spatial data
