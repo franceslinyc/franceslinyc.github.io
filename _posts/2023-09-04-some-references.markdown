@@ -76,6 +76,10 @@ Finley, A. O., Datta, A., Cook, B. D., Morton, D. C., Andersen, H. E., & Banerje
 
 Goodfellow, I., Bengio, Y., & Courville, A. (2016). Deep learning. MIT press.
 
+[Fan, J., Ma, C., & Zhong, Y. (2021). A selective overview of deep learning. Statistical science: a review journal of the Institute of Mathematical Statistics, 36(2), 264.](https://arxiv.org/abs/1904.05526)
+
+- Discuss: What is deep learning? What are the new characteristics of deep learning, compared with classical methods? What are the theoretical foundations of deep learning? from a statistical point of view. 
+
 ### Methods for spatiotemporal data
 
 [Shekhar, S., Jiang, Z., Ali, R. Y., Eftelioglu, E., Tang, X., Gunturi, V. M., & Zhou, X. (2015). Spatiotemporal data mining: A computational perspective. ISPRS International Journal of Geo-Information, 4(4), 2306-2338.](https://www.mdpi.com/2220-9964/4/4/2306)
@@ -99,3 +103,5 @@ Escarela, G., Mena, R. H., & Castillo-Morales, A. (2006). A flexible class of pa
 Huang, X. W., & Emura, T. (2022). Computational methods for a copula-based Markov chain model with a binomial time series. Communications in Statistics-Simulation and Computation, 1-18.
 
 #### Copula-based models for non-Gaussian spatial data
+
+
