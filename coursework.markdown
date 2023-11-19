@@ -25,7 +25,7 @@ permalink: /coursework/
 
 **Theories**<br>
 
-- Advanced Theory of Statistics III () <br>
+- Advanced Theory of Statistics III (Large Sample Theory; First-order and Higher-order Asymptotics, Edgeworth and Saddlepoint Approximations) <br>
 
 
 #### Completed coursework
@@ -60,15 +60,15 @@ permalink: /coursework/
 
 **Data Science**<br>
 
-- Data Science Tools and Programming/Big Data (Relational Databases: SQL; Non-Relational Databases: Spark; BigQuery, Data Wrangling, Data Visualization) <br> <i> using Cloud Computing Services, R, Python and Query Language </i> [8 HWs] [[See my project]](https://franceslinyc.github.io/projects/)
+- Data Science Tools and Programming / Big Data (Relational Databases: SQL; Non-Relational Databases: Spark; BigQuery, Data Wrangling, Data Visualization) <br> <i> using Cloud Computing Services, R, Python and Query Language </i> [8 HWs] [[See my project]](https://franceslinyc.github.io/projects/)
 
 **Simulation**<br>
 
-- Probability, Computing, and Simulation (Monte Carlo methods, Bootstrap estimates, Variance Reduction techniques, Optimization) <br> <i> using R and GitHub</i> [8 HWs] [[See my project]](https://franceslinyc.github.io/projects/)
+- Probability, Computing, and Simulation / Computational Statistics (Monte Carlo methods, Bootstrap estimates, Variance Reduction techniques, Optimization) <br> <i> using R and GitHub</i> [8 HWs] [[See my project]](https://franceslinyc.github.io/projects/)
 
 **Methods**<br>
 
-- Generalized Regression Models/GLMs I (Exponential Families, Logistic Regression, Regression-type models for binomial, multinomial and Poisson data, Log-linear models for multidimensional contingency tables) <br> <i> using R</i> [6 HWs] [[See my project]](https://franceslinyc.github.io/projects/)
+- Generalized Regression Models / GLMs I (Exponential Families, Logistic Regression, Regression-type models for binomial, multinomial and Poisson data, Log-linear models for multidimensional contingency tables) <br> <i> using R</i> [6 HWs] [[See my project]](https://franceslinyc.github.io/projects/)
 - Spatial Statistics (Geostatistics, Markov Random Field, Poisson Process) <br> <i> pending/auditing </i>
 - Time Series (Autoregressive Integrated Moving Average (ARIMA) model, Forecasting, Spectral Analysis) <br> <i> using R </i> [6 HWs] [[See our project]](https://franceslinyc.github.io/projects/)
 - Statistical Methods (Parametric tests: t-test, χ2-test, F-test; Nonparametric tests, Tests for Proportions, Tests for Binary Data) <br> <i> using R </i> [6 HWs]
@@ -85,10 +85,10 @@ permalink: /coursework/
 
 - Consulting Practicum (Cases: GLMs, Occupancy Modeling, Meta-survey Analysis) <br> <i> 2022, 2021, 2021, and more </i> [[See more details]](https://franceslinyc.github.io/experience/)
 
-**Others (Sampling Methods, Statistical/Machine Learning, etc)**<br>
+**Others (Sampling Methods, Statistical / Machine Learning, etc)**<br>
 
 - Sampling Methods (Stratified Sampling, Cluster Sampling, Systematic Sampling, Multistage Sampling) <br> <i> using R </i> [7 HWs + 1 Project]
-- Statistical Methods for Large and Complex Data Sets/Statistical Learning (PCA, Penalized Logistic Regression, Random Forests, Ensemble Methods) <br> <i> using R </i> [[See our project]](https://franceslinyc.github.io/projects/)
+- Statistical Methods for Large and Complex Data Sets / Statistical Learning (PCA, Penalized Logistic Regression, Random Forests, Ensemble Methods) <br> <i> using R </i> [[See our project]](https://franceslinyc.github.io/projects/)
 - Multivariate Analysis (Multidimensional Scaling (MDS), Principal Components Analysis (PCA), Classification & Discriminant Analysis, Clustering) <br> <i> using R </i> [6 HWs] [[See my project]](https://franceslinyc.github.io/projects/)
 - Probability and Mathematical Statistics I, II
 <br/>
@@ -109,6 +109,6 @@ permalink: /coursework/
 <br/>
 
 #### Other relevant coursework
-**BS, Earth and Space Sciences, University of Washington, 2014** <br>
+**BS, Earth and Space Sciences, University of Washington** <br>
 - Geographic Information Systems (GIS) <i> using ArcGIS</i>, Geoscience Communication, Statistical Methods <i> using R</i>, and Calculus I, II<br>
 
