@@ -23,8 +23,9 @@ Bradley, J. R., Cressie, N., & Shi, T. (2016). A comparison of spatial predictor
 
 - The results showed that proper statistical models (BCL, GpGp, GpGp0, SPDE, and NNGP) consistently outperformed other (i.e., deep learning and algorithmic) approaches (DeepGP, DeepKriging, Gap-fill, FRK) on all five simulated competition datasets and also the total precipitable water (TPW) dataset.
 
-### Methods for spatial data -- from statistics
 
+
+### Methods for spatial data -- from statistics
 
 ### Methods for spatial data -- from ML/AI
 
@@ -104,4 +105,8 @@ Huang, X. W., & Emura, T. (2022). Computational methods for a copula-based Marko
 
 #### Copula-based models for non-Gaussian spatial data
 
+### Methods for time series (temporal data)
 
+Hassan, M. Y. (2021). The deep learning LSTM and MTD models best predict acute respiratory infection among under-five-year old children in Somaliland. Symmetry, 13(7), 1156.
+
+- The results of this study have shown that no model is a panacea over the other two models, but they demonstrated that the LSTM (long short term memory) deep learning and MTD (mixture transitions distribution) models slightly outperformed the classical SARIMA (seasonal autoregressive integrated moving averages) model in predicting ARI (acute respiratory infection) values. 
