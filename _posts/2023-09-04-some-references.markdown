@@ -109,4 +109,4 @@ Huang, X. W., & Emura, T. (2022). Computational methods for a copula-based Marko
 
 Hassan, M. Y. (2021). The deep learning LSTM and MTD models best predict acute respiratory infection among under-five-year old children in Somaliland. Symmetry, 13(7), 1156.
 
-- The results of this study have shown that no model is a panacea over the other two models, but they demonstrated that the LSTM (long short term memory) deep learning and MTD (mixture transitions distribution) models slightly outperformed the classical SARIMA (seasonal autoregressive integrated moving averages) model in predicting ARI (acute respiratory infection) values. 
+- The results of this study have shown that no model is a panacea over the other two models, but they demonstrated that the deep learning LSTM (long short term memory) and EM-algorithm based MTD (mixture transitions distribution) models slightly outperformed the classical SARIMA (seasonal autoregressive integrated moving averages) model in predicting ARI (acute respiratory infection) values. 
