@@ -15,6 +15,8 @@ Bradley, J. R., Cressie, N., & Shi, T. (2016). A comparison of spatial predictor
 
 ### Methods for big spatial data -- from ML/AI
 
+[Das, S., Roy, S., & Sambasivan, R. (2018). Fast gaussian process regression for big data. Big data research, 14, 12-26.](https://arxiv.org/pdf/1509.05142.pdf)
+
 [Liu, H., Ong, Y. S., Shen, X., & Cai, J. (2020). When Gaussian process meets big data: A review of scalable GPs. IEEE transactions on neural networks and learning systems, 31(11), 4405-4423.](https://arxiv.org/pdf/1807.01065.pdf)
 
 [Jakkala, K. (2021). Deep Gaussian processes: A survey. arXiv preprint arXiv:2106.12135.](https://arxiv.org/pdf/2106.12135.pdf)
@@ -22,6 +24,10 @@ Bradley, J. R., Cressie, N., & Shi, T. (2016). A comparison of spatial predictor
 [Hazra, A., Nag, P., Yadav, R., & Sun, Y. (2023). Exploring the Efficacy of Statistical and Deep Learning Methods for Large Spatial Datasets: A Case Study. arXiv preprint arXiv:2308.05812.](https://arxiv.org/pdf/2308.05812.pdf)
 
 - The results showed that proper statistical models (BCL, GpGp, GpGp0, SPDE, and NNGP) consistently outperformed other (i.e., deep learning and algorithmic) approaches (DeepGP, DeepKriging, Gap-fill, FRK) on all five simulated competition datasets and also the total precipitable water (TPW) dataset.
+
+[Hensman, J., Fusi, N., & Lawrence, N. D. (2013). Gaussian processes for big data. arXiv preprint arXiv:1309.6835.](https://arxiv.org/pdf/1309.6835.pdf)
+
+[Titsias, M. (2009, April). Variational learning of inducing variables in sparse Gaussian processes. In Artificial intelligence and statistics (pp. 567-574). PMLR.](http://proceedings.mlr.press/v5/titsias09a/titsias09a.pdf)
 
 
 
@@ -69,6 +75,8 @@ Finley, A. O., Datta, A., Cook, B. D., Morton, D. C., Andersen, H. E., & Banerje
 
 [Chen, W., Li, Y., Reich, B. J., & Sun, Y. (2020). Deepkriging: Spatially dependent deep neural networks for spatial prediction. arXiv preprint arXiv:2007.11972.](https://arxiv.org/pdf/2007.11972.pdf)
 
+#### Convolutional Gaussian Processes
+
 ### Deep learning
 
 [Schmidhuber, J. (2015). Deep learning in neural networks: An overview. Neural networks, 61, 85-117.](https://arxiv.org/pdf/1404.7828.pdf)
@@ -80,6 +88,8 @@ Goodfellow, I., Bengio, Y., & Courville, A. (2016). Deep learning. MIT press.
 [Fan, J., Ma, C., & Zhong, Y. (2021). A selective overview of deep learning. Statistical science: a review journal of the Institute of Mathematical Statistics, 36(2), 264.](https://arxiv.org/abs/1904.05526)
 
 - Discuss: What is deep learning? What are the new characteristics of deep learning, compared with classical methods? What are the theoretical foundations of deep learning? from a statistical point of view. 
+
+
 
 ### Methods for spatiotemporal data
 
