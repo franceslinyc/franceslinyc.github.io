@@ -17,6 +17,10 @@ Bradley, J. R., Cressie, N., & Shi, T. (2016). A comparison of spatial predictor
 
 [Das, S., Roy, S., & Sambasivan, R. (2018). Fast gaussian process regression for big data. Big data research, 14, 12-26.](https://arxiv.org/pdf/1509.05142.pdf)
 
+- Apply the proposed method for regression tasks for various datasets: Combined Cycle Power Plant, Ailerons from LIAD (Laboratory of Artificial Intelligence and Decision), Elevators from LIAD, California Housing from LIAD, Airline Delay from DOT, Household Power Consumption from UCI, and the sinc function.
+
+- Compare to other methods such as Sparse Gaussian Process and Stochastic Variational Gaussian Process.
+
 [Liu, H., Ong, Y. S., Shen, X., & Cai, J. (2020). When Gaussian process meets big data: A review of scalable GPs. IEEE transactions on neural networks and learning systems, 31(11), 4405-4423.](https://arxiv.org/pdf/1807.01065.pdf)
 
 [Jakkala, K. (2021). Deep Gaussian processes: A survey. arXiv preprint arXiv:2106.12135.](https://arxiv.org/pdf/2106.12135.pdf)
