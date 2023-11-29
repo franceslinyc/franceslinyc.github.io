@@ -81,6 +81,10 @@ Finley, A. O., Datta, A., Cook, B. D., Morton, D. C., Andersen, H. E., & Banerje
 
 #### Convolutional Gaussian Processes
 
+[Van der Wilk, M., Rasmussen, C. E., & Hensman, J. (2017). Convolutional gaussian processes. Advances in Neural Information Processing Systems, 30.](https://proceedings.neurips.cc/paper_files/paper/2017/file/1c54985e4f95b7819ca0357c0cb9a09f-Paper.pdf)
+
+[Blomqvist, K., Kaski, S., & Heinonen, M. (2020). Deep convolutional Gaussian processes. In Machine Learning and Knowledge Discovery in Databases: European Conference, ECML PKDD 2019, Würzburg, Germany, September 16–20, 2019, Proceedings, Part II (pp. 582-597). Springer International Publishing.](https://arxiv.org/pdf/1810.03052.pdf)
+
 ### Deep learning
 
 [Schmidhuber, J. (2015). Deep learning in neural networks: An overview. Neural networks, 61, 85-117.](https://arxiv.org/pdf/1404.7828.pdf)
