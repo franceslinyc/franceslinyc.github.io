@@ -85,6 +85,19 @@ Finley, A. O., Datta, A., Cook, B. D., Morton, D. C., Andersen, H. E., & Banerje
 
 [Blomqvist, K., Kaski, S., & Heinonen, M. (2020). Deep convolutional Gaussian processes. In Machine Learning and Knowledge Discovery in Databases: European Conference, ECML PKDD 2019, Würzburg, Germany, September 16–20, 2019, Proceedings, Part II (pp. 582-597). Springer International Publishing.](https://arxiv.org/pdf/1810.03052.pdf)
 
+#### DGMRF
+
+[Sidén, P., & Lindsten, F. (2020, November). Deep gaussian markov random fields. In International conference on machine learning (pp. 8916-8926). PMLR.](http://proceedings.mlr.press/v119/siden20a/siden20a.pdf)
+
+- Establish a formal connection between GMRFs and convolutional neural networks (CNNs).
+
+- Refer to Lindgren et al., 2011 for the link between GPs and GMRFs. 
+
+- DGMRF outperforms all the methods from the competition on all criteria (e.g. MAE, RMSE, CRPS, INT) except CVG, where it is slightly worse than NNGP (Nearest-neighbor Gaussian process). 
+
+
+
+
 ### Deep learning
 
 [Schmidhuber, J. (2015). Deep learning in neural networks: An overview. Neural networks, 61, 85-117.](https://arxiv.org/pdf/1404.7828.pdf)
