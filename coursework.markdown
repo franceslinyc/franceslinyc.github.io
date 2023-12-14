@@ -33,12 +33,12 @@ permalink: /coursework/
 - Advanced Theory of Statistics III (Large Sample Theory; First-order and Higher-order Asymptotics, Edgeworth and Saddlepoint Approximations, M- and Z-Estimation) <br>
 - Probability Theory (Measure Theory, Convergence, Central Limit Theorem, Characteristic Functions, Martingales) <br>
 - Linear Models Theory I (Least Squares Estimation, Best Linear Unbiased Estimation BLUE, Multivariate Normal Distributions, Random Vectors and Matrices) <br> Project Title: [[Reduced-Rank Regression Model: A Review]]()
-- Linear Models Theory II (Mixed-effects models GLM, Generalized linear mixed-effects models GLMM) <br> Project Title: [[Reparameterized SGLMM (Spatial Generalized Linear Mixed Model): A Review]]()
+- Linear Models Theory II (Generalized linear models GLM, Generalized linear mixed-effects models GLMM) <br> Project Title: [[Reparameterized SGLMM (Spatial Generalized Linear Mixed Model): A Review]]()
 
 **Methods**<br>
 
 - Bayesian Statistics (Prior, Posterior and Predictive Distributions, Gibbs Sampler, Hierarchical Modeling) <br> Project Title: [[INLA for GMRFs (e.g. GLMMs, Spatial Models) with Spatial Examples of Leukemia Incident Cases and Heavy Metal Concentrations]]()
-- Survival Analysis (Hazard Function, Kaplan–Meier Estimator, Accelerated Failure Time Model (Exponential and Weibull Regression), Cox Proportional-Hazards Model) <br> Project Title: [[Random Survival Forests with An Example of Systolic Heart Failure]]()
+- Survival Analysis (Survival and Hazard Function, Kaplan–Meier Estimator, Nelson-Aalen Estimator, Accelerated Failure Time Model (Exponential and Weibull Regression), Cox Proportional-Hazards Model) <br> Project Title: [[Random Survival Forests with An Example of Systolic Heart Failure]]()
 
 **CS**<br>
 
