@@ -38,7 +38,7 @@ permalink: /coursework/
 **Methods**<br>
 
 - Bayesian Statistics (Prior, Posterior and Predictive Distributions, Gibbs Sampler, Hierarchical Modeling) <br> Project Title: [[INLA for GMRFs (e.g. GLMMs, Spatial Models) with Spatial Examples of Leukemia Incident Cases and Heavy Metal Concentrations]]()
-- Survival Analysis (Hazard Function, Weibull Regression, Kaplan–Meier Estimator, Cox Proportional-Hazards Model) <br> Project Title: [[Random Survival Forests with An Example of Systolic Heart Failure]]()
+- Survival Analysis (Hazard Function, Kaplan–Meier Estimator, Accelerated Failure Time Model (Exponential and Weibull Regression), Cox Proportional-Hazards Model) <br> Project Title: [[Random Survival Forests with An Example of Systolic Heart Failure]]()
 
 **CS**<br>
 
