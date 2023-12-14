@@ -9,9 +9,9 @@ permalink: /coursework/
 
 <p align="justify"> First year of Master's at OSU, major parts of our coursework focused on building the fundamentals: statistical methods and theories. Second year, we expanded beyond statistical methods and theories to include additional statistical models (e.g. GLMs) and simulation / optimization methods (e.g. EM). I also gained experience working with big (> 100 GB) data using cloud computing platforms (e.g. GCP, PySpark / Apache Spark). </p>  
 
-<p align="justify"> Third year of PhD's also at OSU, we dived into advanced topics in statistics (e.g. decision theory, theories for GLM/GLMMs). I also took a sneak peek of advanced techniques (e.g. reduced-rank regression, spatial GLMM, INLA, MCMC), while completing course & independent projects. </p>
+<p align="justify"> Third year of PhD's also at OSU, we dived into advanced topics in statistics (e.g. decision theory, theories for GLMs/GLMMs). I also took a sneak peek of advanced techniques (e.g. reduced-rank regression, spatial GLMMs, INLA, MCMC), while completing course & independent projects. </p>
 
-<p align="justify"> Fourth year of PhD's, I spend most time in spatial models such as Gaussian processes (GP), sparse GP, NNGP and NNMP, and time series models such as MTD. </p>
+<p align="justify"> Fourth year of PhD's, I spend most time in spatial models such as Gaussian processes (GPs), variant GPs, NNGPs and NNMPs, and time series models such as MTD. </p>
 
 (some of the major topics discussed) <br/>
 [some of the work using R / Python / Query Language] 
@@ -38,7 +38,7 @@ permalink: /coursework/
 **Methods**<br>
 
 - Bayesian Statistics (Prior, Posterior and Predictive Distributions, Gibbs Sampler, Hierarchical Modeling) <br> Project Title: [[INLA for GMRFs (e.g. GLMMs, Spatial Models) with Spatial Examples of Leukemia Incident Cases and Heavy Metal Concentrations]]()
-- Survival Analysis (Hazard Function, Kaplan–Meier Estimator, Cox Proportional-Hazards Model) <br> Project Title: [[Random Survival Forests with An Example of Systolic Heart Failure]]()
+- Survival Analysis (Hazard Function, Weibull Regression, Kaplan–Meier Estimator, Cox Proportional-Hazards Model) <br> Project Title: [[Random Survival Forests with An Example of Systolic Heart Failure]]()
 
 **CS**<br>
 
