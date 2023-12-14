@@ -61,11 +61,11 @@ permalink: /coursework/
 
 **Simulation**<br>
 
-- Probability, Computing, and Simulation / Computational Statistics (Monte Carlo methods, Bootstrap estimates, Variance Reduction techniques, Optimization) <br> <i> using R and GitHub</i> [8 HWs] [[See my project]](https://franceslinyc.github.io/projects/)
+- Probability, Computing, and Simulation / Computational Statistics (Monte Carlo methods, Bootstrap estimates, Variance Reduction techniques, Optimization techniques) <br> <i> using R and GitHub</i> [8 HWs] [[See my project]](https://franceslinyc.github.io/projects/)
 
 **Methods**<br>
 
-- Generalized Regression Models / GLMs I (Exponential Families, Logistic Regression, Regression-type models for binomial, multinomial and Poisson data, Log-linear models for multidimensional contingency tables) <br> <i> using R</i> [6 HWs] [[See my project]](https://franceslinyc.github.io/projects/)
+- Generalized Regression Models / GLMs I (Exponential Families, Logistic Regression, Regression-type models for binomial, multinomial and Poisson data, Log-linear models for multidimensional contingency tables, Multinomial / Softmax Regression) <br> <i> using R</i> [6 HWs] [[See my project]](https://franceslinyc.github.io/projects/)
 - Spatial Statistics (Geostatistics, Markov Random Field, Poisson Process) <br> <i> pending/auditing </i>
 - Time Series (Autoregressive Integrated Moving Average (ARIMA) model, Forecasting, Spectral Analysis) <br> <i> using R </i> [6 HWs] [[See our project]](https://franceslinyc.github.io/projects/)
 - Statistical Methods (Parametric tests: t-test, χ2-test, F-test; Nonparametric tests, Tests for Proportions, Tests for Binary Data) <br> <i> using R </i> [6 HWs]
