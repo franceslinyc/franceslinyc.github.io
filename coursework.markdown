@@ -11,7 +11,7 @@ permalink: /coursework/
 
 <p align="justify"> Third year of PhD's also at OSU, we dived into advanced topics in statistics (e.g. decision theory, theories for GLMs/GLMMs). I also took a sneak peek of advanced techniques (e.g. reduced-rank regression, spatial GLMMs, INLA, MCMC), while completing course & independent projects. </p>
 
-<p align="justify"> Fourth year of PhD's, I spend most time in spatial models such as Gaussian processes (GPs), variant GPs, NNGPs and NNMPs, and time series models such as MTD. </p>
+<p align="justify"> Fourth year of PhD's, I spend most time in Bayesian spatial models such as Gaussian processes (GPs), variant GPs, NNGPs and NNMPs, and Bayesia time series models such as MTD. </p>
 
 (some of the major topics discussed) <br/>
 [some of the work using R / Python / Query Language] 

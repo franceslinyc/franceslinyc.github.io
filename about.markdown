@@ -4,16 +4,16 @@ title: About
 permalink: /about/
 ---
 
-<p align="justify"> Thanks for visiting my site! I am a 5th-year PhD student (2 years in Master's) in statistics at the Oregon State University (OSU). Broadly speaking, my research interests lie in </p>
+<p align="justify"> Thanks for visiting my site! I am a 5th-year PhD student (2 years for Master's) in statistics at the Oregon State University (OSU). Broadly speaking, my research interests lie in </p>
 
-- spatial prediction, 
+- predictive modeling, 
 - applied Bayesian, and 
 - machine learning 
 
 <p align="justify"> for large-scale spatial, zero-inflated, and skewed data. My other interests include deep learning and its more flexible and explainable variant models (e.g. deep Gaussian processes, deep Gaussian Markov Random Fields) for space and space-time modeling. </p> 
 
 
-<p align="justify"> Since Fall 2021, my co-advisors <a href="https://stat.oregonstate.edu/content/madsen-lisa" target="_blank"> Dr. Lisa Madsen</a> & <a href="https://stat.oregonstate.edu/content/wickham-charlotte" target="_blank"> Dr. Charlotte Wickham</a> and I have focused on spatial prediction, applied Bayesian, and machine learning for big forestry inventory data with <a href="https://en.wikipedia.org/wiki/Spatial_analysis#Spatial_dependence" target="_blank"> spatial dependence</a>, <a href="https://en.wikipedia.org/wiki/Zero-inflated_model#Zero-inflated_data_as_a_mixture_of_two_distributions" target="_blank"> excessive zero counts</a>, and right skewness. More specifically, we focus on Gaussian processes (GPs) and its variant models that are faster and more scalable for larger datasets, which readily exposed me to classes of models such as stochastic processes, finite mixture models, mixed-effects models, copula-based models, Bayesian hierarchical models, and MCMC algorithms (In particular, <a href="https://www.tandfonline.com/doi/abs/10.1080/10618600.2021.1981342" target="_blank"> this</a>, <a href="https://arxiv.org/abs/2107.07736" target="_blank"> this</a>, and <a href="https://arxiv.org/abs/2111.01840" target="_blank"> this</a> paper by Zheng et al.). </p> 
+<p align="justify"> Since Fall 2021, my co-advisors <a href="https://stat.oregonstate.edu/content/madsen-lisa" target="_blank"> Dr. Lisa Madsen</a> & <a href="https://stat.oregonstate.edu/content/wickham-charlotte" target="_blank"> Dr. Charlotte Wickham</a> and I have focused on spatial prediction, applied Bayesian, and machine learning for big forestry inventory data with <a href="https://en.wikipedia.org/wiki/Spatial_analysis#Spatial_dependence" target="_blank"> spatial dependence</a>, <a href="https://en.wikipedia.org/wiki/Zero-inflated_model#Zero-inflated_data_as_a_mixture_of_two_distributions" target="_blank"> excessive zero counts</a>, and right skewness. More specifically, we focus on Gaussian processes (GPs) and its variant models that are faster and more scalable for larger datasets, which readily exposed me to classes of models such as DAGs, stochastic processes, finite mixture models, mixed-effects models, copula-based models, Bayesian hierarchical models, and MCMC algorithms (In particular, <a href="https://www.tandfonline.com/doi/abs/10.1080/10618600.2021.1981342" target="_blank"> this</a>, <a href="https://arxiv.org/abs/2107.07736" target="_blank"> this</a>, and <a href="https://arxiv.org/abs/2111.01840" target="_blank"> this</a> paper by Zheng et al.). </p> 
 
 
 <p align="justify"> I have also completed all PhD coursework in statistics (e.g. decision theory, probability theory, linear model theory, bayesian statistics). To further improve my algorithm design & model development skillset, I also enroll in several specialization courses in statistics and computer science (e.g. mastering software development in R, data structures and algorithms, deep learning) on Coursera. </p> 
