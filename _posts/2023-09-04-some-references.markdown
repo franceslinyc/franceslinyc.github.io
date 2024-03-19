@@ -39,7 +39,11 @@ Bradley, J. R., Cressie, N., & Shi, T. (2016). A comparison of spatial predictor
 
 ### Methods for spatial data -- from ML/AI
 
-Jiang, Z. (2018). A survey on spatial prediction methods. IEEE Transactions on Knowledge and Data Engineering, 31(9), 1645-1664.
+[Jiang, Z. (2018). A survey on spatial prediction methods. IEEE Transactions on Knowledge and Data Engineering, 31(9), 1645-1664.](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8444678)
+
+- Provide a systematic review on the principles and methods on spatial prediction.
+
+- Provide a taxonomy of existing spatial prediction methods, as shown in Fig. 1.
 
 [Shekhar, S., Evans, M. R., Kang, J. M., & Mohan, P. (2011). Identifying patterns in spatial information: A survey of methods. Wiley Interdisciplinary Reviews: Data Mining and Knowledge Discovery, 1(3), 193-214.](http://i2pc.es/coss/Docencia/SignalProcessingReviews/Shekhar2011.pdf)
 

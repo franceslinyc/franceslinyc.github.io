@@ -22,7 +22,7 @@ permalink: /coursework/
 **PhD, Statistics, Oregon State Univeristy, 2021 — Present** <br>
 
 **Research**<br>
-- Dissertation
+- Dissertation (Bayesian Network, Finite Mixture Model, Copula Model and Dependence, Bayesian Hierarchical Model, MCMC Algorithms) <br>
 
 #### Completed coursework
 **PhD, Statistics, Oregon State Univeristy, 2021 — Present** <br>
