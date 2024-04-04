@@ -9,6 +9,10 @@ permalink: /whatelse/
 <br>
 <br>
 
+Apr, 2024 I did my first ever black run at Hoodo Ski Area, OR! 
+
+Jan, 2024 Mt. Bachelor Ski Resort, OR 
+
 Dec, 2022 Finally got to visit Mt. Bachelor Ski Resort, OR!
 
 ![](https://raw.githubusercontent.com/franceslinyc/franceslinyc.github.io/master/_photos/2021%20at%20Mammoth%20Mountain%20Ski%20Area.jpeg)

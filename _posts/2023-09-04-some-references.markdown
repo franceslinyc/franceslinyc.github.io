@@ -122,11 +122,14 @@ Goodfellow, I., Bengio, Y., & Courville, A. (2016). Deep learning. MIT press.
 
 [Atluri, G., Karpatne, A., & Kumar, V. (2018). Spatio-temporal data mining: A survey of problems and methods. ACM Computing Surveys (CSUR), 51(4), 1-41.](https://dl.acm.org/doi/pdf/10.1145/3161602)
 
-### Big data
 
-[Sagiroglu, S., & Sinanc, D. (2013, May). Big data: A review. In 2013 international conference on collaboration technologies and systems (CTS) (pp. 42-47). IEEE.](https://academics.uccs.edu/~ooluwada/courses/datamining/ExtraReading/Big_data_A_review.pdf)
 
-### Big spatial data
+### Generative mixture models 
+
+#### Mixture-based models
+
+Harshvardhan, G. M., Gourisaria, M. K., Pandey, M., & Rautaray, S. S. (2020). A comprehensive survey and analysis of generative models in machine learning. Computer Science Review, 38, 100285.
+
 
 ### Copula-based models 
 
@@ -145,3 +148,13 @@ Huang, X. W., & Emura, T. (2022). Computational methods for a copula-based Marko
 Hassan, M. Y. (2021). The deep learning LSTM and MTD models best predict acute respiratory infection among under-five-year old children in Somaliland. Symmetry, 13(7), 1156.
 
 - The results of this study have shown that no model is a panacea over the other two models, but they demonstrated that the deep learning LSTM (long short term memory) and EM-algorithm based MTD (mixture transitions distribution) models slightly outperformed the classical SARIMA (seasonal autoregressive integrated moving averages) model in predicting ARI (acute respiratory infection) values. 
+
+
+### Big data
+
+[Sagiroglu, S., & Sinanc, D. (2013, May). Big data: A review. In 2013 international conference on collaboration technologies and systems (CTS) (pp. 42-47). IEEE.](https://academics.uccs.edu/~ooluwada/courses/datamining/ExtraReading/Big_data_A_review.pdf)
+
+### Big spatial data
+
+### Big time series
+

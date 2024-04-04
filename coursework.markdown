@@ -7,11 +7,11 @@ permalink: /coursework/
 
 #### Overview 
 
-<p align="justify"> First year of Master's at OSU, major parts of our coursework focused on building the fundamentals: statistical methods and theories. Second year, we expanded beyond statistical methods and theories to include additional statistical models (e.g. GLMs) and simulation / optimization methods (e.g. EM). I also gained experience working with big (> 100 GB) data using cloud computing platforms (e.g. GCP, PySpark / Apache Spark). </p>  
+<p align="justify"> First year of Master's at OSU, major parts of our coursework focused on building the fundamentals: statistical methods and theories. Second year of Master's, we expanded beyond statistical methods and theories to include additional statistical models (e.g. GLMs) and simulation / optimization methods (e.g. EM). I also gained experience working with big (> 100 GB) data using cloud computing platforms (e.g. GCP, PySpark / Apache Spark). </p>  
 
 <p align="justify"> Third year of PhD's also at OSU, we dived into advanced topics in statistics (e.g. decision theory, theories for GLMs/GLMMs). I also took a sneak peek of advanced techniques (e.g. reduced-rank regression, spatial GLMMs, INLA, MCMC), while completing course & independent projects. </p>
 
-<p align="justify"> Fourth year of PhD's, I spend most time in Bayesian spatial models such as Gaussian processes (GPs), variant GPs, NNGPs and NNMPs, and Bayesia time series models such as MTD. </p>
+<p align="justify"> Fourth year of PhD's, I spend most time in Bayesian spatial models such as Gaussian processes (GPs), variant GPs, NNGPs and NNMPs, and Markovian time series models such as MTDs. </p>
 
 (some of the major topics discussed) <br/>
 [some of the work using R / Python / Query Language] 
