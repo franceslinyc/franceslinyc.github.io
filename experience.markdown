@@ -8,7 +8,7 @@ permalink: /experience/
 
 **Primary Consultant, Oregon State University, Corvallis, OR, Jan 2024 – Mar 2024**
 
-- Consulted on a MS project involving spatial, time series, and mixed effects models for distribution of two salmon parasites around four hydroelectric dams on the Klamath river in OR-CA
+- Consulted on a MS project involving spatial, time series, and mixed-effects models for distribution of two salmon parasites around four hydroelectric dams on the Klamath river in OR-CA
 
 <br/>
 
@@ -52,11 +52,11 @@ Coming soon
 <br/>
 - ST 421/521 Intro to Mathematical Statistics I (Probability, Random Variables; Fall 2022)
 <br/>
-- ST 413/513 Methods of Data Analysis III (Dimensionality Reduction Techniques, Generalized Linear Models; Spring 2023, Spring 2024) 
+- ST 413/513 Methods of Data Analysis III (Dimensionality Reduction Techniques, Generalized Linear Models, Design of Experiments; Spring 2023, Spring 2024) 
 <br/>
-- ST 412/512 Methods of Data Analysis II (Regression Analysis; Winter 2022, Spring 2022)
+- ST 412/512 Methods of Data Analysis II (Regression Analysis, Model Selection; Winter 2022, Spring 2022)
 <br/>
-- ST 411/511 Methods of Data Analysis I (Hypothesis Testing; Fall 2021, Summer 2023, Winter 2024)
+- ST 411/511 Methods of Data Analysis I (Hypothesis Testing, Multiple Testing; Fall 2021, Summer 2023, Winter 2024)
 <br/>
 
 **Undergraduate**
@@ -71,5 +71,5 @@ Coming soon
 
 #### Project
 
- [[See a list of my scheduled and completed projects]](https://franceslinyc.github.io/projects/) 
+[[See a list of my scheduled and completed projects]](https://franceslinyc.github.io/projects/) 
 
