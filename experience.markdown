@@ -10,6 +10,8 @@ permalink: /experience/
 
 - Consulted on a MS project involving spatial, time series, and mixed-effects models for distribution of two salmon parasites around four hydroelectric dams on the Klamath river in OR-CA
 
+- Secondary-consulted for Michael Boss on a PhD project involving regression and mixed-effects models for pedestrian behavior interacting with autonomous vehicles in a virtual reality setting
+
 <br/>
 
 **Primary Consultant, Oregon State University, Corvallis, OR, Sep 2022 – Dec 2022** 
@@ -38,6 +40,11 @@ permalink: /experience/
 
 Coming soon
 
+<br/>
+
+#### Graduate Project Assistantship
+
+- ST 567 Spatial Statistics (Summer 2024)
 <br/>
 
 #### Graduate Teaching Assistantship
