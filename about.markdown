@@ -12,13 +12,18 @@ permalink: /about/
 
 <p align="justify"> for large and complex spatial data and time series, with applications to forestry monitoring and energy forecasting. My other interests include deep learning and its more flexible and explainable probabilistic variant models (e.g. deep Gaussian processes, deep Gaussian Markov Random Fields) for space and space-time modeling. </p> 
 
+
 <p align="justify"> Since Fall 2021, my co-advisors <a href="https://stat.oregonstate.edu/content/madsen-lisa" target="_blank"> Dr. Lisa Madsen</a> & <a href="https://stat.oregonstate.edu/content/wickham-charlotte" target="_blank"> Dr. Charlotte Wickham</a> and I have focused on spatial prediction, applied Bayesian, and machine learning for forestry inventory prediction and wind speed forecasting. We focus on Gaussian processes (GPs) and its variant models that are robust, flexible and scalable for larger datasets. </p> 
 
-<p align="justify"> **PhD** My PhD research builds upon the Markov MTD (mixture transition distribution) time series models and Bayesian NNMP (nearest-neighbor mixture process) spatial models developed by Zheng et al. in <a href="https://www.tandfonline.com/doi/abs/10.1080/10618600.2021.1981342" target="_blank"> this</a>, <a href="https://arxiv.org/abs/2107.07736" target="_blank"> this</a>, and <a href="https://arxiv.org/abs/2111.01840" target="_blank"> this</a> paper. To achieve robust, flexible, interpretable, and scalable modeling of time series and spatial data, both the MTD and NNMP models utilize probabilistic graphical model (DAG) / Bayesian network representations, finite mixture model structures, Bayesian hierarchical model formations, and MCMC algorithms. </p>
+
+<p align="justify"> **PhD** My PhD research builds upon the Markov MTD (mixture transition distribution) time series models and Bayesian NNMP (nearest-neighbor mixture process) spatial models developed by Zheng et al. in <a href="https://www.tandfonline.com/doi/abs/10.1080/10618600.2021.1981342" target="_blank"> this</a>, <a href="https://arxiv.org/abs/2107.07736" target="_blank"> this</a>, and <a href="https://arxiv.org/abs/2111.01840" target="_blank"> this</a> paper. To achieve robust, flexible, and scalable modeling of time series and spatial data, both the MTD and NNMP models utilize probabilistic graphical model (DAG) / Bayesian network representations, finite mixture model structures, Bayesian hierarchical model formations, and MCMC algorithms. </p>
+
 
 <p align="justify"> My specific contributions include incorporating copulas to capture dependence in the MTD model, extending the NNMP model to handle zero-inflated skewed data, as well as validating the models and assessing model performance through simulations and applications to real-world data, such as wind energy forecasting and forestry inventory prediction. </p>
 
+
 <p align="justify"> I have also completed all PhD coursework in statistics (e.g. decision theory, probability theory, linear model theory, bayesian statistics). To further improve my algorithm design & model development skillset, I also enroll in several specialization courses in statistics and computer science (e.g. mastering software development in R, data structures and algorithms, deep learning, tensorflow: advanced techniques) on Coursera. </p> 
+
 
 <p align="justify"> **Master's** For Master's capstone project, advised by Dr. James Molyneux, I worked on selected spatial and temporal point / stochastic processes leading up to Hawkes processes (or self-exciting point processes), which find applications in fields such as seismology, criminology, risk management, finance, etc. </p> 
 
