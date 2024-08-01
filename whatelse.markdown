@@ -9,7 +9,7 @@ permalink: /whatelse/
 <br>
 <br>
 
-Apr, 2024 I did my first ever black run at Hoodo Ski Area, OR! 
+Apr, 2024 Did my first ever black run at Hoodo Ski Area, OR! 
 
 Jan, 2024 Mt. Bachelor Ski Resort, OR 
 
