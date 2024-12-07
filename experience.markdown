@@ -57,10 +57,8 @@ Coming soon
 
 - ST 599 Missing Data and Causal Inference (Winter 2025)
 <br/>
-
 - ST 567 Spatial Statistics (Winter 2025)
 <br/>
-
 - ST 443/543 Stochastic Processes (Spring 2023)
 <br/>
 - ST 441/541 Computational Statistics (Fall 2023)
