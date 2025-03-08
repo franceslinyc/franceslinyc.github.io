@@ -4,6 +4,10 @@ title: Experience
 permalink: /experience/
 ---
 
+#### Work Experience
+
+<br/>
+
 #### Statistical Consulting Services
 
 **Primary Consultant, Oregon State University, Corvallis, OR, Jan 2025 – Mar 2025**
