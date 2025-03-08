@@ -42,8 +42,6 @@ permalink: /experience/
 
 **Secondary Consultant, Oregon State University, Corvallis, OR, Jan 2020 – Mar 2020**
 
-Coming soon
-
 <br/>
 
 #### Graduate Project Assistantship
@@ -54,7 +52,8 @@ Coming soon
 #### Graduate Teaching Assistantship
 
 **Graduate**
-
+- ST 599 Machine Learning III / Advanced Regression Methods for Big and Complex Data (Spring 2025)
+<br/>
 - ST 599 Missing Data and Causal Inference (Winter 2025)
 <br/>
 - ST 567 Spatial Statistics (Winter 2025)
@@ -67,7 +66,7 @@ Coming soon
 <br/>
 - ST 421/521 Intro to Mathematical Statistics I (Probability, Random Variables; Fall 2022)
 <br/>
-- ST 413/513 Methods of Data Analysis III (Dimensionality Reduction Techniques, Generalized Linear Models, Design of Experiments; Spring 2023, Spring 2024) 
+- ST 413/513 Methods of Data Analysis III (Dimensionality Reduction Techniques, Generalized Linear Models, Design of Experiments; Spring 2023, Spring 2024, Spring 2025) 
 <br/>
 - ST 412/512 Methods of Data Analysis II (Regression Analysis, Model Selection; Winter 2022, Spring 2022)
 <br/>

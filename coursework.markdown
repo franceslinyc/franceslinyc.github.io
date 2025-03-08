@@ -9,9 +9,9 @@ permalink: /coursework/
 
 <p align="justify"> First year of Master's at OSU, major parts of our coursework focused on building the fundamentals: statistical methods and theories. Second year of Master's, we expanded beyond statistical methods and theories to include additional statistical models (e.g. GLMs) and simulation / optimization methods (e.g. EM). I also gained experience working with big (> 100 GB) data using cloud computing platforms (e.g. GCP, PySpark / Apache Spark). </p>  
 
-<p align="justify"> Third year of PhD's also at OSU, we dived into advanced topics in statistics (e.g. decision theory, theories for GLMs/GLMMs). I also took a sneak peek of advanced techniques (e.g. reduced-rank regression, spatial GLMMs, INLA, MCMC), while completing course & independent projects. </p>
+<p align="justify"> First year of PhD's also at OSU, we dived into advanced topics in statistics (e.g. decision theory, theories for GLMs/GLMMs). I also took a sneak peek of advanced techniques (e.g. reduced-rank regression, spatial GLMMs, INLA, MCMC), while completing course & independent projects. </p>
 
-<p align="justify"> Fourth year of PhD's, I spend most time in Bayesian spatial models such as Gaussian processes (GPs), variant GPs, NNGPs and NNMPs, and Markovian time series models such as MTDs. </p>
+<p align="justify"> Second year of PhD's, I spend most time in Bayesian spatial models such as Gaussian processes (GPs), variant GPs, NNGPs and NNMPs, and Markovian time series models such as MTDs. </p>
 
 (some of the major topics discussed) <br/>
 [some of the work using R / Python / Query Language] 
@@ -22,7 +22,7 @@ permalink: /coursework/
 **PhD, Statistics, Oregon State Univeristy, 2021 — Present** <br>
 
 **Research**<br>
-- Dissertation (Bayesian Network, Finite Mixture Model, Copula Model and Dependence, Bayesian Hierarchical Model, MCMC Algorithms) <br>
+- Dissertation (Bayesian Network, State Space Model, Finite Mixture Model, Copula Model and Dependence, Bayesian Hierarchical Model, MCMC Algorithms) <br>
 
 #### Completed coursework
 **PhD, Statistics, Oregon State Univeristy, 2021 — Present** <br>
@@ -38,7 +38,7 @@ permalink: /coursework/
 **Methods**<br>
 
 - Bayesian Statistics (Prior, Posterior and Predictive Distributions, Gibbs Sampler, Hierarchical Modeling) <br> Project Title: [[INLA for GMRFs (e.g. GLMMs, Spatial Models) with Spatial Examples of Leukemia Incident Cases and Heavy Metal Concentrations]]()
-- Survival Analysis (Survival and Hazard Function, Kaplan–Meier Estimator, Nelson-Aalen Estimator, Accelerated Failure Time Model (Exponential and Weibull Regression), Cox Proportional-Hazards Model) <br> Project Title: [[Random Survival Forests with An Example of Systolic Heart Failure]]()
+- GLMs II / Survival Analysis (Survival and Hazard Function, Kaplan–Meier Estimator, Nelson-Aalen Estimator, Accelerated Failure Time Model (Exponential and Weibull Regression), Cox Proportional-Hazards Model) <br> Project Title: [[Random Survival Forests with An Example of Systolic Heart Failure]]()
 
 **CS**<br>
 
@@ -61,13 +61,13 @@ permalink: /coursework/
 
 **Simulation**<br>
 
-- Probability, Computing, and Simulation / Computational Statistics (Monte Carlo methods, Bootstrap estimates, Variance Reduction techniques, Optimization techniques) <br> <i> using R and GitHub</i> [8 HWs] [[See my project]](https://franceslinyc.github.io/projects/)
+- Computational Statistics / Probability, Computing, and Simulation (Monte Carlo methods, Bootstrap estimates, Variance Reduction techniques, Optimization techniques) <br> <i> using R and GitHub</i> [8 HWs] [[See my project]](https://franceslinyc.github.io/projects/)
 
 **Methods**<br>
 
-- Generalized Regression Models / GLMs I (Exponential Families, Logistic Regression, Regression-type models for binomial, multinomial and Poisson data, Log-linear models for multidimensional contingency tables, Multinomial / Softmax Regression) <br> <i> using R</i> [6 HWs] [[See my project]](https://franceslinyc.github.io/projects/)
-- Spatial Statistics (Geostatistics, Markov Random Field, Poisson Process) <br> <i> pending/auditing </i>
+- GLMs I / Generalized Regression Models (Exponential Families, Logistic Regression, Regression-type models for binomial, multinomial and Poisson data, Log-linear models for multidimensional contingency tables, Multinomial / Softmax Regression) <br> <i> using R</i> [6 HWs] [[See my project]](https://franceslinyc.github.io/projects/)
 - Time Series (Autoregressive Integrated Moving Average (ARIMA) model, Forecasting, Spectral Analysis) <br> <i> using R </i> [6 HWs] [[See our project]](https://franceslinyc.github.io/projects/)
+- Spatial Statistics (Geostatistics, Markov Random Field, Poisson Process) <br> <i> pending/auditing </i>
 - Statistical Methods (Parametric tests: t-test, χ2-test, F-test; Nonparametric tests, Tests for Proportions, Tests for Binary Data) <br> <i> using R </i> [6 HWs]
 - Linear Models (Simple & Multiple Linear Regression, Weighted Regression, Nonlinear Regression, Linear Models for Binary Data) <br> <i> using R </i> [8 HWs]
 - Designs of Experiments (Factorial Designs, Random & Mixed Effect models, ANCOVA) <br> <i> using SAS </i> [7 HWs]
@@ -85,8 +85,8 @@ permalink: /coursework/
 **Others (Sampling Methods, Statistical / Machine Learning, etc)**<br>
 
 - Sampling Methods (Stratified Sampling, Cluster Sampling, Systematic Sampling, Multistage Sampling) <br> <i> using R </i> [7 HWs + 1 Project]
-- Statistical Methods for Large and Complex Data Sets / Statistical Learning (PCA, Penalized Logistic Regression, Random Forests, Ensemble Methods) <br> <i> using R </i> [[See our project]](https://franceslinyc.github.io/projects/)
-- Multivariate Analysis (Multidimensional Scaling (MDS), Principal Components Analysis (PCA), Classification & Discriminant Analysis, Clustering) <br> <i> using R </i> [6 HWs] [[See my project]](https://franceslinyc.github.io/projects/)
+- Machine Learning I / Multivariate Analysis (Multidimensional Scaling (MDS), Principal Components Analysis (PCA), Classification & Discriminant Analysis, Clustering) <br> <i> using R </i> [6 HWs] [[See my project]](https://franceslinyc.github.io/projects/)
+- Machine Learning II / Statistical Methods for Large and Complex Data Sets (PCA, Penalized Logistic Regression, Random Forests, Ensemble Methods) <br> <i> using R </i> [[See our project]](https://franceslinyc.github.io/projects/)
 - Probability and Mathematical Statistics I, II
 <br/>
 <br/>
