@@ -4,7 +4,7 @@ title: Experience
 permalink: /experience/
 ---
 
-#### Work Experience
+#### Industry Experience
 
 <br/>
 
@@ -56,25 +56,25 @@ permalink: /experience/
 #### Graduate Teaching Assistantship
 
 **Graduate**
-- ST 599 Machine Learning III / Advanced Regression Methods for Big and Complex Data (Spring 2025)
+- ST 599 Machine Learning III / Advanced Regression Methods for Big and Complex Data (High-Dimensional, Non-Linear, Tree-Based Methods, Model Selection Techniques; Spring 2025)
 <br/>
 - ST 599 Missing Data and Causal Inference (Winter 2025)
 <br/>
 - ST 567 Spatial Statistics (Winter 2025)
 <br/>
-- ST 443/543 Stochastic Processes (Spring 2023)
+- ST 4/543 Stochastic Processes (Spring 2023)
 <br/>
-- ST 441/541 Computational Statistics (Fall 2023)
+- ST 4/541 Computational Statistics (Fall 2023)
 <br/>
-- ST 422/522 Intro to Mathematical Statistics II (Point Estimation, Hypothesis Testing; Winter 2023)
+- ST 4/522 Intro to Mathematical Statistics II (Point Estimation, Hypothesis Testing; Winter 2023)
 <br/>
-- ST 421/521 Intro to Mathematical Statistics I (Probability, Random Variables; Fall 2022)
+- ST 4/521 Intro to Mathematical Statistics I (Probability, Random Variables; Fall 2022)
 <br/>
-- ST 413/513 Methods of Data Analysis III (Dimensionality Reduction Techniques, Generalized Linear Models, Design of Experiments; Spring 2023, Spring 2024, Spring 2025) 
+- ST 4/513 Methods of Data Analysis III (Dimensionality Reduction Techniques, Generalized Linear Models, Design of Experiments; Spring 2023, Spring 2024, Spring 2025) 
 <br/>
-- ST 412/512 Methods of Data Analysis II (Regression Analysis, Model Selection; Winter 2022, Spring 2022)
+- ST 4/512 Methods of Data Analysis II (Regression Analysis, Model Selection; Winter 2022, Spring 2022)
 <br/>
-- ST 411/511 Methods of Data Analysis I (Hypothesis Testing, Multiple Testing; Fall 2021, Summer 2023, Winter 2024, Fall 2024)
+- ST 4/511 Methods of Data Analysis I (Hypothesis Testing, Multiple Testing; Fall 2021, Summer 2023, Winter 2024, Fall 2024)
 <br/>
 
 **Undergraduate**
