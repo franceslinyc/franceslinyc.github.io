@@ -56,7 +56,7 @@ permalink: /experience/
 #### Graduate Teaching Assistantship
 
 **Graduate**
-- ST 599 Machine Learning III / Advanced Regression Methods for Big and Complex Data (High-Dimensional, Non-Linear, Tree-Based Methods, Model Selection Techniques; Spring 2025)
+- ST 599 Machine Learning III (High-Dimensional, Non-Linear, Tree-Based Methods, Model Selection Techniques; Spring 2025)
 <br/>
 - ST 599 Missing Data and Causal Inference (Winter 2025)
 <br/>
