@@ -1,0 +1,12 @@
+> usethis::pr_finish()
+✔ Switching back to default branch ("master").
+✔ Pulling changes from "origin/master".
+✔ Deleting local "upkeep-2025-06-14" branch.
+Error:
+! could not find key 'branch.upkeep-2025-06-14.vscode-merge-base' to delete
+Hide Traceback
+    ▆
+ 1. ├─usethis::pr_finish()
+ 2. │ └─usethis:::pr_clean(number = number, target = target, mode = "finish")
+ 3. │   └─gert::git_branch_delete(pr_local_branch, repo = repo)
+ 4. └─gert:::raise_libgit2_error(...)
