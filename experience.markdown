@@ -6,11 +6,15 @@ permalink: /experience/
 
 #### Industry Experience
 
+**Software Engineer Intern, Machine Learning, Posit Software, PBC (formerly RStudio, PBC), Remote, June 2025 – Current**
+
 <br/>
 
 #### Statistical Consulting Services
 
 **Primary Consultant, Oregon State University, Corvallis, OR, Jan 2025 – Mar 2025**
+
+- Consulted on a Postdoctoral project involving advanced experimental designs (RCBD, repeated measures, repeated measures RCBD) and power analysis focused on the growth stages of an invasive plant in the presence of a biological agent within a controlled greenhouse environment 
 
 <br/>
 
