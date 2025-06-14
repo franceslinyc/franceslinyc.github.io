@@ -17,4 +17,4 @@ git checkout upkeep-2025-06-14   # Switch branch
 git status                       # See what changes
 git add instruction
 git add .
-git commit -m "Describe what you changed here"
+git commit -m "Message"
