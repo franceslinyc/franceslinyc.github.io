@@ -1,11 +1,9 @@
 Terminal
-
 pwd
 cd GitHub
 git clone https://github.com/franceslinyc/franceslinyc.github.io.git
 
 Positron CONSOLE
-
 library(usethis)
 usethis::pr_init("upkeep-2025-06-14") # Create a branch named "upkeep-2025-06-14"
 
@@ -13,8 +11,13 @@ Make changes
 
 Terminal
 git branch                       # Check current branch
+git branch -r                    # Check current branch remote
 git checkout upkeep-2025-06-14   # Switch branch
 git status                       # See what changes
 git add instruction
 git add .
 git commit -m "Message"
+
+Positron CONSOLE
+usethis::pr_push()               # Set up PR
+usethis::pr_finish()             # Clean up local branch and bring back to master
