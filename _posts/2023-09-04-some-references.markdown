@@ -3,6 +3,7 @@ layout: post
 title:  "Some referenes"
 date:   2023-09-04 08:05:00
 categories: jekyll update
+published: false
 ---
 ### Methods for big spatial data -- from statistics 
 
