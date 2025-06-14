@@ -4,7 +4,7 @@ title: Projects
 permalink: /projects/
 ---
 
-This page contains a list of course and independent projects.
+This page contains a list of course and independent projects. Note: This page has not been updated since 2021.
 
 #### Overview 
 Topics include (from most recent to oldest): 
