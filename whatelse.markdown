@@ -9,6 +9,10 @@ permalink: /whatelse/
 <br>
 <br>
 
+Mar, 2025 Gone to Mt. Hood Skibowl for the first time and had a blast!
+
+Mar, 2025 Did my second black run at Hoodo Ski Area, OR (right in the middle of a spring storm!)
+
 Mar, 2025 Haven't been to Mt. Hood Meadows in over 10 years?
 
 Apr, 2024 Did my first ever black run at Hoodo Ski Area, OR! 
