@@ -11,12 +11,15 @@ Make changes
 
 Terminal
 git branch                       # Check current branch
-git branch -r                    # Check current branch remote
-git checkout upkeep-2025-06-14   # Switch branch
+git branch -r                    # Check current branch remotely
+git checkout branch-name         # Switch branch
 git status                       # See what changes
-git add instruction
+git add file-name
 git add .
 git commit -m "Message"
+git branch -d branch-name        # Delete branch
+git push origin --delete branch-name # Delete branch remotely
+
 
 Positron CONSOLE
 usethis::pr_push()               # Set up PR
