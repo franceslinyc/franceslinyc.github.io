@@ -1,9 +1,0 @@
-# Fix 404 
-cd ..
-quarto render
-cd _site
-git add .
-git commit -m "Message"
-git branch -M master
-git remote add origin https://github.com/franceslinyc/franceslinyc.github.io.git
-git push -f origin master
