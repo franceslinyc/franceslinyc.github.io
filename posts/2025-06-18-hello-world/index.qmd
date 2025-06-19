@@ -1,7 +1,7 @@
 ---
-title: "Hello world"
+title: "Hello, world!"
 date: "06/18/2025"
 image: "cover.jpg"
 ---
 
-Hello, world! This was created with Quarto by Posit.
+Welcome to my new site, built with Quarto by Posit PBC. I'm currently in the process of migrating content from my previous site, so stay tuned!
