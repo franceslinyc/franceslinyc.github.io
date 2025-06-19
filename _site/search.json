@@ -35,11 +35,18 @@
     "text": "Hello, world! This was created with Quarto by Posit."
   },
   {
+    "objectID": "posts/2025-06-18-test/index.html",
+    "href": "posts/2025-06-18-test/index.html",
+    "title": "Test",
+    "section": "",
+    "text": "This is a test."
+  },
+  {
     "objectID": "posts/index.html",
     "href": "posts/index.html",
     "title": "Posts",
     "section": "",
-    "text": "Hello world\n\n\n\n\n\n\n\n\nJun 18, 2025\n\n\n\n\n\nNo matching items"
+    "text": "Hello world\n\n\n\n\n\n\n\n\nJun 18, 2025\n\n\n\n\n\n\n\n\n\n\n\n\nTest\n\n\n\n\n\n\n\n\nJun 18, 2025\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "index.html",

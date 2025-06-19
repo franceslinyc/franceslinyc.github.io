@@ -1,0 +1,7 @@
+---
+title: "Test"
+date: "06/18/2025"
+image: "cover.jpg"
+---
+
+This is a test.

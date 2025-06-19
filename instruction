@@ -1,8 +1,7 @@
-quarto render
-
 # Fix 404 
+cd ..
+quarto render
 cd _site
-git init
 git add .
 git commit -m "Message"
 git branch -M master
