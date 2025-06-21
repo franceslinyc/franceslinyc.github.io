@@ -7,32 +7,46 @@
     "text": "Outside of work, I enjoy skiing, traveling, being outdoors, and watching thriller or dark comedy films and series on Netflix."
   },
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
-    "section": "",
-    "text": "PhD in Statistics\nOregon State University — Corvallis, OR  Sept 2021 – Expected: Dec 2025\nMS in Statistics\nOregon State University — Corvallis, OR  Sept 2019 – June 2021"
+    "objectID": "whatelse.html#activity-log-the-fun-kind",
+    "href": "whatelse.html#activity-log-the-fun-kind",
+    "title": "What Else?",
+    "section": "Activity Log, The Fun Kind",
+    "text": "Activity Log, The Fun Kind\nMar, 2025 Did my second black run at Hoodo Ski Area, OR (right in the middle of a spring storm!)\nApr, 2024 Did my first ever black run at Hoodo Ski Area, OR!\nJan, 2024 Mt. Bachelor Ski Resort, OR\nDec, 2022 Finally got to visit Mt. Bachelor Ski Resort, OR!\n Dec, 2021 at Mammoth Mountain Ski Area, CA\n May (yes, May!), 2019 at Rocky Mountain National Park, CO\n March, 2019 visiting my cousin Wei at Boulder, CO\n August, 2018 at Alki Beach, WA\n April, 2018 at Dakeng Hiking Trails, Taiwan\n Feb, 2018 visiting my brother Jacob at Googleplex, CA\n Feb, 2018 at Stevens Pass, WA"
   },
   {
-    "objectID": "about.html#experience",
-    "href": "about.html#experience",
-    "title": "About",
-    "section": "Experience",
-    "text": "Experience\nSoftware Engineer Intern\nPosit PBC (formerly RStudio PBC)  June 2025 – Present"
+    "objectID": "education.html",
+    "href": "education.html",
+    "title": "Education",
+    "section": "",
+    "text": "Oregon State University — Corvallis, OR  Sept 2021 – Expected: Dec 2025"
   },
   {
-    "objectID": "about.html#education",
-    "href": "about.html#education",
-    "title": "About",
+    "objectID": "education.html#phd-in-statistics",
+    "href": "education.html#phd-in-statistics",
+    "title": "Education",
     "section": "",
-    "text": "PhD in Statistics\nOregon State University — Corvallis, OR  Sept 2021 – Expected: Dec 2025\nMS in Statistics\nOregon State University — Corvallis, OR  Sept 2019 – June 2021"
+    "text": "Oregon State University — Corvallis, OR  Sept 2021 – Expected: Dec 2025"
   },
   {
-    "objectID": "posts/2025-06-18-hello-world/index.html",
-    "href": "posts/2025-06-18-hello-world/index.html",
-    "title": "Hello, world!",
+    "objectID": "education.html#ms-in-statistics",
+    "href": "education.html#ms-in-statistics",
+    "title": "Education",
+    "section": "MS in Statistics",
+    "text": "MS in Statistics\nOregon State University — Corvallis, OR  Sept 2019 – June 2021"
+  },
+  {
+    "objectID": "software/index.html",
+    "href": "software/index.html",
+    "title": "Software",
     "section": "",
-    "text": "Welcome to my new site, built with Quarto by Posit PBC. I’m currently in the process of migrating content from my previous site, so stay tuned!"
+    "text": "No matching items"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Frances Lin",
+    "section": "",
+    "text": "I am a PhD candidate in Statistics at Oregon State University. I am currently a Software Engineer Intern at Posit PBC (formerly RStudio Inc.).\nOutside of work, I enjoy skiing, traveling, being outdoors, and watching thriller or dark comedy films and series on Netflix."
   },
   {
     "objectID": "posts/index.html",
@@ -42,11 +56,39 @@
     "text": "Hello, world!\n\n\n\n\n\n\n\n\nJun 18, 2025\n\n\n\n\n\nNo matching items"
   },
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Frances Lin",
+    "objectID": "posts/2025-06-18-hello-world/index.html",
+    "href": "posts/2025-06-18-hello-world/index.html",
+    "title": "Hello, world!",
     "section": "",
-    "text": "I am a PhD candidate in Statistics at Oregon State University. I am currently a Software Engineer Intern at Posit PBC (formerly RStudio PBC).\nOutside of work, I enjoy skiing, traveling, being outdoors, and watching thriller or dark comedy films and series on Netflix."
+    "text": "Welcome to my new site, built with Quarto by Posit PBC. I’m currently in the process of migrating content from my previous site, so stay tuned!"
+  },
+  {
+    "objectID": "experience.html",
+    "href": "experience.html",
+    "title": "Experience",
+    "section": "",
+    "text": "Posit PBC (formerly RStudio Inc.)  June 2025 – Present"
+  },
+  {
+    "objectID": "experience.html#software-engineer-intern",
+    "href": "experience.html#software-engineer-intern",
+    "title": "Experience",
+    "section": "",
+    "text": "Posit PBC (formerly RStudio Inc.)  June 2025 – Present"
+  },
+  {
+    "objectID": "experience.html#statistics-and-ml-consultant",
+    "href": "experience.html#statistics-and-ml-consultant",
+    "title": "Experience",
+    "section": "Statistics and ML Consultant",
+    "text": "Statistics and ML Consultant\nOregon State University  Jan 2021 - Mar 2025"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "Welcome to my new site, built with Quarto by Posit PBC. I’m currently in the process of migrating content from my previous site, so stay tuned!"
   },
   {
     "objectID": "portfolio/index.html",
@@ -54,12 +96,5 @@
     "title": "Portfolio",
     "section": "",
     "text": "No matching items"
-  },
-  {
-    "objectID": "whatelse.html#activity-log-the-fun-kind",
-    "href": "whatelse.html#activity-log-the-fun-kind",
-    "title": "What Else?",
-    "section": "Activity Log, The Fun Kind",
-    "text": "Activity Log, The Fun Kind\nMar, 2025 Did my second black run at Hoodo Ski Area, OR (right in the middle of a spring storm!)\nApr, 2024 Did my first ever black run at Hoodo Ski Area, OR!\nJan, 2024 Mt. Bachelor Ski Resort, OR\nDec, 2022 Finally got to visit Mt. Bachelor Ski Resort, OR!\n Dec, 2021 at Mammoth Mountain Ski Area, CA\n May (yes, May!), 2019 at Rocky Mountain National Park, CO\n March, 2019 visiting my cousin Wei at Boulder, CO\n August, 2018 at Alki Beach, WA\n April, 2018 at Dakeng Hiking Trails, Taiwan\n Feb, 2018 visiting my brother Jacob at Googleplex, CA\n Feb, 2018 at Stevens Pass, WA"
   }
 ]

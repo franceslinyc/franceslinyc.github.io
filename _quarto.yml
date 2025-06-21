@@ -10,8 +10,10 @@ website:
       - href: index.qmd
         text: Home
       - about.qmd
-      - portfolio/index.qmd
+      - education.qmd
+      - experience.qmd
       - posts/index.qmd
+      - software/index.qmd
       - whatelse.qmd
 
 format:

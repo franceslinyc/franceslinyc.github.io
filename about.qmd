@@ -5,18 +5,4 @@ about:
   template: trestles #broadside
 ---
 
-## Education
-
-**PhD in Statistics**  
-Oregon State University — Corvallis, OR  <br>
-Sept 2021 – *Expected:* Dec 2025
-
-**MS in Statistics**  
-Oregon State University — Corvallis, OR  <br>
-Sept 2019 – June 2021
-
-## Experience
-
-**Software Engineer Intern**  
-Posit PBC (formerly RStudio PBC) <br> 
-June 2025 – Present 
+Welcome to my new site, built with Quarto by Posit PBC. I'm currently in the process of migrating content from my previous site, so stay tuned! 

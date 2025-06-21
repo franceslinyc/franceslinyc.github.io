@@ -1,0 +1,13 @@
+---
+title: "Experience"
+---
+
+## Software Engineer Intern
+
+Posit PBC (formerly RStudio Inc.) <br> 
+June 2025 – Present 
+
+## Statistics and ML Consultant 
+
+Oregon State University <br> 
+Jan 2021 - Mar 2025
