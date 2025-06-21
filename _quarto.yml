@@ -5,6 +5,8 @@ project:
 website:
   title: "franceslinyc"
   open-graph: true
+  page-footer: 
+    left: "Made with [Quarto](https://quarto.org)"
   navbar:
     left:
       - href: index.qmd
@@ -12,7 +14,6 @@ website:
       - about.qmd
       - education.qmd
       - experience.qmd
-      - posts/index.qmd
       - software/index.qmd
       - whatelse.qmd
 

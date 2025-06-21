@@ -5,4 +5,4 @@ about:
   template: trestles #broadside
 ---
 
-Welcome to my new site, built with Quarto by Posit PBC. I'm currently in the process of migrating content from my previous site, so stay tuned! 
+Thanks for visiting my new site. I'm currently in the process of migrating content from my previous site, so stay tuned! 
