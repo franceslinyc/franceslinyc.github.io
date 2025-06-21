@@ -13,6 +13,6 @@ about:
       href: https://www.linkedin.com/in/franceslinyc/
 ---
 
-I am a PhD candidate in Statistics at Oregon State University. I am currently a Software Engineer Intern at [Posit PBC](https://posit.co) (formerly RStudio PBC).
+I am a PhD candidate in Statistics at Oregon State University. I am currently a Software Engineer Intern at [Posit PBC](https://posit.co) (formerly RStudio Inc.).
 
 Outside of work, I enjoy skiing, traveling, being outdoors, and watching thriller or dark comedy films and series on Netflix.
