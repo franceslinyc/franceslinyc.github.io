@@ -2,12 +2,35 @@
 title: "Experience"
 ---
 
-## Software Engineer Intern
+## Posit PBC (formerly RStudio Inc.)
 
-Posit PBC (formerly RStudio Inc.) <br> 
+#### Software Engineer Intern
+
 June 2025 – Present 
 
-## Statistics and ML Consultant 
+##  Oregon State University
 
-Oregon State University <br> 
+#### PhD Student Researcher 
+
+Sep 2021 - Present 
+
+#### Statistics and ML Consultant 
+
 Jan 2021 - Mar 2025
+
+• Provided consulting services across diverse fields, collaborating with faculty members, junior statisticians, and client researchers to support multiple PhD and master's-level research initiatives. <br> 
+• Effectively communicated statistical concepts to non-statistical clients and delivered in-depth reports on topics including simple statistical tests, advanced data modeling, application software (R, Python), experimental design, and data processing and visualization.
+
+#### Graduate Teaching Assistant 
+
+Mar 2020 - Present 
+
+• Assist with graduate and undergraduate courses such as machine learning III, missing data and causal inference, spatial statistics, stochastic models, computational statistics, data analysis methods I (hypothesis testing, multiple testing), II (regression analysis, model selection), III (dimension reduction techniques, generalized regression models), mathematical statistics I, II, statistical methods, statistics for engineers, and elementary statistics I. <br> 
+• Teach R programming and discuss statistical problems during labs or recitations, hold office hours, and grade exams and assignments.
+
+#### Graduate Project Assistant
+
+Jun 2024 - Aug 2024
+
+• Assisted with the design and development of the course curriculum for spatial statistics. <br> 
+• Applied a variety of spatial models, including kriging / Gaussian process regression, C / SAR (conditional / simultaneous autoregressive), and Poisson process / CSR models for simulation and applications such as housing price prediction, disease risk mapping, and forest and forest fire modeling.
