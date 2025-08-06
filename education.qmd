@@ -7,7 +7,17 @@ title: "Education"
 Oregon State University — Corvallis, OR  <br>
 Sept 2021 – *Expected:* Dec 2025
 
+Dissertation: "Copula-Based Markov MTD Models for Forecasting Positively-Skewed and Zero-Inflated Time Series: Methodology, Applications, and Comparisons with Deep Learning LSTM Networks"
+
+Co-Advisors: Dr. Lisa Madsen, Dr. Charlotte Wickham <br> 
+Committee Members: Dr. James Molyneux, Dr. Claudio Fuentes, Dr. Prasad Tadepalli
+
 ## MS in Statistics 
 
 Oregon State University — Corvallis, OR  <br>
 Sept 2019 – June 2021
+
+Master’s Project: "Prequel to Hawkes Processes: An Overview of Spatial, Temporal and Spatio-Temporal Point Processes and Some Simulations"
+
+Advisor: Dr. James Molyneux <br> 
+Committee Members: Dr. Lisa Madsen, Dr. Charlotte Wickham

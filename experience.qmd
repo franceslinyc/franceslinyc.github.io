@@ -2,13 +2,13 @@
 title: "Experience"
 ---
 
-## Posit PBC (formerly RStudio Inc.)
+## [Posit Software, PBC](https://posit.co) (formerly RStudio Inc.)
 
 #### Software Engineer Intern
 
 June 2025 – Present 
 
-##  Oregon State University
+##  [Oregon State University](https://oregonstate.edu)
 
 #### Doctoral Researcher 
 

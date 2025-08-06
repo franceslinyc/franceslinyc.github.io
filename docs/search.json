@@ -18,14 +18,14 @@
     "href": "education.html",
     "title": "Education",
     "section": "",
-    "text": "Oregon State University — Corvallis, OR  Sept 2021 – Expected: Dec 2025"
+    "text": "Oregon State University — Corvallis, OR  Sept 2021 – Expected: Dec 2025\nDissertation: “Copula-Based Markov MTD Models for Forecasting Positively-Skewed and Zero-Inflated Time Series: Methodology, Applications, and Comparisons with Deep Learning LSTM Networks”"
   },
   {
     "objectID": "education.html#phd-in-statistics",
     "href": "education.html#phd-in-statistics",
     "title": "Education",
     "section": "",
-    "text": "Oregon State University — Corvallis, OR  Sept 2021 – Expected: Dec 2025"
+    "text": "Oregon State University — Corvallis, OR  Sept 2021 – Expected: Dec 2025\nDissertation: “Copula-Based Markov MTD Models for Forecasting Positively-Skewed and Zero-Inflated Time Series: Methodology, Applications, and Comparisons with Deep Learning LSTM Networks”"
   },
   {
     "objectID": "education.html#ms-in-statistics",
@@ -46,7 +46,7 @@
     "href": "index.html",
     "title": "Frances Lin",
     "section": "",
-    "text": "I am a PhD candidate in Statistics at Oregon State University. I am currently a Software Engineer Intern at Posit PBC (formerly RStudio Inc.).\nOutside of work, I enjoy skiing, traveling, being outdoors, and watching thriller or dark comedy films and series on Netflix."
+    "text": "I am a PhD candidate in Statistics at Oregon State University. I am currently a Software Engineer Intern at Posit Software, PBC (formerly RStudio Inc.).\nOutside of work, I enjoy skiing, traveling, being outdoors, and watching thriller or dark comedy films and series on Netflix."
   },
   {
     "objectID": "posts/index.html",
@@ -88,7 +88,7 @@
     "href": "about.html",
     "title": "About",
     "section": "",
-    "text": "Thanks for visiting my new site. I’m currently in the process of migrating content from my previous site, so stay tuned!"
+    "text": "Thanks for visiting my site!\nI am a PhD candidate in Statistics at Oregon State University. Broadly speaking, my research interests lie in\nfocused on large and complex time series data, with applications in energy forecasting and claims prediction. My other interests include deep learning and its more flexible and explainable probabilistic variant models (e.g., deep Gaussian processes, deep Gaussian Markov Random Fields) for space and space-time modeling. Additionally, I’m interested in exploring machine learning and AI techniques across a variety of domains and applications."
   },
   {
     "objectID": "portfolio/index.html",
@@ -96,5 +96,26 @@
     "title": "Portfolio",
     "section": "",
     "text": "No matching items"
+  },
+  {
+    "objectID": "about.html#phd",
+    "href": "about.html#phd",
+    "title": "About",
+    "section": "PhD",
+    "text": "PhD\nFor my PhD dissertation, advised by Dr. Lisa Madsen and Dr. Charlotte Wickham (now at Posit Software, PBC), I extend the Markov MTD (Mixture Transition Distribution) time series models and the Bayesian NNMP (Nearest-Neighbor Mixture Process) spatial models developed by Zheng et al. for time series forecasting and spatial prediction, as presented in [1], [2], and [3]. To achieve robust, flexible, and scalable modeling of time series and spatial data, both the MTD and NNMP models utilize probabilistic graphical model (DAG or Bayesian network) representations, finite mixture model structures, Bayesian hierarchical model formations, and MCMC algorithms.\nMy specific contributions include incorporating copulas in the MTD model to capture more complex and flexible dependence structures; extending the MTD model to handle zero-inflated positively-skewed data; validating the models and assessing model performance through simulations and real-world data applications; developing a software package for the proposed models; and comparing the models with other benchmark approaches, such as LSTM (Long Short-Term Memory) networks, to ensure robustness and accuracy."
+  },
+  {
+    "objectID": "about.html#masters",
+    "href": "about.html#masters",
+    "title": "About",
+    "section": "Master’s",
+    "text": "Master’s\nFor my Master’s capstone project, advised by Dr. James Molyneux, I worked on selected spatial and temporal point processes leading up to Hawkes processes (or self-exciting point processes), which find applications in fields such as seismology, criminology, risk management, finance, etc."
+  },
+  {
+    "objectID": "experience.html#posit-software-pbc-formerly-rstudio-inc.",
+    "href": "experience.html#posit-software-pbc-formerly-rstudio-inc.",
+    "title": "Experience",
+    "section": "",
+    "text": "June 2025 – Present"
   }
 ]
