@@ -46,7 +46,7 @@
     "href": "index.html",
     "title": "Frances Lin",
     "section": "",
-    "text": "I am a PhD candidate in Statistics at Oregon State University. I am currently a Software Engineer Intern at Posit Software, PBC (formerly RStudio Inc.).\nOutside of work, I enjoy skiing, traveling, being outdoors, and watching thriller or dark comedy films and series on Netflix."
+    "text": "📣 Seeking opportunities in data science, machine learning, or AI roles starting in December 2025 or later!\n\nI am a PhD candidate in Statistics at Oregon State University. I am currently a Software Engineer Intern at Posit Software, PBC (formerly RStudio Inc.).\nOutside of work, I enjoy skiing, traveling, being outdoors, and watching thriller or dark comedy films and series on Netflix."
   },
   {
     "objectID": "posts/index.html",
@@ -102,7 +102,7 @@
     "href": "about.html#phd",
     "title": "About",
     "section": "PhD",
-    "text": "PhD\nFor my PhD dissertation, advised by Dr. Lisa Madsen and Dr. Charlotte Wickham (now at Posit Software, PBC), I focus on the Markov MTD (Mixture Transition Distribution) time series models and the Bayesian NNMP (Nearest-Neighbor Mixture Process) spatial models for time series forecasting and spatial prediction, as developed by Zheng et al. and presented in [1], [2], and [3]. To achieve robust, flexible, and scalable modeling of time series and spatial data, both the MTD and NNMP models utilize probabilistic graphical model (DAG or Bayesian network) representations, finite mixture model structures, Bayesian hierarchical model formations, and MCMC algorithms.\nMy specific contributions include incorporating the copulas in the MTD model to capture more complex and flexible dependence structures; extending the MTD model to handle zero-inflated positively-skewed data; validating the models and assessing model performance through simulations and real-world data applications; developing a software package for the proposed models (using R, C++); and comparing the proposed models with other benchmark approaches, such as LSTM (Long Short-Term Memory) networks (using PyTorch), to ensure robustness and accuracy."
+    "text": "PhD\nFor my PhD dissertation, advised by Dr. Lisa Madsen and Dr. Charlotte Wickham (now at Posit Software, PBC), I focus on the Markov MTD (Mixture Transition Distribution) models and the Bayesian NNMP (Nearest-Neighbor Mixture Process) models for time series forecasting and spatial prediction, as developed by Zheng et al. and presented in [1], [2], and [3]. To achieve robust, flexible, and scalable modeling of time series and spatial data, both the MTD and NNMP models utilize probabilistic graphical model (DAG or Bayesian network) representations, finite mixture model structures, Bayesian hierarchical model formations, and MCMC algorithms.\nMy specific contributions include incorporating the copulas in the MTD model to capture more complex and flexible dependence structures; extending the MTD model to handle zero-inflated positively-skewed data; validating the models and assessing model performance through simulations and real-world data applications; developing a software package for the proposed models (using R, C++); and comparing the proposed models with other benchmark approaches, such as LSTM (Long Short-Term Memory) networks (using PyTorch), to ensure robustness and accuracy."
   },
   {
     "objectID": "about.html#masters",
