@@ -58,7 +58,7 @@ Week 6
 
 - The S3 branch is now on CRAN, while the S7 branch lives on as the development version. 
 
-- In practice, though, I’m juggling multiple branches, as I get used to merging, resolving conflicts, and navigating real-world Git and GitHub workflows.
+- In practice, though, I’m juggling multiple branches, as I get used to merging, resolving merge conflicts, and navigating real-world Git and GitHub workflows.
 
 ### The Great S7 Migration
 
