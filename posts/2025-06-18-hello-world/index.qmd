@@ -78,4 +78,6 @@ Week 9
 
 - Write, write, and write, (but *not* the dissertation kind!)  
 
+Though the work is remote, I had the pleasure of meeting the other intern, Jules (Jules Walzer-Goldfeld), as well as developers based in the US and Europe. The most fun, though initially intimidating, has been the tidyteam meeting, where the tidyverse, tidymodels, and r-lib teams all gather on Zoom once a month. 
+
 ## Onward & Upward
