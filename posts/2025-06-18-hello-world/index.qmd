@@ -1,7 +1,81 @@
 ---
-title: "Hello, world!"
-date: "06/18/2025"
-image: "cover.jpg"
+title: "A Great Summer of Dev, Data, and Deploy at Posit"
+subtitle: "My experience during the 2025 summer internship at Posit"
+date: "08/07/2025"
+toc: true
+toc-expand: true
+image: "ml.jpg"
 ---
 
-Welcome to my new site, built with Quarto by Posit PBC. I'm currently in the process of migrating content from my previous site, so stay tuned!
+> ⚠️ **work-in-progress**
+
+I spent the summer at Posit (formerly RStudio), where I worked on machine learning, software development, and more. 
+
+## The Journey So Far
+
+### filtro 
+
+### tidymodels
+
+## Behind the Curtain
+
+### PR #1: All the Things, All at Once
+
+Week 1-2
+
+My first few weeks at Posit have been packed with learning and collaboration. I’ve had daily meetings with Max (Max Kuhn) and Emil (Emil Hvitfeldt). Max brings deep expertise in modeling and machine learning, while Emil is highly knowledgeable about software development, from Git, GitHub, and GitHub Actions CI/CD (nasty stuff!) to Positron (a VS Code–like IDE), and R's S3 object-oriented programming (OOP). [^Hannah] 
+
+[^Hannah]: Though later, I found that that Hannah (Hannah Frick) also has a deep expertise in these areas, and I've learned a lot from her as well!
+
+It’s tempting to jump straight into coding and testing, but Max emphasized an important lesson: before writing any code, it's crucial to step back and think through the software design — often, the real challenge lies in the methodology, not just the implementation. Meanwhile, Emil and I did some pair programming (my first time!), which led to two great learning sessions:
+
+- “Everything Positron” [^Charlotte] <br>
+- “Everything S3 OOP”. 
+
+[^Charlotte]: As a side note, I want to thank my co-advisor, Charlotte (Charlotte Wickham), for encouraging me to write and organize my dissertation using Positron. But, it wasn’t until this internship that I really began to unlock its full potential for software development and Git integration, though it was also Charlotte who helped me get this internship.
+
+### S3 OOP Brush-Up
+
+Week 1-4
+
+To be completely honest, while Xiaotian (Xiaotian Zheng)'s {mtd} [^mtd] package is quite well-organized — and I would argue that the most challenging aspect of extending it lies more in model development than in software engineering — I have little to no experience with R's S3 OOP system. So here I am, pretty much glued to the *Advanced R* and *R Packages* books and poking around the {tune} package (plus {yardstick} and a few others) through weeks 1 to 4 to level up my S3 OOP game. 
+
+[^mtd]: This is the package I build upon in my PhD dissertation. See Xiaotian's package at [https://github.com/xzheng42/mtd](https://github.com/xzheng42/mtd). My extended version will be available on GitHub in late December or later. 🤞
+
+### A Turning Point
+
+Week 5
+
+- Max and I and Hadley had a meeting, and during the meeting, Hadley (Hadley Wickham) said, "Let's do S7 OOP." 😱 (The face screaming in fear emoji because I am thrilled and frightened — thrilled to meet him, but scared I won’t live up to the expectations!) 
+
+- Prepare for CRAN submission
+
+### CRAN Horror Story & Dual (Muli) Branches
+
+Week 6
+
+- "CRAN horror story" to "CRAN acceptance". 
+
+- The S3 branch is now on CRAN, while the S7 branch lives on as the development version. 
+
+- In practice, though, I’m juggling multiple branches, as I get used to merging, resolving conflicts, and navigating real-world Git and GitHub workflows.
+
+### The Great S7 Migration
+
+Week 5-8
+
+- Implement S7 for all scoring methods
+
+- Write S7 tests for all scoring methods
+
+- Refactor code using S7 (Max led the way!)
+
+- Refactor tests accordingly
+
+### Write, Write, and Write... 
+
+Week 9
+
+- Write, write, and write, (but *not* the dissertation kind!)  
+
+## Onward & Upward

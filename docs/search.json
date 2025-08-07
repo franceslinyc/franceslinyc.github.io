@@ -53,14 +53,14 @@
     "href": "posts/index.html",
     "title": "Posts",
     "section": "",
-    "text": "Hello, world!\n\n\n\n\n\n\n\n\nJun 18, 2025\n\n\n\n\n\nNo matching items"
+    "text": "A Great Summer of Dev, Data, and Deploy at Posit\n\n\nMy experience during the 2025 summer internship at Posit\n\n\n\n\n\n\n\n\nAug 7, 2025\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "posts/2025-06-18-hello-world/index.html",
     "href": "posts/2025-06-18-hello-world/index.html",
-    "title": "Hello, world!",
+    "title": "A Great Summer of Dev, Data, and Deploy at Posit",
     "section": "",
-    "text": "Welcome to my new site, built with Quarto by Posit PBC. I’m currently in the process of migrating content from my previous site, so stay tuned!"
+    "text": "⚠️ work-in-progress\nI spent the summer at Posit (formerly RStudio), where I worked on machine learning, software development, and more."
   },
   {
     "objectID": "experience.html",
@@ -117,5 +117,54 @@
     "title": "Experience",
     "section": "",
     "text": "June 2025 – Present"
+  },
+  {
+    "objectID": "posts/2025-06-18-hello-world/index.html#week-1-2",
+    "href": "posts/2025-06-18-hello-world/index.html#week-1-2",
+    "title": "A Great Summer of Dev, Data, and Deploy at Posit",
+    "section": "Week 1-2:",
+    "text": "Week 1-2:\n\nDaily meeting\n“Everything Positron” & “Everything S3 OOP” by Emil!"
+  },
+  {
+    "objectID": "posts/2025-06-18-hello-world/index.html#week-1-4",
+    "href": "posts/2025-06-18-hello-world/index.html#week-1-4",
+    "title": "A Great Summer of Dev, Data, and Deploy at Posit",
+    "section": "Week 1-4:",
+    "text": "Week 1-4:\n\nBrush up on S3 OOP\n\nWeek 5:\n\nHadley said, “Let’s do S7 OOP.”\n\nWeek 5-8:\n\nS7 all scoring methods\nS7 tests for all scoring methods\nS7 refactor\nS7 refactor tests for all scoring methods\n\nWeek 9:\n\nWrite, write, and write, but not the dissertation kind."
+  },
+  {
+    "objectID": "posts/2025-06-18-hello-world/index.html#the-journey-so-far",
+    "href": "posts/2025-06-18-hello-world/index.html#the-journey-so-far",
+    "title": "A Great Summer of Dev, Data, and Deploy at Posit",
+    "section": "The Journey So Far",
+    "text": "The Journey So Far\n\nfiltro\n\n\ntidymodels"
+  },
+  {
+    "objectID": "posts/2025-06-18-hello-world/index.html#behind-the-curtain",
+    "href": "posts/2025-06-18-hello-world/index.html#behind-the-curtain",
+    "title": "A Great Summer of Dev, Data, and Deploy at Posit",
+    "section": "Behind the Curtain",
+    "text": "Behind the Curtain\n\nPR #1: All the Things, All at Once\nWeek 1-2\nMy first few weeks at Posit have been packed with learning and collaboration. I’ve had daily meetings with Max (Max Kuhn) and Emil (Emil Hvitfeldt). Max brings deep expertise in modeling and machine learning, while Emil is highly knowledgeable about software development, from Git, GitHub, and GitHub Actions CI/CD (nasty stuff!) to Positron (a VS Code–like IDE), and R’s S3 object-oriented programming (OOP). 1\nIt’s tempting to jump straight into coding and testing, but Max emphasized an important lesson: before writing any code, it’s crucial to step back and think through the software design — often, the real challenge lies in the methodology, not just the implementation. Meanwhile, Emil and I did some pair programming (my first time!), which led to two great learning sessions:\n\n“Everything Positron” 2 \n“Everything S3 OOP”.\n\n\n\nS3 OOP Brush-Up\nWeek 1-4\nTo be completely honest, while Xiaotian (Xiaotian Zheng)’s {mtd} 3 package is quite well-organized — and I would argue that the most challenging aspect of extending it lies more in model development than in software engineering — I have little to no experience with R’s S3 OOP system. So here I am, pretty much glued to the Advanced R and R Packages books and poking around the {tune} package (plus {yardstick} and a few others) through weeks 1 to 4 to level up my S3 OOP game.\n\n\nA Turning Point\nWeek 5\n\nMax and I and Hadley had a meeting, and during the meeting, Hadley (Hadley Wickham) said, “Let’s do S7 OOP.” 😱 (The face screaming in fear emoji because I am thrilled and frightened — thrilled to meet him, but scared I won’t live up to the expectations!)\nPrepare for CRAN submission\n\n\n\nCRAN Horror Story & Dual (Muli) Branches\nWeek 6\n\n“CRAN horror story” to “CRAN acceptance”.\nThe S3 branch is now on CRAN, while the S7 branch lives on as the development version.\nIn practice, though, I’m juggling multiple branches, as I get used to merging, resolving conflicts, and navigating real-world Git and GitHub workflows.\n\n\n\nThe Great S7 Migration\nWeek 5-8\n\nImplement S7 for all scoring methods\nWrite S7 tests for all scoring methods\nRefactor code using S7 (Max led the way!)\nRefactor tests accordingly\n\n\n\nWrite, Write, and Write…\nWeek 9\n\nWrite, write, and write, (but not the dissertation kind!)"
+  },
+  {
+    "objectID": "posts/2025-06-18-hello-world/index.html#onward-upward",
+    "href": "posts/2025-06-18-hello-world/index.html#onward-upward",
+    "title": "A Great Summer of Dev, Data, and Deploy at Posit",
+    "section": "Onward & Upward",
+    "text": "Onward & Upward"
+  },
+  {
+    "objectID": "posts/2025-06-18-hello-world/index.html#everything-everywhere-all-at-once-2022-but-not-quite",
+    "href": "posts/2025-06-18-hello-world/index.html#everything-everywhere-all-at-once-2022-but-not-quite",
+    "title": "A Great Summer of Dev, Data, and Deploy at Posit",
+    "section": "“Everything Everywhere All at Once” (2022) — But Not Quite**",
+    "text": "“Everything Everywhere All at Once” (2022) — But Not Quite**\nWeek 1-2\n\nDaily meeting\n“Everything Positron” & “Everything S3 OOP” by Emil!\n\n\nS3 OOP Brush-Up\nWeek 1-4\n\nBrush up on S3 OOP\n\n\n\nA Turning Point\nWeek 5\n\nHadley said, “Let’s do S7 OOP.”\nPrepare for CRAN submission\n\n\n\nCRAN Drama & Dual (Multi) Branches\nWeek 6\n\n“CRAN horror story” to acceptance.\nS3 branch -&gt; On CRAN; S7 branch -&gt; Dev version\n\n\n\nThe Great S7 Migration\nWeek 5-8\n\nImplement S7 for all scoring methods\nWrite S7 tests for all scoring methods\nRefactor code using S7\nRefactor tests accordingly\n\n\n\nWrite, Write, and Write…\nWeek 9\n\nWrite, write, and write, (but not the dissertation kind!)"
+  },
+  {
+    "objectID": "posts/2025-06-18-hello-world/index.html#footnotes",
+    "href": "posts/2025-06-18-hello-world/index.html#footnotes",
+    "title": "A Great Summer of Dev, Data, and Deploy at Posit",
+    "section": "Footnotes",
+    "text": "Footnotes\n\n\nThough later, I found that that Hannah (Hannah Frick) also has a deep expertise in these areas, and I’ve learned a lot from her as well!↩︎\nAs a side note, I want to thank my co-advisor, Charlotte (Charlotte Wickham), for encouraging me to write and organize my dissertation using Positron. But, it wasn’t until this internship that I really began to unlock its full potential for software development and Git integration, though it was also Charlotte who helped me get this internship.↩︎\nThis is the package I build upon in my PhD dissertation. See Xiaotian’s package at https://github.com/xzheng42/mtd. My extended version will be available on GitHub in late December or later. 🤞↩︎"
   }
 ]

@@ -2,13 +2,13 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.7.31">
+<meta name="generator" content="quarto-1.7.32">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
-<meta name="dcterms.date" content="2025-06-18">
+<meta name="dcterms.date" content="2025-08-07">
 
-<title>Hello, world! – franceslinyc</title>
+<title>A Great Summer of Dev, Data, and Deploy at Posit – franceslinyc</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -37,7 +37,7 @@ ul.task-list li input[type="checkbox"] {
 <script src="../../site_libs/quarto-html/tippy.umd.min.js"></script>
 <script src="../../site_libs/quarto-html/anchor.min.js"></script>
 <link href="../../site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="../../site_libs/quarto-html/quarto-syntax-highlighting-e1a5c8363afafaef2c763b6775fbf3ca.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<link href="../../site_libs/quarto-html/quarto-syntax-highlighting-37eea08aefeeee20ff55810ff984fec1.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="../../site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="../../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
 <link href="../../site_libs/bootstrap/bootstrap-c1fac2584b48ed01fb6e278e36375074.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
@@ -71,9 +71,9 @@ ul.task-list li input[type="checkbox"] {
 
 
 <link rel="stylesheet" href="../../styles.css">
-<meta property="og:title" content="Hello, world! – franceslinyc">
-<meta property="og:description" content="">
-<meta property="og:image" content="cover.jpg">
+<meta property="og:title" content="A Great Summer of Dev, Data, and Deploy at Posit – franceslinyc">
+<meta property="og:description" content="My experience during the 2025 summer internship at Posit">
+<meta property="og:image" content="ml.jpg">
 <meta property="og:site_name" content="franceslinyc">
 </head>
 
@@ -115,6 +115,10 @@ ul.task-list li input[type="checkbox"] {
 <span class="menu-text">Software</span></a>
   </li>  
   <li class="nav-item">
+    <a class="nav-link" href="../../posts/index.html"> 
+<span class="menu-text">Posts</span></a>
+  </li>  
+  <li class="nav-item">
     <a class="nav-link" href="../../whatelse.html"> 
 <span class="menu-text">What Else?</span></a>
   </li>  
@@ -129,15 +133,36 @@ ul.task-list li input[type="checkbox"] {
 <div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
 <!-- sidebar -->
 <!-- margin-sidebar -->
-    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar zindex-bottom">
-        
+    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
+        <nav id="TOC" role="doc-toc" class="toc-active" data-toc-expanded="99">
+    <h2 id="toc-title">On this page</h2>
+   
+  <ul>
+  <li><a href="#the-journey-so-far" id="toc-the-journey-so-far" class="nav-link active" data-scroll-target="#the-journey-so-far">The Journey So Far</a>
+  <ul class="collapse">
+  <li><a href="#filtro" id="toc-filtro" class="nav-link" data-scroll-target="#filtro">filtro</a></li>
+  <li><a href="#tidymodels" id="toc-tidymodels" class="nav-link" data-scroll-target="#tidymodels">tidymodels</a></li>
+  </ul></li>
+  <li><a href="#behind-the-curtain" id="toc-behind-the-curtain" class="nav-link" data-scroll-target="#behind-the-curtain">Behind the Curtain</a>
+  <ul class="collapse">
+  <li><a href="#pr-1-all-the-things-all-at-once" id="toc-pr-1-all-the-things-all-at-once" class="nav-link" data-scroll-target="#pr-1-all-the-things-all-at-once">PR #1: All the Things, All at Once</a></li>
+  <li><a href="#s3-oop-brush-up" id="toc-s3-oop-brush-up" class="nav-link" data-scroll-target="#s3-oop-brush-up">S3 OOP Brush-Up</a></li>
+  <li><a href="#a-turning-point" id="toc-a-turning-point" class="nav-link" data-scroll-target="#a-turning-point">A Turning Point</a></li>
+  <li><a href="#cran-horror-story-dual-muli-branches" id="toc-cran-horror-story-dual-muli-branches" class="nav-link" data-scroll-target="#cran-horror-story-dual-muli-branches">CRAN Horror Story &amp; Dual (Muli) Branches</a></li>
+  <li><a href="#the-great-s7-migration" id="toc-the-great-s7-migration" class="nav-link" data-scroll-target="#the-great-s7-migration">The Great S7 Migration</a></li>
+  <li><a href="#write-write-and-write" id="toc-write-write-and-write" class="nav-link" data-scroll-target="#write-write-and-write">Write, Write, and Write…</a></li>
+  </ul></li>
+  <li><a href="#onward-upward" id="toc-onward-upward" class="nav-link" data-scroll-target="#onward-upward">Onward &amp; Upward</a></li>
+  </ul>
+</nav>
     </div>
 <!-- main -->
 <main class="content" id="quarto-document-content">
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">Hello, world!</h1>
+<h1 class="title">A Great Summer of Dev, Data, and Deploy at Posit</h1>
+<p class="subtitle lead">My experience during the 2025 summer internship at Posit</p>
 </div>
 
 
@@ -148,7 +173,7 @@ ul.task-list li input[type="checkbox"] {
     <div>
     <div class="quarto-title-meta-heading">Published</div>
     <div class="quarto-title-meta-contents">
-      <p class="date">June 18, 2025</p>
+      <p class="date">August 7, 2025</p>
     </div>
   </div>
   
@@ -160,11 +185,86 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
-<p>Welcome to my new site, built with Quarto by Posit PBC. I’m currently in the process of migrating content from my previous site, so stay tuned!</p>
+<blockquote class="blockquote">
+<p>⚠️ <strong>work-in-progress</strong></p>
+</blockquote>
+<p>I spent the summer at Posit (formerly RStudio), where I worked on machine learning, software development, and more.</p>
+<section id="the-journey-so-far" class="level2">
+<h2 class="anchored" data-anchor-id="the-journey-so-far">The Journey So Far</h2>
+<section id="filtro" class="level3">
+<h3 class="anchored" data-anchor-id="filtro">filtro</h3>
+</section>
+<section id="tidymodels" class="level3">
+<h3 class="anchored" data-anchor-id="tidymodels">tidymodels</h3>
+</section>
+</section>
+<section id="behind-the-curtain" class="level2">
+<h2 class="anchored" data-anchor-id="behind-the-curtain">Behind the Curtain</h2>
+<section id="pr-1-all-the-things-all-at-once" class="level3">
+<h3 class="anchored" data-anchor-id="pr-1-all-the-things-all-at-once">PR #1: All the Things, All at Once</h3>
+<p>Week 1-2</p>
+<p>My first few weeks at Posit have been packed with learning and collaboration. I’ve had daily meetings with Max (Max Kuhn) and Emil (Emil Hvitfeldt). Max brings deep expertise in modeling and machine learning, while Emil is highly knowledgeable about software development, from Git, GitHub, and GitHub Actions CI/CD (nasty stuff!) to Positron (a VS Code–like IDE), and R’s S3 object-oriented programming (OOP). <a href="#fn1" class="footnote-ref" id="fnref1" role="doc-noteref"><sup>1</sup></a></p>
+<p>It’s tempting to jump straight into coding and testing, but Max emphasized an important lesson: before writing any code, it’s crucial to step back and think through the software design — often, the real challenge lies in the methodology, not just the implementation. Meanwhile, Emil and I did some pair programming (my first time!), which led to two great learning sessions:</p>
+<ul>
+<li>“Everything Positron” <a href="#fn2" class="footnote-ref" id="fnref2" role="doc-noteref"><sup>2</sup></a> <br></li>
+<li>“Everything S3 OOP”.</li>
+</ul>
+</section>
+<section id="s3-oop-brush-up" class="level3">
+<h3 class="anchored" data-anchor-id="s3-oop-brush-up">S3 OOP Brush-Up</h3>
+<p>Week 1-4</p>
+<p>To be completely honest, while Xiaotian (Xiaotian Zheng)’s {mtd} <a href="#fn3" class="footnote-ref" id="fnref3" role="doc-noteref"><sup>3</sup></a> package is quite well-organized — and I would argue that the most challenging aspect of extending it lies more in model development than in software engineering — I have little to no experience with R’s S3 OOP system. So here I am, pretty much glued to the <em>Advanced R</em> and <em>R Packages</em> books and poking around the {tune} package (plus {yardstick} and a few others) through weeks 1 to 4 to level up my S3 OOP game.</p>
+</section>
+<section id="a-turning-point" class="level3">
+<h3 class="anchored" data-anchor-id="a-turning-point">A Turning Point</h3>
+<p>Week 5</p>
+<ul>
+<li><p>Max and I and Hadley had a meeting, and during the meeting, Hadley (Hadley Wickham) said, “Let’s do S7 OOP.” 😱 (The face screaming in fear emoji because I am thrilled and frightened — thrilled to meet him, but scared I won’t live up to the expectations!)</p></li>
+<li><p>Prepare for CRAN submission</p></li>
+</ul>
+</section>
+<section id="cran-horror-story-dual-muli-branches" class="level3">
+<h3 class="anchored" data-anchor-id="cran-horror-story-dual-muli-branches">CRAN Horror Story &amp; Dual (Muli) Branches</h3>
+<p>Week 6</p>
+<ul>
+<li><p>“CRAN horror story” to “CRAN acceptance”.</p></li>
+<li><p>The S3 branch is now on CRAN, while the S7 branch lives on as the development version.</p></li>
+<li><p>In practice, though, I’m juggling multiple branches, as I get used to merging, resolving conflicts, and navigating real-world Git and GitHub workflows.</p></li>
+</ul>
+</section>
+<section id="the-great-s7-migration" class="level3">
+<h3 class="anchored" data-anchor-id="the-great-s7-migration">The Great S7 Migration</h3>
+<p>Week 5-8</p>
+<ul>
+<li><p>Implement S7 for all scoring methods</p></li>
+<li><p>Write S7 tests for all scoring methods</p></li>
+<li><p>Refactor code using S7 (Max led the way!)</p></li>
+<li><p>Refactor tests accordingly</p></li>
+</ul>
+</section>
+<section id="write-write-and-write" class="level3">
+<h3 class="anchored" data-anchor-id="write-write-and-write">Write, Write, and Write…</h3>
+<p>Week 9</p>
+<ul>
+<li>Write, write, and write, (but <em>not</em> the dissertation kind!)</li>
+</ul>
+</section>
+</section>
+<section id="onward-upward" class="level2">
+<h2 class="anchored" data-anchor-id="onward-upward">Onward &amp; Upward</h2>
 
 
+</section>
 
-</main> <!-- /main -->
+
+<div id="quarto-appendix" class="default"><section id="footnotes" class="footnotes footnotes-end-of-document" role="doc-endnotes"><h2 class="anchored quarto-appendix-heading">Footnotes</h2>
+
+<ol>
+<li id="fn1"><p>Though later, I found that that Hannah (Hannah Frick) also has a deep expertise in these areas, and I’ve learned a lot from her as well!<a href="#fnref1" class="footnote-back" role="doc-backlink">↩︎</a></p></li>
+<li id="fn2"><p>As a side note, I want to thank my co-advisor, Charlotte (Charlotte Wickham), for encouraging me to write and organize my dissertation using Positron. But, it wasn’t until this internship that I really began to unlock its full potential for software development and Git integration, though it was also Charlotte who helped me get this internship.<a href="#fnref2" class="footnote-back" role="doc-backlink">↩︎</a></p></li>
+<li id="fn3"><p>This is the package I build upon in my PhD dissertation. See Xiaotian’s package at <a href="https://github.com/xzheng42/mtd">https://github.com/xzheng42/mtd</a>. My extended version will be available on GitHub in late December or later. 🤞<a href="#fnref3" class="footnote-back" role="doc-backlink">↩︎</a></p></li>
+</ol>
+</section></div></main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
   window.document.addEventListener("DOMContentLoaded", function (event) {
     const icon = "";
