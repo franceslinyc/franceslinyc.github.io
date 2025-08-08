@@ -63,7 +63,7 @@ I had to resubmit the package after making a few reasonable but minimal errors. 
 
 The S3 branch was now on CRAN, while the S7 branch lived on as the development version — many branches ahead in features and updates. In practice, though, I was juggling multiple branches, as I got used to merging, resolving conflicts, and navigating real-world Git and GitHub workflows, though I still find CI/CD concepts a bit abstract and challenging. 
 
-### The Great S7 Migration
+### The Great S7 Migration 🛥
 
 Since meeting with Hadley in week 5, my weeks 5 to 8 were largely focused on implementing S7 for all scoring methods. I also spent a lot of time rewriting tests to match the new setup and helping with code refactoring — with Max laid the groundwork with one method! 
 
@@ -73,7 +73,13 @@ These four weeks were perhaps the most challenging part of my internship, but al
 
 Week 9 and on is all about writing, writing, and more writing — but *not* the dissertation kind!
 
-- The vignette pages for the tidy pages are phenomenal, which definitely adds a bit of pressure to deliver my best. 
+*working zone*
+
+The vignette pages for the tidy pages are phenomenal, which definitely adds a bit of pressure to deliver my best. 
+
+The package website is up running!
+
+*working zone*
 
 Though the internship was entirely remote, I had the pleasure of meeting the other intern, Jules, as well as other developers based in Europe and across the US. The most fun, though initially intimidating, experience was the monthly tidyteam meeting, where the tidyverse, tidymodels, and r-lib [^rlib] teams all gathered on Zoom once a month. It felt like seeing all the key people at Posit all at once [^tidymodelmeeting]. 
 
