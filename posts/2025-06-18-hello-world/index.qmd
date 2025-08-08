@@ -1,7 +1,7 @@
 ---
-title: "A Great Summer of Dev, Data, and Deploy at Posit"
+title: "Dev, Data, Deploy — Summer Vibes, Posit Style"
 subtitle: "My experience during the 2025 summer internship at Posit"
-date: "08/07/2025"
+date: "08/08/2025"
 toc: true
 toc-expand: true
 image: "ml.jpg"
@@ -9,9 +9,12 @@ image: "ml.jpg"
 
 > ⚠️ **work-in-progress**
 
-This summer, I worked at Posit (formerly RStudio), focusing on machine learning, software development, and more as part of the tidymodels [^tidymodels] team. I primarily worked on {filtro}, a filter-based supervised feature selection package for modeling and machine learning in R.
+This summer, I worked at Posit (formerly RStudio), focusing on machine learning, software development, and more as part of the tidymodels team. I primarily worked on {filtro}, a filter-based supervised feature selection package in R.
 
-[^tidymodels]: {tidymodels} can be thought of as an R framework comparable to {scikit-learn} in Python. 
+My team at tidymodels is responsible for the creation and maintenance of the {tidymodels} [^tidymodels] framework, a comprehensive collection of R packages for modeling and machine learning. It is similar in scope and purpose to {scikit-learn} in Python.
+
+
+[^tidymodels]: Tidymodels [https://www.tidymodels.org](https://www.tidymodels.org). 
 
 ## The Journey So Far
 
@@ -21,46 +24,40 @@ This summer, I worked at Posit (formerly RStudio), focusing on machine learning,
 
 
 
-## Behind the Curtain
+## Behind the Scenes
 
 ### PR #1: All the Things, All at Once
 
-Week 1-2
+My first 2 weeks at Posit were packed with learning and collaboration. I had daily meetings with Max and Emil. Max brings deep expertise in modeling, machine learning and software design, while Emil is highly knowledgeable about software development, from Positron (a VS Code–like IDE) and R's S3 object-oriented programming (OOP), to Posit's developer tools, Git and GitHub Actions CI/CD (nasty stuff!) [^Hannah]. 
 
-My first few weeks at Posit were packed with learning and collaboration. I had daily meetings with Max and Emil. Max brings deep expertise in modeling,machine learning and software design, while Emil is highly knowledgeable about software development, from Git, GitHub Actions CI/CD (nasty stuff!) to Positron (a VS Code–like IDE), and R's S3 object-oriented programming (OOP) [^Hannah]. 
-
-[^Hannah]: Though later, I found that that Hannah also has a deep expertise in these areas, and I learned a lot from her as well!
+[^Hannah]: Though later, I found that that Hannah also has a deep expertise in these areas, and I learned a lot from her as well! 
 
 It’s tempting to jump straight into coding and testing, but Max taught an important lesson: before writing any code, it's crucial to step back and think through the software design — often, the real challenge lies in the methodology, not just the implementation. Meanwhile, Emil and I did some pair programming, which led to two great learning sessions:
 
 - “Everything Positron” [^Charlotte] <br>
 - “Everything S3 OOP”. 
 
-[^Charlotte]: As a side note, I want to thank my co-advisor, Charlotte, for encouraging me to write and organize my dissertation using Positron. But, it wasn’t until this internship that I began to unlock its full potential for software development and Git integration, though it was also Charlotte who helped me get this internship. 🤩
+[^Charlotte]: As a side note, I want to thank my co-advisor, Charlotte, for encouraging me to write and organize my dissertation using Positron. But, it wasn’t until this internship that I unlocked its full potential for software development and Git integration, though it was also Charlotte who helped me get this internship. 🤩
 
 ### S3 OOP Brush-Up
 
-Week 1-4
-
-To be completely honest, while Xiaotian's {mtd} [^mtd] package is quite well-organized — and I would argue that the most challenging aspect of extending it lies more in model development than in software engineering, I had little to no experience with R's S3 OOP system. So here I am, pretty much glued to the *Advanced R* and *R Packages* books and poking around the {tune} package (plus {yardstick} and a few others) through weeks 1 to 4 to level up my S3 OOP game. 
+To be completely honest, while Xiaotian's {mtd} [^mtd] package is quite well-organized — and I would argue that the most challenging aspect of extending it lies more in model development than in software engineering, I had little to no experience with R's S3 OOP system. So here I am, pretty much glued to the *Advanced R* and *R Packages* books while poking around the {dials} package (plus {yardstick}, {tune} and a few others) through weeks 1 to 4 to level up my S3 OOP game. 
 
 [^mtd]: This is the package I build upon in my PhD dissertation. See Xiaotian's package at [https://github.com/xzheng42/mtd](https://github.com/xzheng42/mtd). My extended version will be available on GitHub in late December or later. 🤞
 
 ### A Turning Point
 
-Week 5
-
-Max, Hadley, and I met to discuss the API design for the {desirability2} package. During the discussion, Hadley demonstrated some code using S7 [^S7] and recommended incorporating it. 😱 (That's the "face screaming in fear" emoji because I am both thrilled and frightened — thrilled to meet him, but nervous about living up to expectations!) 
+Max, Hadley, and I met to discuss the API design for the {desirability2} package. During the discussion, Hadley demonstrated some code using S7 [^S7] and recommended incorporating it. 😱 (The "face screaming in fear" emoji because I am both thrilled and frightened — thrilled to meet him, but nervous about living up to expectations!) 
 
 [^S7]: S7: a new OO system for R [https://rconsortium.github.io/S7/](https://rconsortium.github.io/S7/).
 
-To cap off an exciting week, Emil and I prepared and submitted {filtro} to CRAN [^CRAN]. 
+To cap off an exciting week, Emil and I prepared and submitted {filtro} [^filtroname] to CRAN [^CRAN]. 
+
+[^filtroname]: We've considered names like {filter}, {filters}, {filtrr}, {flitrrr}, and {filtron}, but unfortunately, most of them are already taken. 
 
 [^CRAN]: The Comprehensive R Archive Network [https://cran.r-project.org](https://cran.r-project.org). 
 
 ### CRAN Horror Story to Acceptance and Dual Branches
-
-Week 6
 
 I had to resubmit the package after making a few reasonable but minimal errors. Following the resubmission, the reviewer emailed me asking for revisions, with no further details. Gathering my courage, I replied back for clarification, and shortly after received an apology along with the great news that {filtro} is now on CRAN. 🚀
 
@@ -68,23 +65,17 @@ The S3 branch was now on CRAN, while the S7 branch lived on as the development v
 
 ### The Great S7 Migration
 
-Week 5-8
+Since meeting with Hadley in week 5, my weeks 5 to 8 were largely focused on implementing S7 for all scoring methods. I also spent a lot of time rewriting tests to match the new setup and helping with code refactoring — with Max laid the groundwork with one method! 
 
-- Implement S7 for all scoring methods
-
-- Write S7 tests for all scoring methods
-
-- Refactor code using S7 (Max led the way!)
-
-- Refactor tests accordingly
+These four weeks were perhaps the most challenging part of my internship, but also the most rewarding. I had the opportunity to work closely with Max, who has played a key role in shaping high-level engineering work within tidymodels. I learned a lot just by observing how he approaches problems, structures code, and makes thoughtful decisions during refactoring. It was a steep learning curve, but being part of this process pushed me to the next level — from writing cleaner, more maintable code to thinking more critically about software design as well as user experience. 
 
 ### Write, Write, and Write... 
 
-Week 9
+Week 9 and on is all about writing, writing, and more writing — but *not* the dissertation kind!
 
-- Write, write, and write, (but *not* the dissertation kind!)  
+- The vignette pages for the tidy pages are phenomenal, which definitely adds a bit of pressure to deliver my best. 
 
-Though the internship was entirely remote, I had the pleasure of meeting the other intern, Jules, as well as other developers based in Europe and across the US. The most fun, though initially intimidating, experience was the tidyteam meeting, where the tidyverse, tidymodels, and r-lib [^rlib] teams all gathered on Zoom once a month. It felt like seeing all the key people at Posit all at once [^tidymodelmeeting]. 
+Though the internship was entirely remote, I had the pleasure of meeting the other intern, Jules, as well as other developers based in Europe and across the US. The most fun, though initially intimidating, experience was the monthly tidyteam meeting, where the tidyverse, tidymodels, and r-lib [^rlib] teams all gathered on Zoom once a month. It felt like seeing all the key people at Posit all at once [^tidymodelmeeting]. 
 
 [^rlib]: Some of the most useful developer tools we used daily, such as {devtools}, {usethis}, {testthat}, and {rlang}, were all developed by the r-lib team [https://github.com/r-lib](https://github.com/r-lib).
 

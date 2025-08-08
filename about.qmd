@@ -9,8 +9,8 @@ Thanks for visiting my site!
 
 I am a PhD candidate in Statistics at Oregon State University. Broadly speaking, my research interests lie in
 
-- predictive modeling,  <br>
-- computational statistics, and <br>
+- predictive modeling  <br>
+- computational statistics  <br>
 - machine learning 
 
 for large and complex time series data, with applications to energy forecasting and claims prediction. My other interests include deep learning and its more flexible and explainable probabilistic variant models (e.g., deep Gaussian processes, deep Gaussian Markov Random Fields) for space and space-time modeling. 
