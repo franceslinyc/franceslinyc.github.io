@@ -85,6 +85,6 @@ Though the internship was entirely remote, I had the pleasure of meeting the oth
 
 [^rlib]: Some of the most useful developer tools we used daily, such as {devtools}, {usethis}, {testthat}, and {rlang}, were all developed by the r-lib team [https://github.com/r-lib](https://github.com/r-lib).
 
-[^tidymodelmeeting]: I also really enjoyed the weekly tidymodels meeting because it brought together people like Max, Emil, Hannah, and Simon, whose work was more relevant to mine. That said, I have to admit that sometimes I got overwhelmed by the many details involved in the *many* packages maintained by the team. Simon’s work on AI assistance through LLM integration, however, was quite intriguing. 
+[^tidymodelmeeting]: I also really enjoyed the weekly tidymodels meeting because it brought together people like Max, Emil, Hannah, and Simon, whose work was more relevant to mine. That said, I have to admit that sometimes I got overwhelmed by the many details involved in the *many* packages maintained by the team. Simon’s work on AI assistance through LLM integration, however, was quite refreshing. 
 
 ## Onward & Upward
