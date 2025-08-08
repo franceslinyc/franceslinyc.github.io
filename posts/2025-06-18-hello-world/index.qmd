@@ -67,7 +67,7 @@ The S3 branch was now on CRAN, while the S7 branch lived on as the development v
 
 Since meeting with Hadley in week 5, my weeks 5 to 8 were largely focused on implementing S7 for all scoring methods. I also spent a lot of time rewriting tests to match the new setup and helping with code refactoring — with Max laid the groundwork with one method! 
 
-These four weeks were perhaps the most challenging part of my internship, but also the most rewarding. I had the opportunity to work closely with Max, who has played a key role in shaping high-level engineering work within tidymodels. I learned a lot just by observing how he approaches problems, structures code, and makes thoughtful decisions during refactoring. It was a steep learning curve, but being part of this process pushed me to the next level — from writing cleaner, more maintable code to thinking more critically about software design as well as user experience. 
+These four weeks were perhaps the most challenging part of my internship, but also the most rewarding. I had the opportunity to work closely with Max, who has played a key role in shaping high-level engineering work within tidymodels. I learned a lot just by observing how he approached problems, structured code, and made thoughtful decisions during refactoring. It was a steep learning curve, but being part of this process pushed me to the next level — from writing cleaner, more maintable code to thinking more critically about software design as well as user experience. 
 
 ### Write, Write, and Write... 
 
