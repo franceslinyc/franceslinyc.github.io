@@ -188,7 +188,7 @@ ul.task-list li input[type="checkbox"] {
 <blockquote class="blockquote">
 <p>⚠️ <strong>work-in-progress</strong></p>
 </blockquote>
-<p>I spent the summer at Posit (formerly RStudio), where I worked on machine learning, software development, and more.</p>
+<p>This summer, I worked at Posit (formerly RStudio), focusing on machine learning, software development, and more as part of the tidymodels <a href="#fn1" class="footnote-ref" id="fnref1" role="doc-noteref"><sup>1</sup></a> team. I primarily worked on {filtro}, a filter-based supervised feature selection package for modeling and machine learning in R.</p>
 <section id="the-journey-so-far" class="level2">
 <h2 class="anchored" data-anchor-id="the-journey-so-far">The Journey So Far</h2>
 <section id="filtro" class="level3">
@@ -203,29 +203,29 @@ ul.task-list li input[type="checkbox"] {
 <section id="pr-1-all-the-things-all-at-once" class="level3">
 <h3 class="anchored" data-anchor-id="pr-1-all-the-things-all-at-once">PR #1: All the Things, All at Once</h3>
 <p>Week 1-2</p>
-<p>My first few weeks at Posit have been packed with learning and collaboration. I’ve had daily meetings with Max and Emil. Max brings deep expertise in modeling and machine learning, while Emil is highly knowledgeable about software development, from Git, GitHub Actions CI/CD (nasty stuff!) to Positron (a VS Code–like IDE), and R’s S3 object-oriented programming (OOP) <a href="#fn1" class="footnote-ref" id="fnref1" role="doc-noteref"><sup>1</sup></a>.</p>
+<p>My first few weeks at Posit were packed with learning and collaboration. I had daily meetings with Max and Emil. Max brings deep expertise in modeling,machine learning and software design, while Emil is highly knowledgeable about software development, from Git, GitHub Actions CI/CD (nasty stuff!) to Positron (a VS Code–like IDE), and R’s S3 object-oriented programming (OOP) <a href="#fn2" class="footnote-ref" id="fnref2" role="doc-noteref"><sup>2</sup></a>.</p>
 <p>It’s tempting to jump straight into coding and testing, but Max taught an important lesson: before writing any code, it’s crucial to step back and think through the software design — often, the real challenge lies in the methodology, not just the implementation. Meanwhile, Emil and I did some pair programming, which led to two great learning sessions:</p>
 <ul>
-<li>“Everything Positron” <a href="#fn2" class="footnote-ref" id="fnref2" role="doc-noteref"><sup>2</sup></a> <br></li>
+<li>“Everything Positron” <a href="#fn3" class="footnote-ref" id="fnref3" role="doc-noteref"><sup>3</sup></a> <br></li>
 <li>“Everything S3 OOP”.</li>
 </ul>
 </section>
 <section id="s3-oop-brush-up" class="level3">
 <h3 class="anchored" data-anchor-id="s3-oop-brush-up">S3 OOP Brush-Up</h3>
 <p>Week 1-4</p>
-<p>To be completely honest, while Xiaotian’s {mtd} <a href="#fn3" class="footnote-ref" id="fnref3" role="doc-noteref"><sup>3</sup></a> package is quite well-organized — and I would argue that the most challenging aspect of extending it lies more in model development than in software engineering, I have little to no experience with R’s S3 OOP system. So here I am, pretty much glued to the <em>Advanced R</em> and <em>R Packages</em> books and poking around the {tune} package (plus {yardstick} and a few others) through weeks 1 to 4 to level up my S3 OOP game.</p>
+<p>To be completely honest, while Xiaotian’s {mtd} <a href="#fn4" class="footnote-ref" id="fnref4" role="doc-noteref"><sup>4</sup></a> package is quite well-organized — and I would argue that the most challenging aspect of extending it lies more in model development than in software engineering, I had little to no experience with R’s S3 OOP system. So here I am, pretty much glued to the <em>Advanced R</em> and <em>R Packages</em> books and poking around the {tune} package (plus {yardstick} and a few others) through weeks 1 to 4 to level up my S3 OOP game.</p>
 </section>
 <section id="a-turning-point" class="level3">
 <h3 class="anchored" data-anchor-id="a-turning-point">A Turning Point</h3>
 <p>Week 5</p>
-<p>Max, Hadley, and I met to discuss the API design for the {desirability2} package. During the discussion, Hadley demonstrated some code using S7 <a href="#fn4" class="footnote-ref" id="fnref4" role="doc-noteref"><sup>4</sup></a> and recommended incorporating it. 😱 (That’s the “face screaming in fear” emoji because I am both thrilled and frightened — thrilled to meet him, but nervous about living up to expectations!)</p>
-<p>To cap off an exciting week, Emil and I prepared and submitted {filtro} to CRAN <a href="#fn5" class="footnote-ref" id="fnref5" role="doc-noteref"><sup>5</sup></a>.</p>
+<p>Max, Hadley, and I met to discuss the API design for the {desirability2} package. During the discussion, Hadley demonstrated some code using S7 <a href="#fn5" class="footnote-ref" id="fnref5" role="doc-noteref"><sup>5</sup></a> and recommended incorporating it. 😱 (That’s the “face screaming in fear” emoji because I am both thrilled and frightened — thrilled to meet him, but nervous about living up to expectations!)</p>
+<p>To cap off an exciting week, Emil and I prepared and submitted {filtro} to CRAN <a href="#fn6" class="footnote-ref" id="fnref6" role="doc-noteref"><sup>6</sup></a>.</p>
 </section>
 <section id="cran-horror-story-to-acceptance-and-dual-branches" class="level3">
 <h3 class="anchored" data-anchor-id="cran-horror-story-to-acceptance-and-dual-branches">CRAN Horror Story to Acceptance and Dual Branches</h3>
 <p>Week 6</p>
-<p>I had to resubmit the package after making some reasonable but minimal errors. Following the resubmission, the reviewer emailed me for revisions, with no further details. Gathering my courage, I replied back for clarification, and shortly after received an apology along with the great news that {filtro} is now on CRAN. 🚀</p>
-<p>The S3 branch is now on CRAN, while the S7 branch lives on as the development version. In practice, though, I’m juggling multiple branches, as I get used to merging, resolving conflicts, and navigating real-world Git and GitHub workflows — though I still find CI/CD concepts a bit abstract and challenging.</p>
+<p>I had to resubmit the package after making a few reasonable but minimal errors. Following the resubmission, the reviewer emailed me asking for revisions, with no further details. Gathering my courage, I replied back for clarification, and shortly after received an apology along with the great news that {filtro} is now on CRAN. 🚀</p>
+<p>The S3 branch was now on CRAN, while the S7 branch lived on as the development version — many branches ahead in features and updates. In practice, though, I was juggling multiple branches, as I got used to merging, resolving conflicts, and navigating real-world Git and GitHub workflows, though I still find CI/CD concepts a bit abstract and challenging.</p>
 </section>
 <section id="the-great-s7-migration" class="level3">
 <h3 class="anchored" data-anchor-id="the-great-s7-migration">The Great S7 Migration</h3>
@@ -243,7 +243,7 @@ ul.task-list li input[type="checkbox"] {
 <ul>
 <li>Write, write, and write, (but <em>not</em> the dissertation kind!)</li>
 </ul>
-<p>Though the internship is entirely remote, I had the pleasure of meeting the other intern, Jules, as well as other developers based in Europe and across the US. The most fun, though initially intimidating, experience has been the tidyteam meeting, where the tidyverse, tidymodels, and r-lib teams all gather on Zoom once a month. It feels like getting to see all the key people at Posit in one place <a href="#fn6" class="footnote-ref" id="fnref6" role="doc-noteref"><sup>6</sup></a>.</p>
+<p>Though the internship was entirely remote, I had the pleasure of meeting the other intern, Jules, as well as other developers based in Europe and across the US. The most fun, though initially intimidating, experience was the tidyteam meeting, where the tidyverse, tidymodels, and r-lib <a href="#fn7" class="footnote-ref" id="fnref7" role="doc-noteref"><sup>7</sup></a> teams all gathered on Zoom once a month. It felt like seeing all the key people at Posit all at once <a href="#fn8" class="footnote-ref" id="fnref8" role="doc-noteref"><sup>8</sup></a>.</p>
 </section>
 </section>
 <section id="onward-upward" class="level2">
@@ -256,12 +256,14 @@ ul.task-list li input[type="checkbox"] {
 <div id="quarto-appendix" class="default"><section id="footnotes" class="footnotes footnotes-end-of-document" role="doc-endnotes"><h2 class="anchored quarto-appendix-heading">Footnotes</h2>
 
 <ol>
-<li id="fn1"><p>Though later, I found that that Hannah (Hannah Frick) also has a deep expertise in these areas, and I’ve learned a lot from her as well!<a href="#fnref1" class="footnote-back" role="doc-backlink">↩︎</a></p></li>
-<li id="fn2"><p>As a side note, I want to thank my co-advisor, Charlotte, for encouraging me to write and organize my dissertation using Positron. But, it wasn’t until this internship that I began to unlock its full potential for software development and Git integration, though it was also Charlotte who helped me get this internship. 🤩<a href="#fnref2" class="footnote-back" role="doc-backlink">↩︎</a></p></li>
-<li id="fn3"><p>This is the package I build upon in my PhD dissertation. See Xiaotian’s package at <a href="https://github.com/xzheng42/mtd">https://github.com/xzheng42/mtd</a>. My extended version will be available on GitHub in late December or later. 🤞<a href="#fnref3" class="footnote-back" role="doc-backlink">↩︎</a></p></li>
-<li id="fn4"><p>S7: a new OO system for R <a href="https://rconsortium.github.io/S7/">https://rconsortium.github.io/S7/</a>.<a href="#fnref4" class="footnote-back" role="doc-backlink">↩︎</a></p></li>
-<li id="fn5"><p>The Comprehensive R Archive Network <a href="https://cran.r-project.org">https://cran.r-project.org</a>.<a href="#fnref5" class="footnote-back" role="doc-backlink">↩︎</a></p></li>
-<li id="fn6"><p>I also really enjoy the weekly tidymodels meeting because it brings together people like Max, Emil, Hannah, and Simon, whose work is more relevant to mine. That said, I have to admit that sometimes I get overwhelmed by the many details involved in the 60+ packages maintained by the tidymodels team. Simon’s work on AI assistance through LLM integration, however, is quite intriguing.<a href="#fnref6" class="footnote-back" role="doc-backlink">↩︎</a></p></li>
+<li id="fn1"><p>{tidymodels} can be thought of as an R framework comparable to {scikit-learn} in Python.<a href="#fnref1" class="footnote-back" role="doc-backlink">↩︎</a></p></li>
+<li id="fn2"><p>Though later, I found that that Hannah also has a deep expertise in these areas, and I learned a lot from her as well!<a href="#fnref2" class="footnote-back" role="doc-backlink">↩︎</a></p></li>
+<li id="fn3"><p>As a side note, I want to thank my co-advisor, Charlotte, for encouraging me to write and organize my dissertation using Positron. But, it wasn’t until this internship that I began to unlock its full potential for software development and Git integration, though it was also Charlotte who helped me get this internship. 🤩<a href="#fnref3" class="footnote-back" role="doc-backlink">↩︎</a></p></li>
+<li id="fn4"><p>This is the package I build upon in my PhD dissertation. See Xiaotian’s package at <a href="https://github.com/xzheng42/mtd">https://github.com/xzheng42/mtd</a>. My extended version will be available on GitHub in late December or later. 🤞<a href="#fnref4" class="footnote-back" role="doc-backlink">↩︎</a></p></li>
+<li id="fn5"><p>S7: a new OO system for R <a href="https://rconsortium.github.io/S7/">https://rconsortium.github.io/S7/</a>.<a href="#fnref5" class="footnote-back" role="doc-backlink">↩︎</a></p></li>
+<li id="fn6"><p>The Comprehensive R Archive Network <a href="https://cran.r-project.org">https://cran.r-project.org</a>.<a href="#fnref6" class="footnote-back" role="doc-backlink">↩︎</a></p></li>
+<li id="fn7"><p>Some of the most useful developer tools we used daily, such as {devtools}, {usethis}, {testthat}, and {rlang}, were all developed by the r-lib team <a href="https://github.com/r-lib">https://github.com/r-lib</a>.<a href="#fnref7" class="footnote-back" role="doc-backlink">↩︎</a></p></li>
+<li id="fn8"><p>I also really enjoyed the weekly tidymodels meeting because it brought together people like Max, Emil, Hannah, and Simon, whose work was more relevant to mine. That said, I have to admit that sometimes I got overwhelmed by the many details involved in the <em>many</em> packages maintained by the team. Simon’s work on AI assistance through LLM integration, however, was quite intriguing.<a href="#fnref8" class="footnote-back" role="doc-backlink">↩︎</a></p></li>
 </ol>
 </section></div></main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
