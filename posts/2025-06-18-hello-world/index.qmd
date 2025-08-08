@@ -73,13 +73,13 @@ These four weeks were perhaps the most challenging part of my internship, but al
 
 Week 9 and on is all about writing, writing, and more writing — but *not* the dissertation kind!
 
-*working zone*
+*work zone*
 
 The vignette pages for the tidy pages are phenomenal, which definitely adds a bit of pressure to deliver my best. 
 
 The package website is up running!
 
-*working zone*
+*work zone*
 
 Though the internship was entirely remote, I had the pleasure of meeting the other intern, Jules, as well as other developers based in Europe and across the US. The most fun, though initially intimidating, experience was the monthly tidyteam meeting, where the tidyverse, tidymodels, and r-lib [^rlib] teams all gathered on Zoom once a month. It felt like seeing all the key people at Posit all at once [^tidymodelmeeting]. 
 
