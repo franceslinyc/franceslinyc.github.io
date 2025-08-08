@@ -15,7 +15,6 @@ website:
       - education.qmd
       - experience.qmd
       - software/index.qmd
-      - posts/index.qmd
       - whatelse.qmd
 
 format:
