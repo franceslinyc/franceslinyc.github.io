@@ -2,7 +2,7 @@
 title: "Experience"
 ---
 
-## [Posit Software, PBC](https://posit.co) (formerly RStudio Inc.)
+## [Posit Software, PBC](https://posit.co) (formerly RStudio, Inc)
 
 #### Software Engineer Intern
 
