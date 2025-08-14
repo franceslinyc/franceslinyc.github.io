@@ -1,7 +1,7 @@
 ---
 title: "Dev, data, deploy — summer vibes, Posit style"
 subtitle: "My 2025 summer internship experience at Posit"
-date: "08/13/2025"
+date: "08/14/2025"
 toc: true
 toc-expand: true
 image: "ml.jpg"
@@ -17,11 +17,11 @@ My team at tidymodels is responsible for the creation and maintenance of the {ti
 
 ## The Perks of Being a Posit Intern
 
-Though the internship was entirely remote, I had the pleasure of meeting Jules, the other intern on the Python team, as well as engineers based across Europe and the U.S. They were all very friendly and generous with their tips and guidance.
+Though the internship was entirely remote, I had the pleasure of meeting Jules, the other intern on the Python team, as well as engineers based in Europe and across the U.S. They were all very friendly and generous with tips and guidance.
 
-The most fun yet initially intimidating experience was the monthly tidyteam meeting, where the tidyverse, tidymodels, and r-lib [^rlib] teams all gathered on Zoom once a month. It felt like seeing all the idols at Posit all at once! 
+The most exciting though initially intimidating experience was the monthly tidyteam meeting, where the tidyverse, tidymodels, and r-lib [^rlib] teams all gathered on Zoom once a month. It felt like seeing all the idols at Posit all at once! 
 
-I also enjoyed the weekly tidymodels meetings with Max, Emil, Hannah, and Simon. The depth of the team’s *many* packages could be *a lot* to absorb at times, but it offered a glimpse into collaborative software development, the challenges of managing a large ecosystem, and effective communication in open-source environment. Plus, Simon’s work on AI assistance through LLM integration (RAG) was always a refreshing highlight. 
+I also enjoyed the weekly tidymodels meetings with Max, Emil, Hannah, and Simon. The depth of the team’s *many* packages could be *a lot* to absorb at times, but it offered a glimpse into collaborative software development, the challenges of managing a large ecosystem, and effective communication in open-source environment. Plus, Simon’s work on AI assistance through LLM integration (RAG) was always refreshing to hear. 
 
 [^rlib]: Some of the most useful developer tools we used daily, such as {devtools}, {usethis}, {testthat}, and {rlang}, were all developed by the r-lib team [https://github.com/r-lib](https://github.com/r-lib).
 
@@ -31,15 +31,16 @@ I also enjoyed the weekly tidymodels meetings with Max, Emil, Hannah, and Simon.
 
 [Insert the hex sticker here.]
 
-*work zone*
+As mentioned earlier, I primarily worked on {filtro}, an R package for filter-based supervised feature selection. Feature selection is important because it helps models focus on what really matters, reducing noise, speeding up computation, and improving accuracy and interpretability. 
 
-As mentioned earlier, I primarily worked on {filtro}, an R package for filter-based supervised feature selection. You can read more about it [here](https://filtro.tidymodels.org/dev/), but the goal of the package is to compute and rank feature relevance, then select the most important features based on these scores.
+At its core, the package allows users to compute and rank feature relevance, then select the most important features based on these scores. If you are interested, you can read more about it [here](https://filtro.tidymodels.org/dev/). 
 
-*work zone*
 
 ### tidymodels
 
 *work zone*
+
+{tidymodels} supports the full modeling workflow, from preprocessing, model evaluation to postprocessing and prediction. {filtro} fits into the preprocessing step. 
 
 *work zone*
 
@@ -47,7 +48,7 @@ As mentioned earlier, I primarily worked on {filtro}, an R package for filter-ba
 
 ### PR #1: All the Things, All at Once
 
-My first 2 weeks at Posit were packed with learning and collaboration. I had daily meetings with Max and Emil. Max brings deep expertise in predictive modeling, machine learning and software design, and Emil is highly knowledgeable about software development, from Positron (a VS Code–like IDE) and R's S3 object-oriented programming (OOP), to Posit's developer tools, Git and GitHub Actions CI/CD (nasty stuff!) [^Hannah]. 
+My first 2 weeks at Posit were packed with learning and collaboration. I had daily meetings with Max and Emil. Max brings deep expertise in modeling, machine learning and software design, and Emil is highly knowledgeable about software development, from Positron (a VS Code–like IDE) and R's S3 object-oriented programming (OOP), to Posit's developer tools, Git and GitHub Actions CI/CD (nasty stuff!) [^Hannah]. 
 
 [^Hannah]: I later realized that Hannah excels at PRs, unit tests, and software design best practices, and I learned a lot from her as well! 
 
@@ -60,7 +61,7 @@ One important lesson from Max is that, while it is tempting to jump straight int
 
 ### S3 OOP Brush-Up
 
-As for R's S3 OOP system, I had little to no prior experience with it. This is because even though Xiaotian’s {mtd} [^mtd] package is quite well-organized, it makes minimal use of OOP — but I would also argue in defense that the most challenging aspect of extending {mtd} lies more in model development than in software engineering. 
+Prior to this internship, I had little to no prior experience with R's S3 OOP system. This is because while Xiaotian’s {mtd} [^mtd] package is quite well-organized, it makes minimal use of OOP — though I would argue in defense that the most challenging aspect of extending {mtd} lies more in model development than in software engineering. 
 
 So here I am, pretty much glued to the *Advanced R* by Hadley and *R Packages* books by Hadley and Jenny, while poking around {dials}, {yardstick}, {tune} and a few other packages through weeks 1 to 4 to level up my S3 OOP game. 
 
@@ -68,7 +69,7 @@ So here I am, pretty much glued to the *Advanced R* by Hadley and *R Packages* b
 
 ### A Turning Point
 
-Week 5 began with a meeting between Max, Hadley, and me to discuss the API design for the {desirability2} package, the package that powers {filtro} for multiparameter optimization. During the discussion, Hadley demonstrated some code using S7 [^S7] and suggested we incorporate it. 😱 At the time, it felt like a dauting task, and I am both thrilled and frightened — thrilled to meet him, yet nervous about living up to expectations!
+Week 5 began with a meeting between Max, Hadley, and me to discuss the API design for the {desirability2} package, the package that powers {filtro} for multiparameter optimization. During the discussion, Hadley demonstrated some code using S7 [^S7] and suggested incorporating it. 😱 At the time, it felt like a dauting task, and I am both thrilled and frightened — thrilled to meet him, yet nervous about living up to expectations!
 
 [^S7]: S7: a new OO system for R [https://rconsortium.github.io/S7/](https://rconsortium.github.io/S7/).
 
@@ -94,7 +95,7 @@ These four weeks were the most challenging yet rewarding part of my internship. 
 
 ### Write, Write, and Write... 
 
-From week 9 onward, it’s all about writing — but *not* the dissertation kind. The vignette pages for all other tidy pages are phenomenal: clear, concise, and accessible. That sets the tone and adds a bit of pressure to deliver my best. 
+From week 9 onward, it’s all about writing — and thankfully, not the dissertation kind. The vignette pages for all other tidy pages are phenomenal: clear, concise, and accessible. That sets the tone and adds a bit of pressure to deliver my best. 
 
 It also feels like just a blink from developing, refactoring, and deploying the package to now writing documentation, demos, and tutorials. But at the very least, the package website for {filtro} is up running! 
 
