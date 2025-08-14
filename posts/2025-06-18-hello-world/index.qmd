@@ -69,7 +69,7 @@ So here I am, pretty much glued to the *Advanced R* by Hadley and *R Packages* b
 
 ### A Turning Point
 
-Week 5 began with a meeting between Max, Hadley, and me to discuss the API design for the {desirability2} package, the package that powers {filtro} for multiparameter optimization. During the discussion, Hadley demonstrated some code using S7 [^S7] and suggested incorporating it. 😱 At the time, it felt like a dauting task, and I am both thrilled and frightened — thrilled to meet him, yet nervous about living up to expectations!
+Week 5 began with a meeting between Max, Hadley, and me to discuss the API design for the {desirability2} package, the package that powers {filtro} for multiparameter optimization. During the discussion, Hadley demonstrated some code using S7 [^S7] and suggested incorporating it. 😱 At the time, it felt like a dauting task, and I was both thrilled and frightened — thrilled to meet him, yet nervous about living up to expectations!
 
 [^S7]: S7: a new OO system for R [https://rconsortium.github.io/S7/](https://rconsortium.github.io/S7/).
 
@@ -85,17 +85,17 @@ After resubmitting for minor errors, the reviewer sent a vague revision request 
 
 [^dark]: I had this unrealistic view of the reviewer as some strict gatekeeper lurking in the shadows, always ready to reject. 
 
-The S3 branch was now on CRAN, while the S7 branch lived on as the development version — many branches ahead in features and updates. In practice, though, I was juggling multiple branches, as I got used to merging, resolving conflicts, and navigating real-world Git and GitHub workflows, though I still find CI/CD concepts a bit abstract and challenging. 
+The S3 branch was now on CRAN, while the S7 branch lived on as the development version, with many branches ahead in features and updates. In practice, though, I was juggling multiple branches, as I got used to merging, resolving conflicts, and navigating real-world Git and GitHub workflows, though I still find CI/CD concepts a bit abstract and challenging. 
 
 ### The Great S7 Migration 🛥
 
-Since meeting with Hadley in week 5, my weeks 5 to 8 were largely focused on implementing S7 for all scoring methods. I also spent a lot of time rewriting tests to match the new setup and helping with code refactoring — with Max laid the groundwork with one method! 
+Since meeting with Hadley in week 5, my weeks 5 to 8 were largely focused on implementing S7 for all scoring methods. I also spent a lot of time rewriting tests to match the new setup and helping with code refactoring, while Max laid the groundwork with 1-2 methods. 
 
 These four weeks were the most challenging yet rewarding part of my internship. I had the opportunity to work closely with Max. I learned a lot just by observing how he approached problems, structured code, and made decisions during refactoring. It was a steep learning curve, but I grew a lot — from writing cleaner, more maintable code to thinking more critically about software design and user experience. 
 
 ### Write, Write, and Write... 
 
-From week 9 onward, it’s all about writing — and thankfully, not the dissertation kind. The vignette pages for all other tidy pages are phenomenal: clear, concise, and accessible. That sets the tone and adds a bit of pressure to deliver my best. 
+From week 9 onward, it’s all about writing, and thankfully, *not* the dissertation kind. The vignette pages for all other tidy pages are phenomenal: clear, concise, and accessible. That sets the tone and adds a bit of pressure to deliver my best. 
 
 It also feels like just a blink from developing, refactoring, and deploying the package to now writing documentation, demos, and tutorials. But at the very least, the package website for {filtro} is up running! 
 
