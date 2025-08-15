@@ -1,7 +1,7 @@
 ---
 title: "Dev, data, deploy — summer vibes, Posit style"
 subtitle: "My 2025 summer internship experience at Posit"
-date: "08/14/2025"
+date: "08/15/2025"
 toc: true
 toc-expand: true
 image: "ml.jpg"
@@ -31,7 +31,7 @@ I also enjoyed the weekly tidymodels meetings with Max, Emil, Hannah, and Simon.
 
 [Insert the hex sticker here.]
 
-As mentioned earlier, I primarily worked on {filtro}, an R package for filter-based supervised feature selection. Feature selection is important because it helps models focus on what really matters, reducing noise, speeding up computation, and improving accuracy and interpretability. 
+As mentioned earlier, I primarily worked on {filtro}, an R package for filter-based supervised feature selection. Feature selection is important because it helps models focus on what really matters, reducing noise, speeding up computation, and improving performance and interpretability. 
 
 At its core, the package allows users to compute and rank feature relevance, then select the most important features based on these scores. If you are interested, you can read more about it [here](https://filtro.tidymodels.org/dev/). 
 
@@ -40,19 +40,21 @@ At its core, the package allows users to compute and rank feature relevance, the
 
 *work zone*
 
-{tidymodels} supports the full modeling workflow, from preprocessing, model evaluation to postprocessing and prediction. {filtro} fits into the preprocessing step. 
+{tidymodels} supports the full modeling workflow, from preprocessing and optimization to evaluation, postprocessing, and prediction. {filtro} fits into the preprocessing and optimization step. 
 
 [Add situations when to choose tidymodels over scikit-learn.]
 
 *work zone*
 
+> In a rush? [Jump to the End](#onward-upward).
+
+> Still reading? Stay for Behind the Scenes.
+
 ## Behind the Scenes
 
 ### PR #1: All the Things, All at Once
 
-My first 2 weeks at Posit were packed with learning and collaboration. I had daily meetings with Max and Emil. Max brings deep expertise in modeling, machine learning and software design, and Emil is highly knowledgeable about software development, from Positron (a VS Code–like IDE) and R's S3 object-oriented programming (OOP), to Posit's developer tools, Git and GitHub Actions CI/CD (nasty stuff!) [^Hannah]. 
-
-[^Hannah]: I later realized that Hannah excels at PRs, unit tests, and software design best practices, and I learned a lot from her as well! 
+My first 2 weeks at Posit were packed with learning and collaboration. Max brings deep expertise in modeling, machine learning and software design, and Emil is highly knowledgeable about software development, from Positron (a VS Code–like IDE) and R's S3 object-oriented programming (OOP), to Posit's developer tools, Git and GitHub Actions CI/CD. I later realized that Hannah excels at PRs, unit tests, and software design best practices, and I learned a lot from her as well! 
 
 One important lesson from Max is that, while it is tempting to jump straight into coding, it’s *far* more important to step back and think through the software design — often, the real challenge lies in the methodology, not the implementation. Meanwhile, Emil and I did some pair programming, which led to two valuable learning sessions from him:
 
@@ -101,14 +103,25 @@ From week 9 onward, it’s all about writing, and thankfully, *not* the disserta
 
 It also feels like just a blink from developing, refactoring, and deploying the package to now writing documentation, demos, and tutorials. But at the very least, the package website for {filtro} is up running! 
 
-## Onward & Upward
+## Onward & Upward {#onward-upward}
 
 *work zone*
 
+There are still two weeks left in my internship, but there’s still quite a bit left to do:
+
+For {filter}:
+
+- Simplify the constructor by removing unused fields and refine documentation
+- Update the CRAN version to match the development version
+
+For {important}:
+
+- Along with Emil, prepare for {important} CRAN submission
+
 *work zone*
 
 
-A huge THANK YOU to everyone at Posit for an invaluable experience! 
+A big THANK YOU to everyone at Posit for an invaluable experience! 
 
 Special thanks to Max, Emil, Hannah, Simon, and Hadley for their guidance, support, and inspiration throughout this journey.
 
