@@ -111,12 +111,14 @@ There are still two weeks left in my internship, but there’s still quite a bit
 
 For {filter}:
 
-- Simplify the constructor by removing unused fields and refine documentation
-- Update the CRAN version to match the development version
+- Refining documentation and writing tidymodels developer post
+- Updating the CRAN version to match the development version
 
-For {important}:
+For {important} [^important]:
 
-- Along with Emil, prepare for {important} CRAN submission
+- Along with Emil, working on {important} (?)
+
+[^important]: I thought Max did a great job coming up with this name! 
 
 *work zone*
 
