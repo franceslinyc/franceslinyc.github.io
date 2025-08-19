@@ -27,9 +27,7 @@ I also enjoyed the weekly tidymodels meetings with Max, Emil, Hannah, and Simon.
 
 ## The Journey So Far
 
-### filtro 
-
-[Insert the hex sticker here.]
+### filtro <a href='https://filtro.tidymodels.org/dev/'><img src='logo.png' align="right" height="139" /></a>
 
 As mentioned earlier, I primarily worked on {filtro}, an R package for filter-based supervised feature selection. Feature selection is important because it helps models focus on what really matters, reducing noise, speeding up computation, and improving performance and interpretability. 
 
