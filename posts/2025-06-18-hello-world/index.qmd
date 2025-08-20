@@ -70,7 +70,7 @@ So here I am, pretty much glued to the *Advanced R* by Hadley and *R Packages* b
 
 ### A Turning Point
 
-Week 5 began with a meeting between Max and Hadley to discuss the API design for the {desirability2} package, the package that powers {filtro} for multiparameter optimization. During the discussion, Hadley demonstrated some code using S7 [^S7] and suggested incorporating it. 😱 At the time, it felt like a dauting task, and I was both thrilled and frightened — thrilled to meet him, yet nervous about living up to expectations!
+Week 5 began with a meeting between Max and Hadley to discuss the API design for the {desirability2} package, the package that powers {filtro} for multiparameter optimization. During the discussion, Hadley demonstrated some code using S7 [^S7] and suggested incorporating it. 😱 At the time, it felt like a daunting task, and I was both thrilled and frightened — thrilled to meet him, yet nervous about living up to expectations!
 
 [^S7]: S7: a new OO system for R [https://rconsortium.github.io/S7/](https://rconsortium.github.io/S7/).
 
