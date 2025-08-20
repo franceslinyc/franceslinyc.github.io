@@ -40,7 +40,7 @@ At its core, the package allows users to compute and rank feature relevance, the
 
 {tidymodels} supports the full modeling workflow, from preprocessing and optimization to evaluation, postprocessing, and prediction. {filtro} fits into the preprocessing and optimization step. 
 
-[Add situations when to choose tidymodels over scikit-learn.]
+[Add situations when to choose tidymodels over scikit-learn.] If you are interested, you can read more about it [here](https://www.tidymodels.org/packages/). 
 
 *work zone*
 
