@@ -53,7 +53,7 @@
     "href": "posts/index.html",
     "title": "Posts",
     "section": "",
-    "text": "Dev, data, deploy — summer vibes, Posit style\n\n\nMy 2025 summer internship experience at Posit\n\n\n\n\n\n\n\n\nAug 20, 2025\n\n\n\n\n\nNo matching items"
+    "text": "Dev, data, deploy — summer vibes, Posit style\n\n\nMy 2025 summer internship experience at Posit\n\n\n\n\n\n\n\n\nAug 21, 2025\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "posts/2025-06-18-hello-world/index.html",
@@ -200,7 +200,7 @@
     "href": "posts/2025-08-20-posit-internship/index.html",
     "title": "Dev, data, deploy — summer vibes, Posit style",
     "section": "",
-    "text": "⚠️ work-in-progress\nThis summer, I worked at Posit (formerly RStudio), focusing on machine learning and software development as part of the tidymodels team. I primarily worked on {filtro}, an R package for filter-based supervised feature selection.\nMy team at tidymodels is responsible for the creation and maintenance of the {tidymodels} 1 framework, a collection of R packages for modeling and machine learning. It is similar in scope and purpose to {scikit-learn} in Python."
+    "text": "This summer, I worked at Posit (formerly RStudio), focusing on machine learning and software development as part of the tidymodels team. I primarily worked on {filtro}, an R package for filter-based supervised feature selection.\nMy team at tidymodels is responsible for the creation and maintenance of the {tidymodels} 1 framework, a collection of R packages for modeling and machine learning. It is similar in scope and purpose to {scikit-learn} in Python."
   },
   {
     "objectID": "posts/2025-08-20-posit-internship/index.html#the-perks-of-being-a-posit-intern",
@@ -214,7 +214,7 @@
     "href": "posts/2025-08-20-posit-internship/index.html#the-journey-so-far",
     "title": "Dev, data, deploy — summer vibes, Posit style",
     "section": "The Journey So Far",
-    "text": "The Journey So Far\n\nfiltro\n\nAs mentioned earlier, I primarily worked on {filtro}, an R package for filter-based supervised feature selection. Feature selection is important because it helps models prioritize the most relevant information, reducing noise, speeding up computation, and improving performance and interpretability.\nAt its core, the package allows users to compute and rank feature relevance, then select the most important features based on these scores. It also supports multiparameter optimization, enabling users to optimize multiple scores at once. If you want to learn more about {filtro}, check it out here.\n\n\ntidymodels\n{tidymodels} supports the full modeling workflow, from preprocessing and optimization to evaluation, postprocessing, and prediction. {filtro} fits into the preprocessing and optimization step. It is just one of several packages available, with others complementing different steps of the workflow.\nBut, why {tidymodels} instead of {scikit-learn}? If you want Python’s flexibility and a vast ML ecosystem, {scikit-learn} is an excellent choice. But if you prefer R’s syntax, value structured modeling workflows, and appreciate tools designed by statisticians and data scientists who were setting best practices long before “machine learning” became a buzzword, {tidymodels} may be the better fit. If you want to learn more about {tidymodels}, check it out here.\n\nIn a rush? Jump to the End.\n\n\nStill reading? Stay for Behind the Scenes."
+    "text": "The Journey So Far\n\nfiltro\n\nAs mentioned earlier, I primarily worked on {filtro}, an R package for filter-based supervised feature selection. Feature selection is important because it helps models prioritize the most relevant information, reducing noise, speeding up computation, and improving performance and interpretability.\nAt its core, the package allows users to compute and rank feature relevance, then select the most important features based on these scores. It also supports multiparameter optimization, enabling users to optimize multiple scores at once. If you want to learn more about {filtro}, check it out here.\n\n\ntidymodels\n{tidymodels} supports the full modeling workflow, from preprocessing and optimization to evaluation, postprocessing, and prediction. {filtro} fits into the preprocessing and optimization step. It is just one of several packages available, with others complementing different steps of the workflow.\nBut, why {tidymodels} instead of {scikit-learn}? I’ve found myself drawn to {scikit-learn} because of Python’s flexibility and its vast machine learning ecosystem, and since I already work with {pytorch}. At the same time, I really appreciate {tidymodels} when I’m working in R. Its syntax feels natural, the workflows are well-structured, and it reflects the kind of thoughtful design that statisticians and data scientists had been shaping long before “machine learning” became a buzzword. If you want to learn more about {tidymodels}, check it out here.\n\nIn a rush? Jump to the End.\n\n\nStill reading? Stay for Behind the Scenes."
   },
   {
     "objectID": "posts/2025-08-20-posit-internship/index.html#behind-the-scenes",
@@ -228,7 +228,7 @@
     "href": "posts/2025-08-20-posit-internship/index.html#onward-upward",
     "title": "Dev, data, deploy — summer vibes, Posit style",
     "section": "Onward & Upward",
-    "text": "Onward & Upward\nAs of August 15, 2025, I have two weeks left in my internship, but there’s still quite a bit left to do:\nFor {filter}:\n\nRefining documentation and writing a tidymodels developer post\nUpdating the CRAN version to match the development version\n\nFor {important} 9:\n\nWorking with Max and Emil to develop the receipt steps\n\nAnd of course:\n\nFinalizing this very post about my internship 😀\n\nI look forward to wrapping up these projects and seeing them contribute to the broader tidymodels ecosystem.\nA big thank you to everyone at Posit for an invaluable experience, and special thanks to Max, Emil, Hannah, Simon, and Hadley for their guidance, support, and inspiration throughout this journey."
+    "text": "Onward & Upward\nAs I draft this, I have two weeks left in my internship, but there’s still quite a bit left to do:\nFor {filter}:\n\nRefining documentation and writing a tidymodels developer post\nUpdating the CRAN version to match the development version\n\nFor {important} 9:\n\nWorking with Max and Emil to develop the receipt steps\n\nAnd of course:\n\nFinalizing this very post about my internship 😀\n\nI look forward to wrapping up these projects and seeing them contribute to the broader tidymodels ecosystem.\nA big thank you to everyone at Posit for an invaluable experience, and special thanks to Max, Emil, Hannah, Simon, and Hadley for their guidance, support, and inspiration throughout this journey."
   },
   {
     "objectID": "posts/2025-08-20-posit-internship/index.html#footnotes",

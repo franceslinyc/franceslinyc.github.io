@@ -1,13 +1,11 @@
 ---
 title: "Dev, data, deploy — summer vibes, Posit style"
 subtitle: "My 2025 summer internship experience at Posit"
-date: "08/20/2025"
+date: "08/21/2025"
 toc: true
 toc-expand: true
 image: "ml.jpg"
 ---
-
-> ⚠️ **work-in-progress**
 
 This summer, I worked at Posit (formerly RStudio), focusing on machine learning and software development as part of the tidymodels team. I primarily worked on {filtro}, an R package for filter-based supervised feature selection. 
 
@@ -40,7 +38,7 @@ At its core, the package allows users to compute and rank feature relevance, the
 
 {tidymodels} supports the full modeling workflow, from preprocessing and optimization to evaluation, postprocessing, and prediction. {filtro} fits into the preprocessing and optimization step. It is just one of several packages available, with others complementing different steps of the workflow.
 
-But, why {tidymodels} instead of {scikit-learn}? If you want Python’s flexibility and a vast ML ecosystem, {scikit-learn} is an excellent choice. But if you prefer R’s syntax, value structured modeling workflows, and appreciate tools designed by statisticians and data scientists who were setting best practices long before "machine learning" became a buzzword, {tidymodels} may be the better fit. If you want to learn more about {tidymodels}, check it out [here](https://www.tidymodels.org/packages/). 
+But, why {tidymodels} instead of {scikit-learn}? I’ve found myself drawn to {scikit-learn} because of Python’s flexibility and its vast machine learning ecosystem, and since I already work with {pytorch}. At the same time, I really appreciate {tidymodels} when I’m working in R. Its syntax feels natural, the workflows are well-structured, and it reflects the kind of thoughtful design that statisticians and data scientists had been shaping long before "machine learning" became a buzzword. If you want to learn more about {tidymodels}, check it out [here](https://www.tidymodels.org/packages/). 
 
 > In a rush? [Jump to the End](#onward-upward).
 
@@ -102,7 +100,7 @@ It also feels like just a blink from developing, refactoring, and deploying the 
 
 ## Onward & Upward {#onward-upward}
 
-As of August 15, 2025, I have two weeks left in my internship, but there’s still quite a bit left to do:
+As I draft this, I have two weeks left in my internship, but there’s still quite a bit left to do:
 
 For {filter}:
 
