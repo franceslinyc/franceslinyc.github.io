@@ -1,7 +1,7 @@
 ---
 title: "Dev, data, deploy — summer vibes, Posit style"
 subtitle: "My 2025 summer internship experience at Posit"
-date: "08/21/2025"
+date: "08/20/2025"
 toc: true
 toc-expand: true
 image: "ml.jpg"
