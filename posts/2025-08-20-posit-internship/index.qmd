@@ -15,10 +15,10 @@ My team at tidymodels is responsible for the creation and maintenance of the {ti
 
 Over the summer, I contributed to: 
 
-- Developing and releasing [filtro](https://filtro.tidymodels.org/dev/), a feature selection package for predictive modeling and ML within the [tidymodels](https://www.tidymodels.org) framework
-- Writing unit tests and handling Git workflows and GitHub CI/CD pipelines, gaining exposure to CRAN submissions
+- Developing and releasing [filtro](https://filtro.tidymodels.org/dev/), a feature selection package for predictive modeling and ML within the [tidymodels](https://www.tidymodels.org) framework.
+- Writing unit tests and handling Git workflows and GitHub CI/CD pipelines, gaining exposure to CRAN submissions.
 - Participating in tidy team and tidymodels meetings, gaining insight into collaborative development, code review, and open-source workflows
-- Connecting with others and learning across Posit [^jules]
+- Connecting with others and learning across Posit. [^jules]
 
 [^jules]: I owe Jules, the other intern, the idea to start this summary with bullet points.
 
@@ -111,22 +111,22 @@ As I write this, I have two weeks left in my internship, but there’s still qui
 
 For {filtro}:
 
-- Refining documentation and writing a tidymodels developer post 
-- Updating the CRAN version to match the development version
-- Fixing bugs and reviewing PRs for enhancements and new features
+- Refining documentation and writing a tidymodels developer post. 
+- Updating the CRAN version to match the development version.
+- Fixing bugs and reviewing PRs for enhancements and new features.
 
 For {important} [^important]:
 
-- Working with Max and Emil to develop the receipt steps 
+- Working with Max and Emil to develop the receipt steps. 
 
 [^important]: I thought Max did a great job coming up with this name! 
 
 And of course:
 
-- Finalizing this very post about my internship 😀
+- Finalizing this very post about my internship. 😀
 
 I look forward to wrapping up these projects and seeing them contribute to the broader tidymodels ecosystem. 
 
 A big thank you to everyone at Posit for an invaluable experience, and special thanks to Max, Emil, Hannah, Simon, and Hadley for their guidance, support, and inspiration throughout this journey.
 
-Thanks for reading this, and I am happy to connect!
+Thanks for reading this, and happy to connect!
