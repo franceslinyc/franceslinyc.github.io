@@ -13,12 +13,12 @@ My team at tidymodels is responsible for the creation and maintenance of the {ti
 
 [^tidymodels]: tidymodels [https://www.tidymodels.org](https://www.tidymodels.org). 
 
-Over the summer, I contributed to: [^jules]
+Over the summer, I contributed to: 
 
-- Developing and releasing [filtro](https://filtro.tidymodels.org/dev/), a feature selection package for predictive modeling and machine learning within the [tidymodels](https://www.tidymodels.org) framework.
-- Writing unit tests and handling Git workflows and GitHub CI/CD pipelines, gaining exposure to CRAN submissions.
-- Participating in tidy team and tidymodels meetings, gaining insight into collaborative development, code review, and open-source workflows.
-- Connecting with others and learning across Posit.
+- Developing and releasing [filtro](https://filtro.tidymodels.org/dev/), a feature selection package for predictive modeling and ML within the [tidymodels](https://www.tidymodels.org) framework
+- Writing unit tests and handling Git workflows and GitHub CI/CD pipelines, gaining exposure to CRAN submissions
+- Participating in tidy team and tidymodels meetings, gaining insight into collaborative development, code review, and open-source workflows
+- Connecting with others and learning across Posit [^jules]
 
 [^jules]: I owe Jules, the other intern, the idea to start this summary with bullet points.
 
@@ -47,7 +47,7 @@ At its core, the package allows users to compute and rank feature relevance, the
 
 {tidymodels} supports the full modeling workflow, from preprocessing and optimization to evaluation, postprocessing, and prediction. {filtro} fits into the preprocessing and optimization step. It is just one of several packages available, with others complementing different steps of the workflow.
 
-But, why {tidymodels} instead of {scikit-learn}? I’ve found myself drawn to {scikit-learn} because of Python’s flexibility and its vast machine learning ecosystem, and since I already work with {pytorch}. At the same time, I really appreciate {tidymodels} when I’m working in R. Its syntax feels natural, the workflows are well-structured, and it reflects the kind of thoughtful design that statisticians and data scientists had been shaping long before "machine learning" became a buzzword. If you want to learn more about {tidymodels}, check it out [here](https://www.tidymodels.org/packages/). 
+But, why {tidymodels} instead of {scikit-learn}? I’ve found myself drawn to {scikit-learn} because of Python’s vast machine learning ecosystem, and since I already work with {pytorch}. At the same time, I really appreciate {tidymodels} when I’m working in R. Its syntax feels natural, the workflows are well-structured, and it reflects the kind of statistical rigor and thoughtful design that statisticians and data scientists had been shaping long before "machine learning" became a buzzword. If you want to learn more about {tidymodels}, check it out [here](https://www.tidymodels.org/packages/). 
 
 > In a rush? [Jump to the End](#onward-upward).
 
@@ -89,9 +89,7 @@ To cap off an exciting week, Emil and I prepared and submitted {filtro} [^filtro
 
 ### CRAN Horror Story to Acceptance and Dual Branches
 
-After resubmitting for minor errors, the reviewer sent a vague revision request with no details, leaving me in the dark [^dark]. Following advice from Max and Emil, I replied back for clarification, and shortly after received an apology along with the great news that {filtro} is now on CRAN. 🚀 
-
-[^dark]: I had this unrealistic view of the reviewer as some strict gatekeeper lurking in the shadows, always ready to reject. 
+After resubmitting for minor errors, the reviewer sent a vague revision request with no details, leaving me in the dark. (I had this unrealistic view of the reviewer as some strict gatekeeper lurking in the shadows, always ready to reject.) Following advice from Max and Emil, I replied back for clarification, and shortly after received an apology along with the great news that {filtro} is now on CRAN. 🚀 
 
 The S3 branch was now on CRAN, while the S7 branch lived on as the development version, with many branches ahead in features and updates. In practice, though, I was juggling multiple branches, as I got used to merging, resolving conflicts, and navigating real-world Git and GitHub workflows, though I still find CI/CD concepts a bit abstract and challenging. 
 
@@ -113,9 +111,9 @@ As I write this, I have two weeks left in my internship, but there’s still qui
 
 For {filtro}:
 
-- Refining documentation and writing a tidymodels developer post [Add a link here.]
+- Refining documentation and writing a tidymodels developer post 
 - Updating the CRAN version to match the development version
-- Fixing bugs and submitting/reviewing PRs for enhancements and new features
+- Fixing bugs and reviewing PRs for enhancements and new features
 
 For {important} [^important]:
 
@@ -131,4 +129,4 @@ I look forward to wrapping up these projects and seeing them contribute to the b
 
 A big thank you to everyone at Posit for an invaluable experience, and special thanks to Max, Emil, Hannah, Simon, and Hadley for their guidance, support, and inspiration throughout this journey.
 
-Thanks for reading, and happy to connect!
+Thanks for reading this, and I am happy to connect!
