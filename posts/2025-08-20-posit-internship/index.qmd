@@ -109,12 +109,13 @@ It also feels like just a blink from developing, refactoring, and deploying the 
 
 ## Onward & Upward {#onward-upward}
 
-As I draft this, I have two weeks left in my internship, but there’s still quite a bit left to do:
+As I write this, I have two weeks left in my internship, but there’s still quite a bit left to do:
 
 For {filtro}:
 
-- Refining documentation and writing a tidymodels developer post
+- Refining documentation and writing a tidymodels developer post [Add a link here.]
 - Updating the CRAN version to match the development version
+- Fixing bugs and submitting/reviewing PRs for enhancements and new features
 
 For {important} [^important]:
 
@@ -130,3 +131,4 @@ I look forward to wrapping up these projects and seeing them contribute to the b
 
 A big thank you to everyone at Posit for an invaluable experience, and special thanks to Max, Emil, Hannah, Simon, and Hadley for their guidance, support, and inspiration throughout this journey.
 
+Thanks for reading, and happy to connect!
