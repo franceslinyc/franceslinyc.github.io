@@ -71,7 +71,7 @@ One important lesson from Max is that, while it is tempting to jump straight int
 
 Prior to this internship, I had little to no prior experience with R's S3 OOP system. This is because while Xiaotian’s {mtd} [^mtd] package is quite well-organized, it makes minimal use of OOP — though I would argue in defense that the most challenging aspect of extending {mtd} lies more in model development than in software engineering. 
 
-So here I am, pretty much glued to the *Advanced R* by Hadley and *R Packages* books by Hadley and Jenny, while poking around {dials}, {yardstick}, {tune} and a few other packages through weeks 1 to 4 to level up my S3 OOP game. 
+So here I am, pretty much glued to the *Advanced R* by Hadley and *R Packages* books by Hadley and Jenny, while poking around {dials}, {yardstick}, {tune} and a few other packages through weeks 1 to 4 to level up my S3 OOP game. (I also glued to *Tidy Modeling with R* and *Applied Predictive Modeling*, both authored by Max with other co-authors, but for other reason.) 
 
 [^mtd]: This is the package I build upon in my PhD dissertation. See Xiaotian's package at [https://github.com/xzheng42/mtd](https://github.com/xzheng42/mtd). My extended version will be available on GitHub in late December or later. 🤞
 
