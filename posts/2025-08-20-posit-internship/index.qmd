@@ -13,6 +13,12 @@ My team at tidymodels is responsible for the creation and maintenance of the {ti
 
 [^tidymodels]: tidymodels [https://www.tidymodels.org](https://www.tidymodels.org). 
 
+Over the summer, I contributed to:
+
+- Developing and releasing [filtro](https://filtro.tidymodels.org/dev/), a feature selection package for predictive modeling and machine learning within the [tidymodels](https://www.tidymodels.org) framework.
+- Writing unit tests and handling Git workflows and GitHub CI/CD pipelines, gaining exposure to CRAN submissions.
+- Participating in tidy team and tidymodels meetings, gaining insight into collaborative development, code review, and open-source workflows.
+
 ## The Perks of Being a Posit Intern
 
 Though the internship was entirely remote, I had the pleasure of meeting Jules, the other intern on the Python team, as well as engineers based in Europe and across the U.S. They were all very friendly and generous with tips and guidance.
@@ -102,7 +108,7 @@ It also feels like just a blink from developing, refactoring, and deploying the 
 
 As I draft this, I have two weeks left in my internship, but there’s still quite a bit left to do:
 
-For {filter}:
+For {filtro}:
 
 - Refining documentation and writing a tidymodels developer post
 - Updating the CRAN version to match the development version

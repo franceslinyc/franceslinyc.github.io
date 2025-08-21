@@ -200,7 +200,7 @@
     "href": "posts/2025-08-20-posit-internship/index.html",
     "title": "Dev, data, deploy — summer vibes, Posit style",
     "section": "",
-    "text": "This summer, I worked at Posit (formerly RStudio), focusing on machine learning and software development as part of the tidymodels team. I primarily worked on {filtro}, an R package for filter-based supervised feature selection.\nMy team at tidymodels is responsible for the creation and maintenance of the {tidymodels} 1 framework, a collection of R packages for modeling and machine learning. It is similar in scope and purpose to {scikit-learn} in Python."
+    "text": "This summer, I worked at Posit (formerly RStudio), focusing on machine learning and software development as part of the tidymodels team. I primarily worked on {filtro}, an R package for filter-based supervised feature selection.\nMy team at tidymodels is responsible for the creation and maintenance of the {tidymodels} 1 framework, a collection of R packages for modeling and machine learning. It is similar in scope and purpose to {scikit-learn} in Python.\nOver the summer, I contributed to:"
   },
   {
     "objectID": "posts/2025-08-20-posit-internship/index.html#the-perks-of-being-a-posit-intern",
@@ -228,7 +228,7 @@
     "href": "posts/2025-08-20-posit-internship/index.html#onward-upward",
     "title": "Dev, data, deploy — summer vibes, Posit style",
     "section": "Onward & Upward",
-    "text": "Onward & Upward\nAs I draft this, I have two weeks left in my internship, but there’s still quite a bit left to do:\nFor {filter}:\n\nRefining documentation and writing a tidymodels developer post\nUpdating the CRAN version to match the development version\n\nFor {important} 9:\n\nWorking with Max and Emil to develop the receipt steps\n\nAnd of course:\n\nFinalizing this very post about my internship 😀\n\nI look forward to wrapping up these projects and seeing them contribute to the broader tidymodels ecosystem.\nA big thank you to everyone at Posit for an invaluable experience, and special thanks to Max, Emil, Hannah, Simon, and Hadley for their guidance, support, and inspiration throughout this journey."
+    "text": "Onward & Upward\nAs I draft this, I have two weeks left in my internship, but there’s still quite a bit left to do:\nFor {filtro}:\n\nRefining documentation and writing a tidymodels developer post\nUpdating the CRAN version to match the development version\n\nFor {important} 9:\n\nWorking with Max and Emil to develop the receipt steps\n\nAnd of course:\n\nFinalizing this very post about my internship 😀\n\nI look forward to wrapping up these projects and seeing them contribute to the broader tidymodels ecosystem.\nA big thank you to everyone at Posit for an invaluable experience, and special thanks to Max, Emil, Hannah, Simon, and Hadley for their guidance, support, and inspiration throughout this journey."
   },
   {
     "objectID": "posts/2025-08-20-posit-internship/index.html#footnotes",
