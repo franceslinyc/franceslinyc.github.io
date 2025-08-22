@@ -15,10 +15,10 @@ My team at tidymodels is responsible for the creation and maintenance of the {ti
 
 Over the summer, I contributed to: 
 
-- Developing and releasing [filtro](https://filtro.tidymodels.org/dev/), a feature selection package for predictive modeling and ML within the [tidymodels](https://www.tidymodels.org) framework
-- Writing unit tests and handling Git workflows and GitHub CI/CD pipelines, gaining exposure to CRAN submissions
-- Participating in tidy team and tidymodels meetings, gaining insight into collaborative development, code review, and open-source workflows
-- Connecting with others and learning across Posit. [^jules]
+- Developing and releasing [filtro](https://filtro.tidymodels.org/dev/), a feature selection package for predictive modeling and ML within the [tidymodels](https://www.tidymodels.org) framework.
+- Writing unit tests, managing Git and GitHub CI/CD, and submitting to CRAN.
+- Joining tidy team and tidymodels meetings, gaining insight into collaborative development, code review, and open-source workflows.
+- Building connections and learning across Posit. [^jules]
 
 [^jules]: I owe Jules, the other intern, the idea to start this summary with bullet points.
 
@@ -111,8 +111,8 @@ As I write this, I have two weeks left in my internship, but there’s still qui
 
 For {filtro}:
 
-- Refining documentation and writing a tidymodels developer post 
-- Updating the CRAN version to match the development version
+- Refining documentation and writing a tidymodels developer post. 
+- Updating the CRAN version to match the development version.
 - Fixing bugs and reviewing PRs for enhancements and new features.
 
 For {important} [^important]:
@@ -129,4 +129,4 @@ I look forward to wrapping up these projects and seeing them contribute to the b
 
 A big thank you to everyone at Posit for an invaluable experience, and special thanks to Max, Emil, Hannah, Simon, and Hadley for their guidance, support, and inspiration throughout this journey.
 
-Thanks for reading this, and happy to connect!
+Thanks for reading this too, and happy to connect!
