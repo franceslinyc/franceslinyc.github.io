@@ -46,14 +46,14 @@
     "href": "index.html",
     "title": "Frances Lin",
     "section": "",
-    "text": "📣 Seeking opportunities in data science, machine learning, or AI roles starting in December 2025 or later!\n\nI am a PhD candidate in Statistics at Oregon State University. I am currently a Software Engineer Intern at Posit Software, PBC (formerly RStudio, Inc).\nOutside of work, I enjoy skiing, traveling, being outdoors, and watching thriller or dark comedy films and series on Netflix."
+    "text": "📣 Seeking opportunities in data science, machine learning, or AI roles starting in December 2025 or later!\n\nI am a PhD candidate in Statistics at Oregon State University. I am currently a Software Engineer Intern at Posit, PBC (formerly RStudio, Inc).\nOutside of work, I enjoy skiing, traveling, being outdoors, and watching thriller or dark comedy films and series on Netflix."
   },
   {
     "objectID": "posts/index.html",
     "href": "posts/index.html",
     "title": "Posts",
     "section": "",
-    "text": "Dev, data, deploy — summer vibes, Posit style\n\n\nMy 2025 summer internship experience at Posit\n\n\n\n\n\n\n\n\nAug 20, 2025\n\n\n\n\n\nNo matching items"
+    "text": "Dev, data, deploy — summer vibes, Posit style\n\n\nMy 2025 summer internship experience at Posit\n\n\n\n\n\n\n\n\nAug 20, 2025\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "posts/2025-06-18-hello-world/index.html",
@@ -88,7 +88,7 @@
     "href": "about.html",
     "title": "About",
     "section": "",
-    "text": "Thanks for visiting my site!\nI am a PhD candidate in Statistics at Oregon State University. Broadly speaking, my research interests lie in\nfor large and complex time series data, with applications to energy forecasting and claims prediction. My other interests include deep learning and its more flexible and explainable probabilistic variant models (e.g., deep Gaussian processes, deep Gaussian Markov Random Fields) for space and space-time modeling."
+    "text": "Thanks for visiting my site!\nI am a PhD candidate in Statistics at Oregon State University. Broadly speaking, my research interests lie in\nfor complex (1-D) time series modeling, with applications to energy forecasting and claims prediction. My other interests include deep learning and its more flexible and explainable probabilistic variant models (e.g., deep Gaussian processes, deep Gaussian Markov Random Fields) for (2-D) space and (3-D) space-time modeling."
   },
   {
     "objectID": "portfolio/index.html",
@@ -102,7 +102,7 @@
     "href": "about.html#phd",
     "title": "About",
     "section": "PhD",
-    "text": "PhD\nFor my PhD dissertation, advised by Dr. Lisa Madsen and Dr. Charlotte Wickham (now at Posit Software, PBC), I focus on the Markov MTD (Mixture Transition Distribution) models and the Bayesian NNMP (Nearest-Neighbor Mixture Process) models for time series forecasting and spatial prediction, as developed by Zheng et al. and presented in [1], [2], and [3]. To achieve flexible and scalable modeling of time series and spatial data, both the MTD and NNMP models utilize probabilistic graphical model (DAG or Bayesian network) representations, finite mixture model structures, Bayesian hierarchical model formations, and MCMC algorithms.\nMy specific contributions include incorporating the copulas in the MTD model to capture more complex dependence structures; extending the MTD model to handle zero-inflated positively-skewed data; validating the proposed models and assessing model performance through simulations and real-world data applications; developing a software package for the proposed models (using R, C++); and comparing the proposed models with other benchmark approaches, such as LSTM (Long Short-Term Memory) networks (using PyTorch)."
+    "text": "PhD\nFor my PhD dissertation, advised by Dr. Lisa Madsen and Dr. Charlotte Wickham (now at Posit, PBC), I focus on the Markov MTD (Mixture Transition Distribution) models and the Bayesian NNMP (Nearest-Neighbor Mixture Process) models for time series forecasting and spatial prediction, as developed by Zheng et al. and presented in [1], [2], and [3]. To achieve flexible and scalable modeling of time series and spatial data, both the MTD and NNMP models utilize probabilistic graphical model (DAG or Bayesian network) representations, finite mixture model structures, Bayesian hierarchical model formations, and MCMC algorithms.\nMy specific contributions include incorporating the copulas in the MTD model to capture more complex dependence structures; extending the MTD model to handle zero-inflated positively-skewed data; validating the proposed models and assessing model performance through simulations and real-world data applications; developing a software package for the proposed models (using R, C++); and comparing the proposed models with other benchmark approaches, such as LSTM (Long Short-Term Memory) networks (using PyTorch)."
   },
   {
     "objectID": "about.html#masters",
@@ -236,5 +236,12 @@
     "title": "Dev, data, deploy — summer vibes, Posit style",
     "section": "Footnotes",
     "text": "Footnotes\n\n\ntidymodels https://www.tidymodels.org.↩︎\nI owe Jules, the other intern, the idea to start this summary with bullet points.↩︎\nSome of the most useful developer tools we used daily, such as {devtools}, {usethis}, {testthat}, and {rlang}, were all developed by the r-lib team https://github.com/r-lib.↩︎\nI want to thank my co-advisor, Charlotte, for encouraging me to write and organize my dissertation using Positron. But, it wasn’t until this internship that I unlocked its full potential for software development and Git integration, though it was also Charlotte who helped me get this internship. 🤩↩︎\nThis is the package I build upon in my PhD dissertation. See Xiaotian’s package at https://github.com/xzheng42/mtd. My extended version will be available on GitHub in late December or later. 🤞↩︎\nS7: a new OO system for R https://rconsortium.github.io/S7/.↩︎\nWe’ve considered names like {filter}, {filters}, {filtrr}, {flitrrr}, and {filtron}, but unfortunately, most of them are already taken.↩︎\nComprehensive R Archive Network https://cran.r-project.org.↩︎\nI thought Max did a great job coming up with this name!↩︎"
+  },
+  {
+    "objectID": "experience.html#posit-pbc-formerly-rstudio-inc",
+    "href": "experience.html#posit-pbc-formerly-rstudio-inc",
+    "title": "Experience",
+    "section": "",
+    "text": "June 2025 – Present"
   }
 ]
