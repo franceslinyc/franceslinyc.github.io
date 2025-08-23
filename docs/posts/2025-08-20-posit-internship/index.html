@@ -186,14 +186,14 @@ ul.task-list li input[type="checkbox"] {
 <p>Over the summer, I contributed to:</p>
 <ul>
 <li>Developing and releasing <a href="https://filtro.tidymodels.org/dev/">filtro</a>, a feature selection package for predictive modeling and ML within the <a href="https://www.tidymodels.org">tidymodels</a> framework.</li>
-<li>Writing unit tests, managing Git and GitHub CI/CD, and submitting to CRAN.</li>
+<li>Writing unit tests, managing Git and GitHub CI/CD, and CRAN submissions.</li>
 <li>Joining tidy team and tidymodels meetings, gaining insight into collaborative development, code review, and open-source workflows.</li>
 <li>Building connections and learning across Posit. <a href="#fn2" class="footnote-ref" id="fnref2" role="doc-noteref"><sup>2</sup></a></li>
 </ul>
 <section id="the-perks-of-being-a-posit-intern" class="level2">
 <h2 class="anchored" data-anchor-id="the-perks-of-being-a-posit-intern">The Perks of Being a Posit Intern</h2>
 <p>Though the internship was entirely remote, I had the pleasure of meeting Jules, the other intern on the Python open-source team, as well as engineers based in Europe and across the U.S. They were all very friendly and generous with tips and guidance.</p>
-<p>The most exciting though initially intimidating experience was the monthly tidyteam meeting, where the tidyverse, tidymodels, and r-lib <a href="#fn3" class="footnote-ref" id="fnref3" role="doc-noteref"><sup>3</sup></a> teams all gathered on Zoom once a month. It felt like seeing all the idols at Posit all at once!</p>
+<p>The most exciting though initially intimidating experience was the monthly tidy team meetings, where the tidyverse, tidymodels, and r-lib <a href="#fn3" class="footnote-ref" id="fnref3" role="doc-noteref"><sup>3</sup></a> teams all gathered on Zoom once a month. It felt like seeing all the idols at Posit all at once!</p>
 <p>I also enjoyed the weekly tidymodels meetings with Max, Emil, Hannah, and Simon. The depth of the team’s <em>many</em> packages could be <em>a lot</em> to absorb at times, but it offered a glimpse into collaborative software development, the challenges of managing a large ecosystem, and effective communication in open-source environment. Plus, Simon’s work on AI assistance through LLM integration (RAG) was always refreshing to hear.</p>
 </section>
 <section id="the-journey-so-far" class="level2">
@@ -207,7 +207,7 @@ ul.task-list li input[type="checkbox"] {
 <section id="tidymodels" class="level3">
 <h3 class="anchored" data-anchor-id="tidymodels">tidymodels</h3>
 <p>{tidymodels} supports the full modeling workflow, from preprocessing and optimization to evaluation, postprocessing, and prediction. {filtro} fits into the preprocessing and optimization step. It is just one of several packages available, with others complementing different steps of the workflow.</p>
-<p>But, why {tidymodels} instead of {scikit-learn}? I’ve found myself drawn to {scikit-learn} because of Python’s vast machine learning ecosystem, and since I already work with {pytorch}. At the same time, I really appreciate {tidymodels} when I’m working in R. Its syntax feels natural, the workflows are well-structured, and it reflects the kind of statistical rigor and thoughtful design that statisticians and data scientists had been shaping long before “machine learning” became a buzzword. If you want to learn more about {tidymodels}, check it out <a href="https://www.tidymodels.org/packages/">here</a>.</p>
+<p>But, why {tidymodels} instead of {scikit-learn}? I’ve found myself drawn to {scikit-learn} because of Python’s vast machine learning ecosystem, and since I already use {pytorch} for deep learning tasks. At the same time, I really appreciate {tidymodels} when I’m working in R. Its syntax feels natural, the workflows are well-structured, and it reflects the kind of statistical rigor and thoughtful design that statisticians and data scientists had been shaping long before “machine learning” became popular. If you want to learn more about {tidymodels}, check it out <a href="https://www.tidymodels.org/packages/">here</a>.</p>
 <blockquote class="blockquote">
 <p>In a rush? <a href="#onward-upward">Jump to the End</a>.</p>
 </blockquote>
@@ -220,7 +220,7 @@ ul.task-list li input[type="checkbox"] {
 <h2 class="anchored" data-anchor-id="behind-the-scenes">Behind the Scenes</h2>
 <section id="pr-1-all-the-things-all-at-once" class="level3">
 <h3 class="anchored" data-anchor-id="pr-1-all-the-things-all-at-once">PR #1: All the Things, All at Once</h3>
-<p>My first 2 weeks at Posit were packed with learning and collaboration. Max brings deep expertise in modeling, machine learning and software design, and Emil is highly knowledgeable about software development, from Positron (a VS Code–like IDE) and R’s S3 object-oriented programming (OOP), to Posit’s developer tools, Git and GitHub Actions CI/CD. I later realized that Hannah excels at PRs, unit tests, and software design best practices, and I learned a lot from her as well!</p>
+<p>My first 2 weeks at Posit were packed with learning and collaboration. Max brings deep expertise in modeling, machine learning and software design, and Emil is highly knowledgeable about software development, from Positron (a VS Code–like IDE, but better!) and R’s S3 object-oriented programming (OOP), to Posit’s developer tools, Git and GitHub Actions CI/CD. I later realized that Hannah excels at pull requests (PRs), unit tests, and software design best practices, and I learned a lot from her as well!</p>
 <p>One important lesson from Max is that, while it is tempting to jump straight into coding, it’s <em>far</em> more important to step back and think through the software design — often, the real challenge lies in the methodology, not the implementation. Meanwhile, Emil and I did some pair programming, which led to two valuable learning sessions from him:</p>
 <ul>
 <li>“Everything Positron” (Thanks to my advisor Charlotte for already giving me a brief intro! <a href="#fn4" class="footnote-ref" id="fnref4" role="doc-noteref"><sup>4</sup></a>) <br></li>
@@ -230,7 +230,7 @@ ul.task-list li input[type="checkbox"] {
 <section id="s3-oop-brush-up" class="level3">
 <h3 class="anchored" data-anchor-id="s3-oop-brush-up">S3 OOP Brush-Up</h3>
 <p>Prior to this internship, I had little to no prior experience with R’s S3 OOP system. This is because while Xiaotian’s {mtd} <a href="#fn5" class="footnote-ref" id="fnref5" role="doc-noteref"><sup>5</sup></a> package is quite well-organized, it makes minimal use of OOP — though I would argue in defense that the most challenging aspect of extending {mtd} lies more in model development than in software engineering.</p>
-<p>So here I am, pretty much glued to the <em>Advanced R</em> by Hadley and <em>R Packages</em> books by Hadley and Jenny, while poking around {dials}, {yardstick}, {tune} and a few other packages through weeks 1 to 4 to level up my S3 OOP game. (I also glued to <em>Tidy Modeling with R</em> and <em>Applied Predictive Modeling</em>, both authored by Max with other co-authors, but for other reason.)</p>
+<p>So here I am, pretty much glued to the <em>Advanced R</em> by Hadley and <em>R Packages</em> books by Hadley and Jenny, while poking around {dials}, {yardstick}, {tune} and a few other packages through weeks 1 to 4 to level up my S3 OOP game. (I am also glued to <em>Tidy Modeling with R</em> and <em>Applied Predictive Modeling</em>, both authored by Max with other co-authors, but for other reason.)</p>
 </section>
 <section id="a-turning-point" class="level3">
 <h3 class="anchored" data-anchor-id="a-turning-point">A Turning Point</h3>

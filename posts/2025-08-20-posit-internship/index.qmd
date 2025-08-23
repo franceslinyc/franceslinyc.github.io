@@ -16,7 +16,7 @@ My team at tidymodels is responsible for the creation and maintenance of the {ti
 Over the summer, I contributed to: 
 
 - Developing and releasing [filtro](https://filtro.tidymodels.org/dev/), a feature selection package for predictive modeling and ML within the [tidymodels](https://www.tidymodels.org) framework.
-- Writing unit tests, managing Git and GitHub CI/CD, and submitting to CRAN.
+- Writing unit tests, managing Git and GitHub CI/CD, and CRAN submissions.
 - Joining tidy team and tidymodels meetings, gaining insight into collaborative development, code review, and open-source workflows.
 - Building connections and learning across Posit. [^jules]
 
@@ -26,7 +26,7 @@ Over the summer, I contributed to:
 
 Though the internship was entirely remote, I had the pleasure of meeting Jules, the other intern on the Python open-source team, as well as engineers based in Europe and across the U.S. They were all very friendly and generous with tips and guidance.
 
-The most exciting though initially intimidating experience was the monthly tidyteam meeting, where the tidyverse, tidymodels, and r-lib [^rlib] teams all gathered on Zoom once a month. It felt like seeing all the idols at Posit all at once! 
+The most exciting though initially intimidating experience was the monthly tidy team meetings, where the tidyverse, tidymodels, and r-lib [^rlib] teams all gathered on Zoom once a month. It felt like seeing all the idols at Posit all at once! 
 
 I also enjoyed the weekly tidymodels meetings with Max, Emil, Hannah, and Simon. The depth of the team’s *many* packages could be *a lot* to absorb at times, but it offered a glimpse into collaborative software development, the challenges of managing a large ecosystem, and effective communication in open-source environment. Plus, Simon’s work on AI assistance through LLM integration (RAG) was always refreshing to hear. 
 
@@ -47,7 +47,7 @@ At its core, the package allows users to compute and rank feature relevance, the
 
 {tidymodels} supports the full modeling workflow, from preprocessing and optimization to evaluation, postprocessing, and prediction. {filtro} fits into the preprocessing and optimization step. It is just one of several packages available, with others complementing different steps of the workflow.
 
-But, why {tidymodels} instead of {scikit-learn}? I’ve found myself drawn to {scikit-learn} because of Python’s vast machine learning ecosystem, and since I already work with {pytorch}. At the same time, I really appreciate {tidymodels} when I’m working in R. Its syntax feels natural, the workflows are well-structured, and it reflects the kind of statistical rigor and thoughtful design that statisticians and data scientists had been shaping long before "machine learning" became a buzzword. If you want to learn more about {tidymodels}, check it out [here](https://www.tidymodels.org/packages/). 
+But, why {tidymodels} instead of {scikit-learn}? I’ve found myself drawn to {scikit-learn} because of Python’s vast machine learning ecosystem, and since I already use {pytorch} for deep learning tasks. At the same time, I really appreciate {tidymodels} when I’m working in R. Its syntax feels natural, the workflows are well-structured, and it reflects the kind of statistical rigor and thoughtful design that statisticians and data scientists had been shaping long before "machine learning" became popular. If you want to learn more about {tidymodels}, check it out [here](https://www.tidymodels.org/packages/). 
 
 > In a rush? [Jump to the End](#onward-upward).
 
@@ -58,7 +58,7 @@ But, why {tidymodels} instead of {scikit-learn}? I’ve found myself drawn to {s
 
 ### PR #1: All the Things, All at Once
 
-My first 2 weeks at Posit were packed with learning and collaboration. Max brings deep expertise in modeling, machine learning and software design, and Emil is highly knowledgeable about software development, from Positron (a VS Code–like IDE) and R's S3 object-oriented programming (OOP), to Posit's developer tools, Git and GitHub Actions CI/CD. I later realized that Hannah excels at PRs, unit tests, and software design best practices, and I learned a lot from her as well! 
+My first 2 weeks at Posit were packed with learning and collaboration. Max brings deep expertise in modeling, machine learning and software design, and Emil is highly knowledgeable about software development, from Positron (a VS Code–like IDE, but better!) and R's S3 object-oriented programming (OOP), to Posit's developer tools, Git and GitHub Actions CI/CD. I later realized that Hannah excels at pull requests (PRs), unit tests, and software design best practices, and I learned a lot from her as well! 
 
 One important lesson from Max is that, while it is tempting to jump straight into coding, it’s *far* more important to step back and think through the software design — often, the real challenge lies in the methodology, not the implementation. Meanwhile, Emil and I did some pair programming, which led to two valuable learning sessions from him:
 
@@ -71,7 +71,7 @@ One important lesson from Max is that, while it is tempting to jump straight int
 
 Prior to this internship, I had little to no prior experience with R's S3 OOP system. This is because while Xiaotian’s {mtd} [^mtd] package is quite well-organized, it makes minimal use of OOP — though I would argue in defense that the most challenging aspect of extending {mtd} lies more in model development than in software engineering. 
 
-So here I am, pretty much glued to the *Advanced R* by Hadley and *R Packages* books by Hadley and Jenny, while poking around {dials}, {yardstick}, {tune} and a few other packages through weeks 1 to 4 to level up my S3 OOP game. (I also glued to *Tidy Modeling with R* and *Applied Predictive Modeling*, both authored by Max with other co-authors, but for other reason.) 
+So here I am, pretty much glued to the *Advanced R* by Hadley and *R Packages* books by Hadley and Jenny, while poking around {dials}, {yardstick}, {tune} and a few other packages through weeks 1 to 4 to level up my S3 OOP game. (I am also glued to *Tidy Modeling with R* and *Applied Predictive Modeling*, both authored by Max with other co-authors, but for other reason.) 
 
 [^mtd]: This is the package I build upon in my PhD dissertation. See Xiaotian's package at [https://github.com/xzheng42/mtd](https://github.com/xzheng42/mtd). My extended version will be available on GitHub in late December or later. 🤞
 
@@ -127,6 +127,6 @@ And of course:
 
 I look forward to wrapping up these projects and seeing them contribute to the broader tidymodels ecosystem. 
 
-A big thank you to everyone at Posit for an invaluable experience, and special thanks to Max, Emil, Hannah, Simon, and Hadley for their guidance, support, and inspiration throughout this journey.
+A big thank you to everyone at Posit for an invaluable experience, and special thanks to Max, Emil, Hannah, Simon, and Hadley for their guidance, support, and inspiration throughout this journey. 
 
-Thanks for reading this too, and happy to connect!
+Thanks for reading this too, and happy to connect! 
