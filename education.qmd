@@ -7,7 +7,7 @@ title: "Education"
 Oregon State University — Corvallis, OR  <br>
 Sept 2021 – *Expected:* Dec 2025
 
-Dissertation: "Copula-Based Markov MTD Models for Forecasting Positively-Skewed and Zero-Inflated Time Series: Methodology, Applications, and Comparisons with Deep Learning LSTM Networks"
+Dissertation: "Copula-Based Mixture Transition Distribution Models for Forecasting Skewed and Zero-Inflated Time Series: Methodology and Comparisons with Deep Learning LSTM Networks"
 
 Co-Advisors: Dr. Lisa Madsen, Dr. Charlotte Wickham <br> 
 Committee Members: Dr. James Molyneux, Dr. Claudio Fuentes, Dr. Prasad Tadepalli

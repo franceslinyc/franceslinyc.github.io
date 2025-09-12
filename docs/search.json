@@ -18,14 +18,14 @@
     "href": "education.html",
     "title": "Education",
     "section": "",
-    "text": "Oregon State University — Corvallis, OR  Sept 2021 – Expected: Dec 2025\nDissertation: “Copula-Based Markov MTD Models for Forecasting Positively-Skewed and Zero-Inflated Time Series: Methodology, Applications, and Comparisons with Deep Learning LSTM Networks”\nCo-Advisors: Dr. Lisa Madsen, Dr. Charlotte Wickham  Committee Members: Dr. James Molyneux, Dr. Claudio Fuentes, Dr. Prasad Tadepalli"
+    "text": "Oregon State University — Corvallis, OR  Sept 2021 – Expected: Dec 2025\nDissertation: “Copula-Based Mixture Transition Distribution Models for Forecasting Skewed and Zero-Inflated Time Series: Methodology and Comparisons with Deep Learning LSTM Networks”\nCo-Advisors: Dr. Lisa Madsen, Dr. Charlotte Wickham  Committee Members: Dr. James Molyneux, Dr. Claudio Fuentes, Dr. Prasad Tadepalli"
   },
   {
     "objectID": "education.html#phd-in-statistics",
     "href": "education.html#phd-in-statistics",
     "title": "Education",
     "section": "",
-    "text": "Oregon State University — Corvallis, OR  Sept 2021 – Expected: Dec 2025\nDissertation: “Copula-Based Markov MTD Models for Forecasting Positively-Skewed and Zero-Inflated Time Series: Methodology, Applications, and Comparisons with Deep Learning LSTM Networks”\nCo-Advisors: Dr. Lisa Madsen, Dr. Charlotte Wickham  Committee Members: Dr. James Molyneux, Dr. Claudio Fuentes, Dr. Prasad Tadepalli"
+    "text": "Oregon State University — Corvallis, OR  Sept 2021 – Expected: Dec 2025\nDissertation: “Copula-Based Mixture Transition Distribution Models for Forecasting Skewed and Zero-Inflated Time Series: Methodology and Comparisons with Deep Learning LSTM Networks”\nCo-Advisors: Dr. Lisa Madsen, Dr. Charlotte Wickham  Committee Members: Dr. James Molyneux, Dr. Claudio Fuentes, Dr. Prasad Tadepalli"
   },
   {
     "objectID": "education.html#ms-in-statistics",
@@ -46,7 +46,7 @@
     "href": "index.html",
     "title": "Frances Lin",
     "section": "",
-    "text": "📣 Seeking opportunities in data science, machine learning, or AI roles starting in December 2025 or later!\n\nI am a PhD candidate in Statistics at Oregon State University. I am currently a Software Engineer Intern at Posit, PBC (formerly RStudio, Inc).\nOutside of work, I enjoy skiing, traveling, being outdoors, and watching thriller or dark comedy films and series on Netflix."
+    "text": "📣 Seeking opportunities in data science, machine learning, or AI roles starting in December 2025 or later!\n\nI am a PhD candidate in Statistics at Oregon State University. I was previously a Software Engineer Intern at Posit, PBC (formerly RStudio, Inc).\nOutside of work, I enjoy skiing, traveling, being outdoors, and watching thriller or dark comedy films and series on Netflix."
   },
   {
     "objectID": "posts/index.html",
@@ -67,7 +67,7 @@
     "href": "experience.html",
     "title": "Experience",
     "section": "",
-    "text": "June 2025 – Present"
+    "text": "June 2025 – Aug 2025"
   },
   {
     "objectID": "experience.html#posit-pbc-formerly-rstudio-inc.",
@@ -102,7 +102,7 @@
     "href": "about.html#phd",
     "title": "About",
     "section": "PhD",
-    "text": "PhD\nFor my PhD dissertation, advised by Dr. Lisa Madsen and Dr. Charlotte Wickham (now at Posit, PBC), I focus on the Markov MTD (Mixture Transition Distribution) models and the Bayesian NNMP (Nearest-Neighbor Mixture Process) models for time series forecasting and spatial prediction, as developed by Zheng et al. and presented in [1], [2], and [3]. To achieve flexible and scalable modeling of time series and spatial data, both the MTD and NNMP models utilize probabilistic graphical model (DAG or Bayesian network) representations, finite mixture model structures, Bayesian hierarchical model formations, and MCMC algorithms.\nMy specific contributions include incorporating the copulas in the MTD model to capture more complex dependence structures; extending the MTD model to handle zero-inflated positively-skewed data; validating the proposed models and assessing model performance through simulations and real-world data applications; developing a software package for the proposed models (using R, C++); and comparing the proposed models with other benchmark approaches, such as LSTM (Long Short-Term Memory) networks (using PyTorch)."
+    "text": "PhD\nFor my PhD dissertation, advised by Dr. Lisa Madsen and Dr. Charlotte Wickham (now at Posit, PBC), I focus on the Markov MTD (Mixture Transition Distribution) models and the Bayesian NNMP (Nearest-Neighbor Mixture Process) models for time series forecasting and spatial prediction, as developed by Zheng et al. and presented in [1], [2], and [3]. To achieve flexible and scalable modeling of time series and spatial data, both the MTD and NNMP models utilize probabilistic graphical model (DAG or Bayesian network) representations, finite mixture model structures, Bayesian hierarchical model formations, and MCMC algorithms.\nMy specific contributions include incorporating the copulas in the MTD model to capture more complex dependence structures; extending the MTD model to handle zero-inflated skewed data; validating the proposed models and assessing model performance through simulations and real-world data applications; developing a software package for the proposed models (using R, C++); and comparing the proposed models with other benchmark approaches, such as LSTM (Long Short-Term Memory) networks (using PyTorch)."
   },
   {
     "objectID": "about.html#masters",
@@ -242,6 +242,6 @@
     "href": "experience.html#posit-pbc-formerly-rstudio-inc",
     "title": "Experience",
     "section": "",
-    "text": "June 2025 – Present"
+    "text": "June 2025 – Aug 2025"
   }
 ]
