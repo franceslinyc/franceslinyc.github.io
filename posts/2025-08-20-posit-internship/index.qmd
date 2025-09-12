@@ -15,7 +15,7 @@ My team at tidymodels is responsible for the creation and maintenance of the {ti
 
 Over the summer, I contributed to: 
 
-- Developing and releasing [filtro](https://filtro.tidymodels.org/dev/), a feature selection package for predictive modeling and ML within the [tidymodels](https://www.tidymodels.org) framework.
+- Developing and releasing [filtro](https://filtro.tidymodels.org/), a feature selection package for predictive modeling and ML within the [tidymodels](https://www.tidymodels.org) framework.
 - Writing unit tests, managing Git and GitHub CI/CD, and CRAN submissions.
 - Joining tidy team and tidymodels meetings, gaining insight into collaborative development, code review, and open-source workflows.
 - Building connections and learning across Posit. [^jules]
@@ -36,7 +36,7 @@ I also enjoyed the weekly tidymodels meetings with Max, Emil, Hannah, and Simon.
 
 ### filtro 
 
-<a href='https://filtro.tidymodels.org/dev/'><img src='logo.png' align="right" height="139" /></a>
+<a href='https://filtro.tidymodels.org/'><img src='logo.png' align="right" height="139" /></a>
 
 As mentioned earlier, I primarily worked on {filtro}, an R package for filter-based supervised feature selection. Feature selection is important because it helps models prioritize the most relevant information, reducing noise, speeding up computation, and improving performance and interpretability. 
 
@@ -129,4 +129,4 @@ I look forward to wrapping up these projects and seeing them contribute to the b
 
 A big thank you to everyone at Posit for an invaluable experience, and special thanks to Max, Emil, Hannah, Simon, and Hadley for their guidance, support, and inspiration throughout this journey. 
 
-Thanks for reading this too, and happy to connect! 
+Thanks for reading this too!
