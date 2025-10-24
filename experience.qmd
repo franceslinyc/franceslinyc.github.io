@@ -19,7 +19,7 @@ Sep 2021 - Present
 Jan 2021 - Mar 2025
 
 • Provided consulting services across diverse fields, collaborating with faculty members, junior statisticians, and client researchers to support multiple PhD and master's-level research initiatives. <br> 
-• Effectively communicated statistical concepts to non-statistical clients and delivered in-depth reports on topics including simple statistical tests, advanced data modeling, application software (R, Python), experimental design, and data processing and visualization.
+• Effectively communicated statistical concepts to non-statistical clients and delivered in-depth reports on topics including simple statistical tests, advanced data modeling, application software (R, Python), machine learning, and experimental design. 
 
 #### Graduate Teaching Assistant 
 
