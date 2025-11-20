@@ -5,7 +5,7 @@ title: "Education"
 ## PhD in Statistics  
 
 Oregon State University — Corvallis, OR  <br>
-Sept 2021 – *Expected:* Dec 2025
+Sept 2021 – Dec 2025 (*Defended*: Nov 2025)
 
 Dissertation: "Copula-Based Mixture Transition Distribution Models for Forecasting Skewed and Zero-Inflated Time Series: Methodology and Comparisons with Deep Learning LSTM Networks"
 
