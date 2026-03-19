@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.7.34">
+<meta name="generator" content="quarto-1.8.27">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
@@ -32,13 +32,14 @@ ul.task-list li input[type="checkbox"] {
 <meta name="quarto:offset" content="./">
 <script src="site_libs/quarto-html/quarto.js" type="module"></script>
 <script src="site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
+<script src="site_libs/quarto-html/axe/axe-check.js" type="module"></script>
 <script src="site_libs/quarto-html/popper.min.js"></script>
 <script src="site_libs/quarto-html/tippy.umd.min.js"></script>
 <link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting-c8ad9e5dbd60b7b70b38521ab19b7da4.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<link href="site_libs/quarto-html/quarto-syntax-highlighting-ed96de9b727972fe78a7b5d16c58bf87.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap-c1fac2584b48ed01fb6e278e36375074.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<link href="site_libs/bootstrap/bootstrap-5b4ad623e5705c0698d39aec6f10cf02.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -70,7 +71,7 @@ ul.task-list li input[type="checkbox"] {
 
 <link rel="stylesheet" href="styles.css">
 <meta property="og:title" content="Frances Lin – franceslinyc">
-<meta property="og:description" content="PhD candidate in Statistics">
+<meta property="og:description" content="PhD in Statistics; Ex-SWE, ML Intern">
 <meta property="og:image" content="images/profile.jpg">
 <meta property="og:site_name" content="franceslinyc">
 </head>
@@ -135,7 +136,7 @@ ul.task-list li input[type="checkbox"] {
       <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
 <h1 class="title">Frances Lin</h1>
-<p class="subtitle lead">PhD candidate in Statistics</p>
+<p class="subtitle lead">PhD in Statistics; Ex-SWE, ML Intern</p>
 </div>
 <div class="quarto-title-meta">
   </div>
@@ -151,9 +152,9 @@ ul.task-list li input[type="checkbox"] {
 </div>
       <div class="about-contents"><main class="content" id="quarto-document-content">
 <blockquote class="blockquote">
-<p>📣 Seeking opportunities in data science, machine learning, or AI roles starting in December 2025 or later!</p>
+<p>📣 Seeking opportunities in data science, machine learning, or AI roles starting in Feb 2026 or later!</p>
 </blockquote>
-<p>I am a PhD candidate in Statistics at Oregon State University. I was previously a Software Engineer Intern at <a href="https://posit.co">Posit, PBC</a> (formerly RStudio, Inc).</p>
+<p>I hold a PhD in Statistics from Oregon State University. I was previously a Software Engineer Intern at <a href="https://posit.co">Posit, PBC</a> (formerly RStudio, Inc).</p>
 <p>Outside of work, I enjoy skiing, traveling, being outdoors, and watching thriller or dark comedy films and series on Netflix.</p>
 
 
@@ -208,13 +209,14 @@ ul.task-list li input[type="checkbox"] {
       e.clearSelection();
     }
     const getTextToCopy = function(trigger) {
-        const codeEl = trigger.previousElementSibling.cloneNode(true);
-        for (const childEl of codeEl.children) {
-          if (isCodeAnnotation(childEl)) {
-            childEl.remove();
-          }
+      const outerScaffold = trigger.parentElement.cloneNode(true);
+      const codeEl = outerScaffold.querySelector('code');
+      for (const childEl of codeEl.children) {
+        if (isCodeAnnotation(childEl)) {
+          childEl.remove();
         }
-        return codeEl.innerText;
+      }
+      return codeEl.innerText;
     }
     const clipboard = new window.ClipboardJS('.code-copy-button:not([data-in-quarto-modal])', {
       text: getTextToCopy

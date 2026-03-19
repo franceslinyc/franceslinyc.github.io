@@ -12,7 +12,7 @@ Dissertation: "Copula-Based Mixture Transition Distribution Models for Forecasti
 Co-Advisors: Dr. Lisa Madsen, Dr. Charlotte Wickham <br> 
 Committee Members: Dr. James Molyneux, Dr. Claudio Fuentes, Dr. Prasad Tadepalli
 
-[presentation](https://franceslinyc.github.io/phd-dissertation-slides/#/copula-based-mixture-transition-distribution-models-for-forecasting-skewed-and-zero-inflated-time-series-methodology-and-comparisons-with-deep-learning-lstm-networks) [(source)](https://github.com/franceslinyc/phd-dissertation-slides) dissertation (source)
+[presentation](https://franceslinyc.github.io/phd-dissertation-slides/#/copula-based-mixture-transition-distribution-models-for-forecasting-skewed-and-zero-inflated-time-series-methodology-and-comparisons-with-deep-learning-lstm-networks) [(source)](https://github.com/franceslinyc/phd-dissertation-slides) [dissertation](https://ir.library.oregonstate.edu/concern/graduate_thesis_or_dissertations/2f75rj22h) [(source)](https://github.com/franceslinyc/phd-dissertation-tsforecasting-stat-ai-2025)
 
 
 

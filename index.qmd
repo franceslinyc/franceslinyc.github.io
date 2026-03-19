@@ -1,6 +1,6 @@
 ---
 title: "Frances Lin"
-subtitle: "PhD candidate in Statistics"
+subtitle: "PhD in Statistics; Ex-SWE, ML Intern"
 image: images/profile.jpg
 about:
   template: solana
@@ -13,8 +13,8 @@ about:
       href: https://www.linkedin.com/in/franceslinyc/
 ---
 
-> 📣 Seeking opportunities in data science, machine learning, or AI roles starting in December 2025 or later!
+> 📣 Seeking opportunities in data science, machine learning, or AI roles starting in Feb 2026 or later!
 
-I am a PhD candidate in Statistics at Oregon State University. I was previously a Software Engineer Intern at [Posit, PBC](https://posit.co) (formerly RStudio, Inc).
+I hold a PhD in Statistics from Oregon State University. I was previously a Software Engineer Intern at [Posit, PBC](https://posit.co) (formerly RStudio, Inc).
 
 Outside of work, I enjoy skiing, traveling, being outdoors, and watching thriller or dark comedy films and series on Netflix.

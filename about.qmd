@@ -7,7 +7,7 @@ about:
 
 Thanks for visiting my site! 
 
-I am a PhD candidate in Statistics at Oregon State University. Broadly speaking, my research interests lie in
+I hold a PhD in Statistics from Oregon State University. Broadly speaking, my research interests lie in
 
 - predictive modeling  <br>
 - computational statistics  <br>
